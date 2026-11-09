@@ -1,0 +1,76 @@
+# 羽岚生图提示词3 ·「添盏」高质骨架与八大古风新装衍生辑
+# 核心锚点（单侧拢肩发 + 添盏原式骨架）：
+#   1. 发型锁定：(light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs，将微卷霜青长发全数拢向一侧胸前，完整展露另一侧修长颈肩与锁骨线条，同时剔除易触发鳞片与双发包污染的标签。
+#   2. 面容与肤色：(plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (fair skin:1.1)，保留微丰鹅蛋脸、天然红晕与不施粉黛的温润感。
+#   3. 眼神与微表情：(amber-gold eyes:1.3)；SFW 采用 gentle innocent smile, warm soft gaze（温软纯真浅笑）；NSFW 采用 half-closed eyes, drowsy bewildered smile, innocent sensual gaze（半阖迷蒙、不自知的娇憨媚意）。
+#   4. 构图与背景：零手持硬道具 + 1.3 权重素青系古风衣装 + 腰间旧红绳 faded red string at waist + 微倾凑脸体态 leaning forward slightly + 纯黑背景 (plain black background, solid black background:1.4), simple background。
+
+# ==========================================
+# 第一部分：「添盏」原式与八大古风新装衍生式
+# ==========================================
+
+# 原式基准 · 添盏（大袖披帛 · 微倾揖客）
+羽岚_添盏原式_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (celadon wide-sleeve robe with pibo:1.3), wide sleeves, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_添盏原式_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, undone (celadon wide-sleeve robe with pibo:1.3), off shoulder, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生一式 · 青绡叠纱（抹胸罩素纱 · 微侧倾身）
+羽岚_青绡叠纱_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (celadon silk bandeau top under sheer white gauze outer robe:1.3), wide sleeves, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_青绡叠纱_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, slipping (celadon silk bandeau top under open sheer white gauze robe:1.3), off shoulder, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生二式 · 银锦束腰（软甲束腰劲装 · 托胸显峰）
+羽岚_银锦束腰_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (celadon cross-collar top with silver-embroidered white waist corset:1.3), narrow sleeves, fitted waist, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_银锦束腰_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, undone (celadon top with unfastened silver-embroidered waist corset:1.3), open chest, off shoulder, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生三式 · 立领比甲（高领银扣无袖 · 削肩玉臂）
+羽岚_立领比甲_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), bare shoulders, (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (sleeveless celadon brocade vest with high stand collar and silver chinese knot clasps:1.3), fitted bodice, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_立领比甲_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, bare shoulders, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, unbuttoned (sleeveless celadon brocade vest with high stand collar:1.3), open front, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生四式 · 斜襟偏衫（半露单肩锁骨 · 侧首垂眸）
+羽岚_斜襟偏衫_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), one bare shoulder, collarbone, (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (asymmetric diagonal-collar celadon silk robe:1.3), wide sleeves, silver trim, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_斜襟偏衫_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, undone (asymmetric diagonal-collar celadon silk robe:1.3), slipped off shoulders, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生五式 · 霜狐大氅（蓬松白裘拥雪 · 慵软拢肩）
+羽岚_霜狐大氅_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (celadon silk robe with thick fluffy white fur collar:1.3), wide sleeves, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_霜狐大氅_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, open (celadon silk cloak with thick fluffy white fur collar:1.3), off shoulder, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生六式 · 璎珞华裳（银玉珠链垂胸 · 深U礼服）
+羽岚_璎珞华裳_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (low-cut celadon silk robe with ornate silver and jade bead necklace chains on chest:1.3), wide sleeves, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_璎珞华裳_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, undone (celadon silk robe:1.3), (ornate silver and jade bead chains draped over bare breasts:1.2), off shoulder, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生七式 · 银绣诃子（盛唐重工胸衣 · 丰腴托峰）
+羽岚_银绣诃子_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (silver-embroidered celadon strapless bustier hanfu with wide silk sleeves:1.3), faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_银绣诃子_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, pulled-down (silver-embroidered celadon strapless bustier hanfu:1.3), off shoulder, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生八式 · 鲛绡湿衣（微潮贴肤青纱 · 溪露夜酌）
+羽岚_鲛绡湿衣_sfw:
+  1girl, solo, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, (damp celadon silk robe clinging to body:1.3), wide sleeves, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_鲛绡湿衣_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered smile, innocent sensual gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, undone (wet sheer celadon silk robe clinging to skin:1.3), off shoulder, faded red string at waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+负面提示词:
+  (worst quality, low quality, normal quality, caucasian:1), (scales, dragon scales, reptile scales, snake scales:1.4), (double buns, twin buns, odango:1.3), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, loli, young girl, flat chest, small breasts, modern clothes, sci-fi, (blonde hair, black hair, pink hair, white hair:1.3), (cat eyes, feline eyes, cat pupils:1.5), (makeup, lipstick, heavy makeup:1.2), complex background, detailed background

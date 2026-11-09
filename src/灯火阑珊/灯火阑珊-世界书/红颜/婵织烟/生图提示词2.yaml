@@ -1,0 +1,158 @@
+# 婵织烟（坏女人）生图提示词2 ·「添盏」高质骨架衍生古风华服辑 + 新中式特辑
+# 核心发现（「添盏」出图质感极佳的四大锚点，本辑衍生款逐字复用该骨架）：
+#   1. 发型黄金配比：(dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2) —— 不强塞额外分缝词，让画师串自然生成最柔顺的露额中分半束长发。
+#   2. 肤色与微血色：(fair skin:1.1) —— 耳尖微红完美中和冷白皮的苍白感，令面容白里透粉、通透鲜活。
+#   3. 眼神与微表情：SFW 用 polite composed smile, calculating gaze（礼貌端方浅笑+眼底算计）；NSFW 用 half-closed eyes, elegant facade crumbling, seductive smirk（体面崩塌+半阖媚眼）。
+#   4. 零手持硬道具 + 1.3 权重紫系古风衣装 + 微倾/支颐等自然体态，彻底杜绝手指崩坏与背景污染。
+
+# ==========================================
+# 第一部分：「添盏」原式与八大古风新装衍生式
+# ==========================================
+
+# 原式基准 · 添盏（大袖披帛 · 微倾揖客）
+婵织烟_添盏原式_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (dark purple wide-sleeve robe with pibo:1.3), wide sleeves, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_添盏原式_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, undone (dark purple wide-sleeve robe with pibo:1.3), off shoulder, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生一式 · 紫绡叠纱（抹胸罩玄纱 · 微侧倾身）
+婵织烟_紫绡叠纱_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (dark purple silk bandeau top under sheer black gauze outer robe:1.3), wide sleeves, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_紫绡叠纱_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, slipping (dark purple silk bandeau top under open sheer black gauze robe:1.3), off shoulder, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生二式 · 乌金束腰（软甲束腰劲装 · 托胸显峰）
+婵织烟_乌金束腰_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (dark purple cross-collar top with black gold-embroidered waist corset:1.3), narrow sleeves, fitted waist, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_乌金束腰_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, undone (dark purple top with unfastened black gold waist corset:1.3), open chest, off shoulder, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生三式 · 立领比甲（高领金扣无袖 · 削肩玉臂）
+婵织烟_立领比甲_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), bare shoulders, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (sleeveless dark purple brocade vest with high stand collar and gold chinese knot clasps:1.3), fitted bodice, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_立领比甲_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, bare shoulders, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, unbuttoned (sleeveless dark purple brocade vest with high stand collar:1.3), open front, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生四式 · 斜襟偏衫（半露单肩锁骨 · 侧首垂眸）
+婵织烟_斜襟偏衫_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), one bare shoulder, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (asymmetric diagonal-collar dark purple silk robe:1.3), wide sleeves, dark gold trim, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_斜襟偏衫_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, undone (asymmetric diagonal-collar dark purple silk robe:1.3), slipped off shoulders, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生五式 · 玄狐大氅（蓬松狐裘拥雪 · 慵贵拢肩）
+婵织烟_玄狐大氅_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), very long hair, long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (dark purple silk robe with thick fluffy black fur collar:1.3), wide sleeves, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_玄狐大氅_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), very long hair, long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, open (dark purple silk cloak with thick fluffy black fur collar:1.3), off shoulder, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生六式 · 璎珞华裳（乌金珠玉垂胸 · 深U礼服）
+婵织烟_璎珞华裳_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (low-cut dark purple silk robe with ornate gold and purple gem necklace chains on chest:1.3), wide sleeves, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_璎珞华裳_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, undone (dark purple silk robe:1.3), (ornate gold and purple gem chains draped over bare breasts:1.2), off shoulder, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生七式 · 金绣诃子（盛唐重工胸衣 · 丰腴托峰）
+婵织烟_金绣诃子_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (gold-embroidered dark purple strapless bustier hanfu with wide silk sleeves:1.3), leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_金绣诃子_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, pulled-down (gold-embroidered dark purple strapless bustier hanfu:1.3), off shoulder, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 衍生八式 · 鲛绡湿衣（微潮贴肤紫纱 · 水榭夜酌）
+婵织烟_鲛绡湿衣_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), polite composed smile, calculating gaze, looking at viewer, voluptuous body, gigantic breasts, (damp dark purple silk robe clinging to body:1.3), wide sleeves, leaning forward slightly, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_鲛绡湿衣_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), half-closed eyes, elegant facade crumbling, seductive smirk, looking at viewer, gigantic breasts, nipples, undone (wet sheer dark purple silk robe clinging to skin:1.3), off shoulder, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 第二部分：新中式与异域改良款（自由构图）
+# ==========================================
+
+# 九式 · 水墨广袖旗袍（白底黑边修身短旗袍 · 灰染半透广袖）
+婵织烟_水墨广袖旗袍_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, red hair ribbon:1.2), (fair skin:1.1), upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (fitted white qipao mini dress with black trim:1.3), stand collar, black chinese knot clasps, (flared sheer grey patterned wide sleeves:1.3), (grey and black tie-dye pleated skirt panels:1.2), dangling tassels, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_水墨广袖旗袍_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, red hair ribbon:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, undone (white qipao mini dress with black trim:1.3), unfastened collar, open chest, exposed breasts, (flared sheer grey patterned wide sleeves:1.2), (grey and black tie-dye pleated short skirt:1.2), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 十式 · 苗蛊刺绣抹胸裙（紫红刺绣抹胸 · 渐变分离水袖 · 挂链低腰长裙）
+婵织烟_苗蛊刺绣抹胸裙_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), bare shoulders, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (embroidered dark magenta strapless bandeau crop top:1.4), (ornate gold and purple gem chest chains:1.3), (detached sheer purple-to-slate-blue gradient wide sleeves:1.3), bare midriff, navel, (low-rise layered sheer purple gradient long skirt:1.3), purple floral waist ornaments, dangling gold waist chains, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_苗蛊刺绣抹胸裙_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, (embroidered dark magenta bandeau top pulled down:1.3), (ornate gold and purple gem chest chains draped over bare breasts:1.3), (detached sheer purple-to-slate-blue gradient wide sleeves:1.3), bare midriff, navel, (low-rise sheer purple gradient skirt:1.3), dangling gold waist chains, dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 第三部分：丝袜玉足 × 清凉古风特辑（无吊带 · 不限视角）
+# ==========================================
+
+# 十一式 · 连体透黑丝 × 半透紫纱罩衫
+婵织烟_连体黑丝紫纱_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (sheer black bodystocking:1.3), (loose translucent purple gauze hanfu robe:1.3), wide sleeves, off shoulder, no shoes, (black stocking-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_连体黑丝紫纱_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, (torn sheer black bodystocking:1.3), exposed breasts, (open translucent purple gauze robe:1.2), off shoulder, no shoes, (black stocking-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 十二式 · 紫绸肚兜 × 黑丝玉足
+婵织烟_紫绸肚兜黑丝_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), bare shoulders, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (dark purple silk dudou apron top:1.3), bare midriff, sheer purple silk shawl over arms, (plain sheer black thighhighs, smooth band, no lace:1.3), no shoes, (black stocking-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_紫绸肚兜黑丝_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), bare shoulders, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, untied (dark purple silk dudou slipping down:1.3), exposed breasts, sheer purple shawl, (plain sheer black thighhighs, smooth band, no lace:1.3), no shoes, (black stocking-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 十三式 · 无袖高衩短旗袍 × 黑丝连裤袜玉足
+婵织烟_短旗袍黑丝_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), bare shoulders, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (sleeveless dark purple silk micro qipao:1.3), high collar, high side slit, (sheer black pantyhose:1.3), no shoes, (black pantyhose-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_短旗袍黑丝_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), bare shoulders, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, undone (sleeveless dark purple silk micro qipao:1.3), open chest, exposed breasts, (ripped sheer black pantyhose:1.3), no shoes, (black pantyhose-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 十四式 · 半透白纱短衫 × 黑丝玉足
+婵织烟_白纱短衫黑丝_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (cropped sheer white gauze hanfu top:1.3), deep V-neck, wide sleeves, (plain sheer black thighhighs, smooth band, no lace:1.3), no shoes, (black stocking-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_白纱短衫黑丝_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, open (cropped sheer white gauze hanfu top:1.3), exposed breasts, (plain sheer black thighhighs, smooth band, no lace:1.3), no shoes, (black stocking-covered feet, sheer toes:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 第四部分：微透肉白丝玉足 × 古风撞色特辑（平口无蕾丝 · 不限视角）
+# ==========================================
+
+# 十五式 · 深紫丝绸肚兜 × 微透肉平口白丝玉足
+婵织烟_紫肚兜透肉白丝_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), bare shoulders, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (dark purple silk dudou apron top:1.3), bare midriff, sheer purple silk shawl over arms, (semi-transparent sheer white thighhighs, skin faintly visible through white stockings, smooth band, no lace:1.3), no shoes, (sheer white stocking-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_紫肚兜透肉白丝_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), bare shoulders, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, untied (dark purple silk dudou slipping down:1.3), exposed breasts, sheer purple shawl, (semi-transparent sheer white thighhighs, skin faintly visible through white stockings, smooth band, no lace:1.3), no shoes, (sheer white stocking-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 十六式 · 暗紫高开衩短旗袍 × 微透肉白丝连裤袜玉足
+婵织烟_紫短旗袍透肉白丝_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), bare shoulders, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (sleeveless dark purple silk micro qipao:1.3), high collar, high side slit, (semi-transparent sheer white pantyhose, skin faintly visible through sheer white fabric:1.3), no shoes, (sheer white pantyhose-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_紫短旗袍透肉白丝_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), bare shoulders, collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, undone (sleeveless dark purple silk micro qipao:1.3), open chest, exposed breasts, (torn semi-transparent sheer white pantyhose, skin faintly visible:1.3), no shoes, (sheer white pantyhose-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 十七式 · 连体微透肉白丝 × 玄紫半透广袖纱衣
+婵织烟_连体透肉白丝紫纱_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (semi-transparent sheer white bodystocking, skin tone faintly showing through:1.3), (loose translucent dark purple gauze hanfu robe:1.3), wide sleeves, off shoulder, no shoes, (sheer white stocking-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_连体透肉白丝紫纱_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, (torn semi-transparent sheer white bodystocking, skin tone showing through:1.3), exposed breasts, (open translucent dark purple gauze robe:1.2), off shoulder, no shoes, (sheer white stocking-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+# 十八式 · 暗紫交领露腰短衫 × 微透肉平口白丝玉足
+婵织烟_紫短衫透肉白丝_sfw:
+  1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, voluptuous body, gigantic breasts, (cropped dark purple silk hanfu top:1.3), deep V-neck, wide sleeves, bare midriff, (semi-transparent sheer white thighhighs, skin faintly visible through white stockings, smooth band, no lace:1.3), no shoes, (sheer white stocking-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+婵织烟_紫短衫透肉白丝_nsfw:
+  nsfw, nude, sweating, 1girl, solo, mature female, (dark magenta-purple hair:1.3), long glossy hair, (center-parted hair, half updo, forehead visible:1.2), damp hair strands on neck, (fair skin:1.1), collarbone, upturned phoenix eyes, (purple-red eyes:1.2), (mole under right eye:1.2), looking at viewer, gigantic breasts, nipples, open (cropped dark purple silk hanfu top:1.3), exposed breasts, (semi-transparent sheer white thighhighs, skin faintly visible through white stockings, smooth band, no lace:1.3), no shoes, (sheer white stocking-covered feet, pink toes faintly visible:1.3), dim warm lighting, (plain black background, solid black background:1.4), simple background
+
+负面提示词:
+  (worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, milf, muscular, colored skin, modern clothes, sci-fi

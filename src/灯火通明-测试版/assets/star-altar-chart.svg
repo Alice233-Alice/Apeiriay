@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" preserveAspectRatio="none">
+  <defs>
+    <filter id="starGlow" x="-400%" y="-400%" width="800%" height="800%"><feGaussianBlur stdDeviation="4"/></filter>
+    <radialGradient id="aura">
+      <stop stop-color="#4bc6b7" stop-opacity=".13"/>
+      <stop offset=".48" stop-color="#245c66" stop-opacity=".035"/>
+      <stop offset="1" stop-color="#06121c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <ellipse cx="1318" cy="145" rx="350" ry="260" fill="url(#aura)"/>
+  <ellipse cx="188" cy="690" rx="350" ry="260" fill="url(#aura)" opacity=".7"/>
+
+  <!-- 两枚截断的仪轨停留在角落。 -->
+  <g fill="none" stroke="#55cbbb" opacity=".16">
+    <circle cx="1455" cy="137" r="235" stroke-width="2"/>
+    <circle cx="1455" cy="137" r="181" stroke-width="1.5"/>
+    <circle cx="1455" cy="137" r="118" stroke-width="1"/>
+    <path d="M1228 76A235 235 0 0 1 1517 364M1280 270A181 181 0 0 1 1541-19" stroke-width="3" opacity=".6"/>
+    <circle cx="143" cy="711" r="217" stroke-width="2"/>
+    <circle cx="143" cy="711" r="154" stroke-width="1"/>
+    <path d="M-63 644A217 217 0 0 1 328 584M-9 789A154 154 0 0 1 252 610" stroke-width="3" opacity=".55"/>
+  </g>
+  <g fill="none" stroke="#c8a55f" opacity=".2">
+    <path d="M1304 0l151 137 145 75M1380 0l75 137-20 205" stroke-width="2"/>
+    <path d="M0 620l143 91 191 89M0 760l143-49 117-150" stroke-width="2"/>
+  </g>
+
+  <!-- 星线只沿页面边缘延伸。 -->
+  <g fill="none" stroke="#7ccfc4" stroke-width="1.5" opacity=".17">
+    <path d="M56 134l82-42 76 61 91-28M1296 559l72-44 69 57 92-23"/>
+    <path d="M79 282l56 38 72-21M1384 396l61-36 74 32"/>
+  </g>
+  <g fill="#d4b36e">
+    <circle cx="56" cy="134" r="3"/><circle cx="138" cy="92" r="2"/><circle cx="214" cy="153" r="3"/><circle cx="305" cy="125" r="2"/>
+    <circle cx="1296" cy="559" r="2"/><circle cx="1368" cy="515" r="3"/><circle cx="1437" cy="572" r="2"/><circle cx="1529" cy="549" r="3"/>
+  </g>
+  <g fill="#55d0bf">
+    <circle cx="135" cy="320" r="2.5"/><circle cx="1455" cy="137" r="3.5"/><circle cx="143" cy="711" r="3"/>
+    <circle cx="1262" cy="241" r="2"/><circle cx="1535" cy="312" r="2"/>
+  </g>
+  <g fill="#55d0bf" filter="url(#starGlow)" opacity=".45">
+    <circle cx="1455" cy="137" r="10"/><circle cx="143" cy="711" r="9"/><circle cx="1368" cy="515" r="8"/>
+  </g>
+
+  <!-- 稀疏星尘。 -->
+  <g fill="#b7ded8" opacity=".38">
+    <circle cx="382" cy="76" r="1.3"/><circle cx="488" cy="188" r="1"/><circle cx="615" cy="104" r="1.2"/><circle cx="748" cy="232" r="1"/>
+    <circle cx="874" cy="91" r="1.2"/><circle cx="1002" cy="174" r="1"/><circle cx="1136" cy="80" r="1.4"/>
+    <circle cx="407" cy="621" r="1"/><circle cx="552" cy="708" r="1.3"/><circle cx="704" cy="595" r="1"/><circle cx="861" cy="723" r="1.2"/>
+    <circle cx="1013" cy="628" r="1"/><circle cx="1165" cy="695" r="1.4"/>
+  </g>
+  <path d="M235 650C566 567 925 609 1328 493" fill="none" stroke="#55cbbb" stroke-width="2" opacity=".055"/>
+</svg>

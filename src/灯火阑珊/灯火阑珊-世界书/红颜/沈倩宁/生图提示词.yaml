@@ -1,0 +1,256 @@
+# 沈倩宁生图提示词 (Illustrious 底模适配，danbooru 标签风格)
+# 核心特征：16岁魔道小少女、血珀殷红长发带霜白挑染（deep crimson hair with white streaks）、赤瞳、苍白瓷面、甜而危险的癫狂笑意、玄红窄袖劲装、绯红发带、骨柄短刃
+# 设计理念：真性无伪的蚀月血海宗魔女，幼态少女身量与猎食者的松弛并存，笑意越甜下手越狠
+# 编写原则：精简聚焦，每式 SFW/NSFW 配套，发色采用已实测成功的复合短语句式，风格词用 dark fantasy + moody lighting
+# ⚠️ 发色写法：一律 (deep crimson hair with white streaks:1.3)
+#    复合短语句式，主色嵌入短语内、挑染作附属修饰，模型不会把白抬成主体（实测成功，与朔璃鸢黑发白挑染同原理）
+#    禁止 fading 渐变句式（红白 fading 模型渲染不稳，易出黑红或白主体），禁止把发色拆成独立标签
+# ⚠️ 少女感：一律带 (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2)，负面词钉死 mature 系标签
+# ⚠️ NSFW：坦荡越界路线，衣带自己解、笑仍甜疯；禁 heavy blush / glistening skin / 半阖媚眼等油腻套路
+# 以下提示词皆为虚拟，请勿当真
+
+半身特写_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (dark red and black silk martial outfit:1.3), narrow sleeves, fitted clothes, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+半身特写_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking up at viewer, (dark red and black silk martial outfit:1.3) open clothes, (sash untied, top loosened by her own hand:1.2), exposed collarbone, bare shoulders, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+基础立绘_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, full body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, standing, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (dark red and black silk martial outfit:1.3), narrow sleeves, fitted clothes, short boots, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+基础立绘_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, full body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, standing, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (dark red and black silk martial outfit:1.3) open clothes, (sash untied, top loosened by her own hand:1.2), exposed collarbone, bare shoulders, short boots, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+头像_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, face focus, close up, (16 years old:1.3), young girl, teenager, (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), loose strands, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), beautiful detailed eyes, eye focus, pale skin, parted lips, sweet smile, playful predatory gaze, looking at viewer, faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+头像_nsfw:
+  nsfw, nude, faint blush, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, face focus, close up, (16 years old:1.3), young girl, teenager, (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), loose strands, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), beautiful detailed eyes, eye focus, pale skin, parted lips, (sweet smile:1.2), playful predatory gaze, bright eyes, looking at viewer, faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 定制古风服饰三式：upper body 构图，纯色黑白背景，锚点全部沿用
+# 第一式：血珀祭衣 —— 暗红大袖祭服，祭月礼装
+# 色气来源：祭服本是最庄重的规矩，她穿得端端正正，腰封却松松垮垮，衣领滑向一侧，露出一截苍白锁骨。庄与狂同框。
+# 配色：暗红祭服·玄底暗纹｜绯红发带｜红发白挑染｜赤瞳｜纯白底
+# ==========================================
+
+沈倩宁_血珀祭衣_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful gaze, (dark crimson ceremonial robe:1.4), (dark silk with subtle pattern:1.2), wide sleeves, (loose sash, collar slipping to one side:1.3), bare collarbone, (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_血珀祭衣_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (dark crimson ceremonial robe:1.4) open clothes, (sash untied, robe slipping off one shoulder:1.3), bare shoulder, collarbone, (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第一式-暗红版：血珀祭衣 · 玄红 —— 真正的暗红祭服，纯黑底
+# 色气来源：与原版同一件祭衣，只是色相归位。玄红大袖在黑底上沉下去，像凝了一层干涸的血珀。
+# 写法说明：ceremonial robe 在模型中天然偏白色祭服，原白底版被带偏成白衣（效果佳，保留）。本版以红色双标签高权重压色，改纯黑底衬托，防止再被带白。
+# 配色：玄红祭服·暗纹｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_血珀祭衣_玄红_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful gaze, (dark crimson ceremonial robe:1.5), (blood red silk robe:1.4), (crimson embroidered pattern:1.2), wide sleeves, (loose sash, collar slipping to one side:1.3), bare collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_血珀祭衣_玄红_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, clean skin, plain chest, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (dark crimson silk robe:1.5) open clothes, (sash untied, robe slipping off one shoulder:1.3), (plain silk, no pattern, no embroidery:1.3), bare shoulder, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第二式：素雪束衣 —— 白绫窄袖短打，束腰贴身
+# 色气来源：白发挑染、苍白肤、白衣，三层白叠在一起，赤瞳与唇是唯二的血色。衣带系得紧，她自己却漫不经心，俯身或抬手时束腰便松一分。
+# 配色：白绫短打·素色束腰｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_素雪束衣_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful gaze, (white silk fitted short jacket:1.4), (white hanfu top:1.2), narrow sleeves, (cinched waist sash:1.2), (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_素雪束衣_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (white silk fitted short jacket:1.4) open clothes, (sash loosened by her own hand:1.3), bare shoulders, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第三式：桃夭纱裙 —— 浅绯薄纱襦裙，桃粉大袖
+# 色气来源：灼灼其华本为桃花。粉纱裹着苍白少女，白发挑染落于粉衣，像雪压桃花。甜到发腻，偏手里还转着骨柄短刃。
+# 配色：浅绯纱裙·桃粉大袖｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_桃夭纱裙_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, clean skin, sweet smile, playful gaze, (pale pink sheer silk hanfu:1.4), (peach pink sheer silk robe:1.3), wide flowing sleeves, (slightly translucent fabric:1.2), (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_桃夭纱裙_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, clean skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (pale pink sheer silk hanfu:1.4) open clothes, (sheer fabric slipping off one shoulder:1.3), (see-through translucent chiffon:1.2), bare shoulder, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第四式：玄墨烬纱（纯黑夜行与透肤反差）
+# 色气来源：大面积墨黑与薄透黑纱裹住苍白身躯，动作起落间黑纱滑落，露出冷白锁骨与纤细腰肢，赤瞳与霜白挑染愈显锋芒。
+# 配色：玄墨烬纱·暗金暗纹｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_玄墨烬纱_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, clean skin, sweet smile, playful gaze, (sheer black silk hanfu:1.4), (translucent black sheer silk robe:1.3), narrow sleeves, (exposed collarbone, bare shoulders:1.2), (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_玄墨烬纱_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, clean skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (sheer black silk hanfu:1.4) open clothes, (translucent black sheer silk robe:1.3), (sheer silk slipping off one shoulder:1.3), bare shoulder, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第五式：炽金大袖（猎食者华丽战袍）
+# 色气来源：南炎火底宗门盛装，大袖外敞。华贵重工的炽金大袍松垮挂在臂弯，内衬极简赤红抹胸，单薄冷白肩背尽显。
+# 配色：炽红金纹大袍·炽金绳结｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_炽金大袖_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful gaze, (crimson and gold ceremonial robe:1.4), (gold embroidery:1.2), wide sleeves, (robe slipping off shoulders:1.2), bare collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_炽金大袖_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (crimson and gold ceremonial robe:1.4) open clothes, (robe slipping completely off shoulders:1.3), bare shoulders, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第六式：月影寝衣（极度松弛的私密反差）
+# 色气来源：单层薄丝交领寝衣，衣带随意松挽。红发白挑染散落单薄月白衣襟，毫不设防间透着天然的危险与侵略感。
+# 配色：月白薄丝寝衣·素色系带｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_月影寝衣_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful gaze, (loose white silk nightgown:1.4), (white sleeping robe:1.3), loose collar, (untied sash, relaxed clothes:1.2), bare collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_月影寝衣_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (loose white silk nightgown:1.4) open clothes, (robe wide open by her own hand:1.3), bare shoulders, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第七式：猩红短襦（病娇戏谑的伶人短装）
+# 色气来源：短襦剪裁露出平坦纤细小腹，领口红绳交错系结。甜美精致如偶人，转手便是血海杀招。
+# 配色：猩红短襦·红绳束领｜绯红发带｜红发白挑染｜赤瞳｜纯白底
+# ==========================================
+
+沈倩宁_猩红短襦_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful gaze, (cropped crimson silk top:1.4), (red laced cord on collar:1.2), narrow sleeves, bare midriff, (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_猩红短襦_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (cropped crimson silk top:1.4) open clothes, (top pulled open by her own hand:1.3), bare midriff, bare shoulder, collarbone, (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第八式：寒潭水绡（薄如蝉翼的清冷反差）
+# 色气来源：极薄透光的淡青水色鲛绡，与南炎血海体质构成水火冲撞。甜疯魔女换上清冷仙气薄衫的违和色气。
+# 配色：透光淡青水绡·冰蓝丝绦｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_寒潭水绡_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, clean skin, sweet smile, playful gaze, (translucent ice-blue sheer silk robe:1.4), (see-through silk fabric:1.3), flowing sleeves, bare shoulders, bare collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_寒潭水绡_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, clean skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (translucent ice-blue sheer silk robe:1.4) open clothes, (sheer blue silk slipping off shoulders:1.3), bare shoulders, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第十三式：血海红嫁（魔道少女之结发花嫁）
+# 色气来源：中式大红凤冠吉服混搭极薄喜纱，繁复喜袍穿得松散随意，薄纱喜盖掀起挂在发间。十六岁魔女认定你为同参道契，坦坦荡荡笑着用喜绸缠紧你，甜疯与执念同框。
+# 配色：大红金纹喜服·透光红喜纱｜赤红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_血海红嫁_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (flat chest, small breasts:1.3), (round face:1.3), (big eyes:1.2), slender body, thin arms, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson bridal hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, (chinese wedding dress:1.4), (red bridal robe, gold embroidery:1.3), (translucent red bridal veil pushed back:1.2), wide sleeves, (loose bridal robe, collar slipping to one side:1.3), bare collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+沈倩宁_血海红嫁_nsfw:
+  nsfw, topless, bare breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (flat chest, small breasts:1.3), (nipples:1.2), (round face:1.3), (big eyes:1.2), slender body, thin arms, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson bridal hair ribbon:1.2), (dark red eyes:1.2), beautiful detailed eyes, pale skin, (clean skin:1.3), (sweet smile:1.1), playful predatory gaze, no bra, (chinese wedding dress:1.4) open clothes, (red bridal robe, gold embroidery:1.3), (robe slipping off shoulders:1.3), (translucent red bridal veil pushed back:1.3), bare shoulders, collarbone, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第十四式：飞蛾玄纱（玄黑薄纱金蛾纹，扑火之蛾）
+# 色气来源：玄黑对襟薄纱裹着苍白少女，缕缕炽金飞蛾纹在暗处浮光，像火烛引来的一群蛾。蛾自扑火，灼华应火而生，她也是那团火。
+# 露出额头：额发全数后拢，无刘海。｜配色：玄黑薄纱·金蛾纹｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_飞蛾玄纱_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, (forehead visible:1.2), hair swept back from forehead, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (black sheer silk hanfu:1.4), (golden moth pattern:1.3), narrow sleeves, black waist sash, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+沈倩宁_飞蛾玄纱_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, (forehead visible:1.2), hair swept back from forehead, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (black sheer silk hanfu:1.4) open clothes, (sheer silk slipping off one shoulder:1.3), (golden moth pattern:1.3), bare shoulders, collarbone, black waist sash, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+# ==========================================
+# 第十五式：沉渊绀青（冷蓝短打银灰暗纹，两点血色）
+# 色气来源：靛青窄袖短打贴住纤细身量，银灰暗纹如月下渊面。满身冷蓝，唯赤瞳与朱唇两点血色最是醒目。她甜笑着，像深潭上露头的赤红鲤妖。
+# 露出额头：额发全数后拢，无刘海。｜配色：靛青短打·银灰暗纹｜绯红发带｜红发白挑染｜赤瞳｜纯白底
+# ==========================================
+
+沈倩宁_沉渊绀青_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, (forehead visible:1.2), hair swept back from forehead, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (indigo blue silk fitted jacket:1.4), (silver grey subtle pattern:1.2), narrow sleeves, cinched waist sash, (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+沈倩宁_沉渊绀青_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, (forehead visible:1.2), hair swept back from forehead, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (indigo blue silk fitted jacket:1.4) open clothes, (jacket untied, top open at waist:1.3), bare midriff, exposed collarbone, (silver grey subtle pattern:1.2), (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+# ==========================================
+# 第十六式：琥珀烬（赭金交领薄纱，血珀本体意象）
+# 色气来源：赭金纱衣介于琥珀与血红之间，透光处如未凝的熔蜡。薄纱贴着纤细肩颈，她在血色宗门里长成，衣色便是自身的珀色。
+# 露出额头：额发全数后拢，无刘海。｜配色：赭金交领纱衫·玄腰封｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_琥珀烬_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, (forehead visible:1.2), hair swept back from forehead, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (amber gold silk hanfu:1.4), (golden brown sheer silk robe:1.3), (slightly translucent fabric:1.2), black waist sash, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+沈倩宁_琥珀烬_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, (forehead visible:1.2), hair swept back from forehead, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, sweet smile, playful predatory gaze, looking at viewer, (amber gold silk hanfu:1.4) open clothes, (sheer robe slipping off both shoulders:1.3), bare shoulders, collarbone, (golden brown sheer silk robe:1.3), black waist sash, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+# ==========================================
+# 第十七式：甜疯（神通·甜疯的正面呈现）
+# 癫狂来源：战至酣处痛觉消退，瞳光愈赤，笑意愈甜。甜到极处下手最狠，她自己浑然不觉。
+# 写法：表情用 (sweet smile, unhinged grin) 复合短语钉死"甜与狂同框"，禁用媚态词；血痕取 (blood on face:1.1) 轻度战损，不乱泼；
+#       SFW 持血珀凝剑 (holding a blood-red sword:1.3) 出"战酣"的狂；NSFW 弃剑，改舔指血 (licking blood off fingers)，印证"饮血愈伤"，
+#       她本身就是猎食者，不需要兵器。乱发用 windblown hair 出癫狂动感。
+# 露出额头：沿用 messy bangs，战酣发丝自然凌乱，不强制后拢。｜配色：玄红劲装战损·血痕｜绯红发带｜红发白挑染｜赤瞳｜火山洞窟底
+# ==========================================
+
+沈倩宁_甜疯_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, windblown hair, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile, unhinged grin:1.3), (laughing, manic expression:1.2), (glowing crimson eyes:1.2), dilated pupils, head tilt, looking at viewer, (blood on face:1.1), (dark red and black silk martial outfit:1.3), narrow sleeves, fitted clothes, (damaged clothes:1.1), black gothic leather choker, (holding a blood-red sword:1.3), faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+沈倩宁_甜疯_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, windblown hair, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile, unhinged grin:1.3), (laughing, manic expression:1.2), (glowing crimson eyes:1.2), dilated pupils, head tilt, looking at viewer, (blood on face:1.1), (licking blood off fingers:1.2), (blood on fingers:1.2), hand raised to mouth, (dark red and black silk martial outfit:1.3) open clothes, (torn top slipping off one shoulder:1.3), exposed collarbone, bare shoulders, (damaged clothes:1.1), black gothic leather choker, faint glowing crimson aura, dark moody volcanic chamber background, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+# ==========================================
+# 第十八式：静猎（癫狂的安静形态·猎物在手）
+# 癫狂来源：与"甜疯"相反，不见血不挥兵。她衣衫整整齐齐，甜笑中舒服地捧着腮帮子看你，眼神像在秤斤两。
+# 眼神用 (playful predatory gaze) 甜笑里的猎手兴味落笔，姿态取 hands behind back 背手歪头，稚气与猎锐同框；背手藏手，避开手部结构崩坏。禁成熟感、媚态词、舔唇。
+# 露出额头：沿用 messy bangs。｜配色：玄红劲装整齐·无血痕｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_静猎_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile, playful predatory gaze:1.3), (childlike joy:1.2), (slightly open mouth:1.1), head tilt, hands behind back, looking at viewer, (dark red and black silk martial outfit:1.3), narrow sleeves, fitted clothes, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+沈倩宁_静猎_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile, playful predatory gaze:1.3), (childlike joy:1.2), (slightly open mouth:1.1), head tilt, hands behind back, looking at viewer, (dark red and black silk martial outfit:1.3) open clothes, (top loosened by her own hand:1.2), exposed collarbone, bare shoulders, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, (simple black background, plain black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes
+
+# ==========================================
+# 第十九式：噬血余欢（战毕自赏·血痕未拭）
+# 癫狂来源：战毕收势，颊边血痕未拭，赤瞳愈亮，笑意从满足滑向沉醉。苍白锁骨一线殷红血滴，她拿指尖捻着玩儿。甜是甜的，血是真血的。
+# 写法：血痕轻撒 (blood on face:1.1) 不铺张；武器词全弃，空手捻血珠 (empty hands:1.2)，避开手持短刃结构崩坏；NSFW 血滴沿锁骨滑落，衣带自己解，笑仍甜。
+# 露出额头：沿用 messy bangs。｜配色：玄红劲装·颊血未拭｜绯红发带｜红发白挑染｜赤瞳｜纯黑底
+# ==========================================
+
+沈倩宁_噬血余欢_sfw:
+  dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile, serene but unsettling:1.3), head tilt, looking at viewer, (blood on face:1.1), (blood droplets on fingertips:1.2), (dark red and black silk martial outfit:1.3), narrow sleeves, fitted clothes, black gothic leather choker, (empty hands:1.2), faint glowing crimson aura, (plain black background, solid black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes, intricate detail
+
+沈倩宁_噬血余欢_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, soft volumetric light, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, (blood on face:1.1), (blood smeared across collarbone:1.2), (dark red and black silk martial outfit:1.3) open clothes, (sash untied, top loosened by her own hand:1.2), exposed collarbone, bare shoulders, black gothic leather choker, (empty hands:1.2), (blood droplets on fingertips:1.2), faint glowing crimson aura, (plain black background, solid black background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第二十式：癫狂失笑（狂乐失控·纵声大笑）
+# 癫狂来源：笑到仰了头，喉颈一线白得发亮，乱发飞散，赤瞳烧成炭火。疯从骨子里溢出来，好看得让人头皮发麻。
+# 写法：(laughing, head thrown back:1.3) 加乱发 windblown hair 出狂态；着装劲装整齐，仅领口微敞露颈。NSFW 衣带松解半敞，笑依然狂。
+# 露出额头：沿用 messy bangs。｜配色：玄红劲装·纵声狂笑｜绯红发带｜红发白挑染｜赤瞳｜纯白底
+# ==========================================
+
+沈倩宁_癫狂失笑_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, windblown hair, (crimson hair ribbon:1.2), (glossy red eyes:1.2), (glowing crimson eyes:1.2), beautiful detailed eyes, pale skin, (laughing, head thrown back:1.3), (unhinged grin:1.3), eyes wide open, slender neck, (dark red and black silk martial outfit:1.3), narrow sleeves, collar slightly open, black gothic leather choker, (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes, intricate detail
+
+沈倩宁_癫狂失笑_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, windblown hair, (crimson hair ribbon:1.2), (glossy red eyes:1.2), (glowing crimson eyes:1.2), beautiful detailed eyes, pale skin, (laughing, head thrown back:1.3), (unhinged grin:1.3), eyes wide open, (dark red and black silk martial outfit:1.3) open clothes, (sash untied, top loosened by her own hand:1.2), exposed collarbone, bare shoulders, black gothic leather choker, (plain white background, solid white background:1.4), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 第二十一式：刃上眸焰（渊静凝眸·指尖转刃）
+# 癫狂来源：刀未出鞘最安静。骨刃在她指间旋成残影，眼帘低垂，又慢慢抬起来看你，那笑里没有一丝波澜，比刀刃还凉。
+# 写法：眼神 (sweet smile, playful predatory gaze:1.3) 同静猎底子，姿态改 head tilted down, looking up at viewer；弃指间转刃词，改 hands behind back 背手藏手（同静猎），避开手指与长发纠缠崩坏，刃意以腰侧挂刃存留。
+# 露出额头：沿用 messy bangs。｜配色：玄红劲装·指间转刃｜绯红发带｜红发白挑染｜赤瞳｜素色浅灰底
+# ==========================================
+
+沈倩宁_刃上眸焰_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile, playful predatory gaze:1.3), head tilted down, looking up at viewer, hands behind back, (dark red and black silk martial outfit:1.3), narrow sleeves, fitted clothes, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, (plain light grey background, solid grey studio background:1.3), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes, intricate detail
+
+沈倩宁_刃上眸焰_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, teenager, (petite:1.3), (round face:1.3), (big eyes:1.2), slender body, (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), beautiful detailed eyes, pale skin, (sweet smile, playful predatory gaze:1.3), head tilted down, looking up at viewer, hands behind back, (dark red and black silk martial outfit:1.3) open clothes, (sash untied, top loosened by her own hand:1.2), exposed collarbone, bare shoulders, black gothic leather choker, bone-handled short dagger at waist, faint glowing crimson aura, (plain light grey background, solid grey studio background:1.3), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, detailed face, detailed eyes, intricate detail
+
+负面提示词:
+  lowres, bad anatomy, bad hands, text, error, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, deformed face, ugly face, bad face, extra fingers, mutated hands, (mature female, milf, adult woman, adult:1.4), (tall, tall woman:1.2), (large breasts, huge breasts, big breasts:1.3), (white hair as main color, all white hair, pure white hair:1.3), (black hair, brown hair:1.4), (blonde hair, green hair, blue hair, purple hair, silver hair, platinum hair:1.2), blue eyes, green eyes, heterochromia, (chest tattoo, chest emblem, chest mark, symbol on chest, pattern on chest, chest ornament, mark on chest:1.4), (tattoo, body painting, emblem, sigil, rune, writing on skin:1.3), gauze, bandage, bandages, medical tape, plaster, pasties, wound, scar, scarred skin, (heavy blush, intense blush:1.3), (glossy skin, shiny skin, oily skin:1.3), (glossy lips, lip gloss, shiny nose:1.3), (sweat, glistening skin, wet skin:1.3), (sparkling eyes, starry eyes, shiny forehead:1.3), long sword, katana, spear, complex background, scenery, outdoor, flowers, weapons

@@ -1,0 +1,10 @@
+脚本名：[灯火阑珊]伪同层前端
+正则表达式：/(?:<visual_cards>[\s\S]*?<\/visual_cards>(?:\s*<pseudo_layer>\s*(?:灯火阑珊|灯火通明)\s*<\/pseudo_layer>)?|<pseudo_layer>\s*(?:灯火阑珊|灯火通明)\s*<\/pseudo_layer>)/gsi
+替换为：
+```
+<body>
+  <script>
+    $('body').load('http://127.0.0.1:5500/dist/灯火通明/index.html')
+  </script>
+</body>
+```

@@ -1,0 +1,57 @@
+---
+变量输出格式:
+  rule:
+    - you must output the update analysis and the actual update commands at once in the end of the next reply
+    - the update commands works like the **JSON Patch (RFC 6902)** standard, must be a valid JSON array containing operation objects, but supports the following operations instead:
+      - replace: replace the value of existing paths
+      - delta: update the value of existing number paths by a delta value
+      - insert: insert new items into an object or array (⚠️ for 红颜: must insert the full character object first if not exists, then use delta to update 好感度)
+      - remove
+    - don't update field names starts with `_` as they are readonly, such as `_变量`
+    - don't update readonly calculated fields: 突破阈值、寿元上限、境界描述、寿元状态、状态、进度
+    - ⚠️ update 等级 instead of 境界描述; update 尝试突破 instead of 状态
+    - ⚠️ for 红颜: if a character doesn't exist yet, use insert to create the full object first, then use delta for 好感度
+  format: |-
+    <UpdateVariable>
+    <Analysis>$(IN ENGLISH, no more than 120 words)
+    - Time passed: ${calculate time based on events}
+    - Dramatic updates: ${yes/no based on special events or time}
+    - 修为: ${±5~50 from training/combat/pills, or -5~30 if injured}
+    - 等级: ${+1 only if breakthrough succeeds with 修为>=突破阈值 and 尝试突破=true}
+    - 灵石: ${changes from trading/rewards/purchases}
+    - 背包/法宝: ${items gained/used, auto-remove if 数量=0}
+    - 行踪: ${location if moved}
+    - 好感度: ${±3~10 for each 红颜 based on interaction}
+    - 任务/声望: ${updates if relevant}
+    - Other: ${only if explicitly mentioned}
+    </Analysis>
+    <JSONPatch>
+    [
+      { "op": "delta", "path": "/本尊/修为", "value": 20 },
+      { "op": "delta", "path": "/本尊/灵石", "value": -100 },
+      { "op": "insert", "path": "/本尊/背包/聚气丹", "value": {"名称":"聚气丹","描述":"一品丹药","品阶":"黄阶下品","数量":3} },
+      { "op": "delta", "path": "/本尊/背包/聚气丹/数量", "value": -1 },
+      { "op": "replace", "path": "/本尊/行踪/当前区域", "value": "问道峰" },
+      { "op": "replace", "path": "/世界时钟/时辰", "value": "午时" },
+      { "op": "delta", "path": "/红颜/凌寒镜/好感度", "value": 5 },
+      // If a new character appears (example):
+      { "op": "insert", "path": "/红颜/白清弦", "value": {"等级":19,"修为":0,"灵根":"金天灵根","体质":"先天剑体","功法":"剑意通神","本命兵器":"清弦琴剑","神通列表":{},"灵石":0,"已活岁月":328,"尝试突破":false,"好感度":0,"关系":"陌生","重要性":"核心红颜"} },
+      { "op": "delta", "path": "/红颜/白清弦/好感度", "value": 5 }
+    ]
+    </JSONPatch>
+    </UpdateVariable>
+
+---
+# 重要提醒
+禁止更新只读字段: 突破阈值、寿元上限、境界描述、寿元状态、状态、进度
+正确做法:
+  ❌ /本尊/状态 → ✅ /本尊/尝试突破
+  ❌ /本尊/境界描述 → ✅ /本尊/等级
+  ❌ /本尊/进度 → ✅ /本尊/修为
+  ❌ /红颜/凌寒镜/境界描述 → ✅ /红颜/凌寒镜/等级
+
+更新频率:
+  每回合建议: 修为±5~50, 时辰推进
+  重要事件: 等级(突破), 行踪, 背包/法宝, 好感度±3~10, 任务, 声望
+  极少更新: 灵根, 体质, 功法, 本命兵器, 姓名, 宗门
+  禁止更新: 红颜角色库, 宗门势力库, 功法库, 法宝库, 地点库, 灵根库, 体质库

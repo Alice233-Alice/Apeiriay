@@ -1,0 +1,78 @@
+# 阿姊生图提示词 · 纯黑底精炼辑
+# 共用骨架：1girl, solo, upper body, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2)
+# 背景后缀：black background, simple background, soft warm lighting
+
+阿姊_半身特写_sfw:
+  1girl, solo, upper body, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), (sheer light blue hanfu:1.3), white floral moxiong, white flower embroidery, crossed collar, wide waist sash, head tilt, dimples, gentle smile, looking at viewer, black background, simple background, soft warm lighting
+
+阿姊_半身特写_nsfw:
+  nsfw, 1girl, solo, upper body, nude, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-slipped (sheer light blue hanfu:1.3), pulled down white floral moxiong, off shoulder, head tilt, blush, shy gaze, looking at viewer, black background, simple background, soft warm lighting
+
+# ==========================================
+# 定制古风款式（纯黑底·极简版）
+# ==========================================
+
+# 一式 · 执卷考校（假正经才女 · 手持古籍）
+阿姊_执卷考校_sfw:
+  1girl, solo, upper body, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), (white and light blue hanfu:1.3), white floral moxiong, crossed collar, wide sleeves, holding book, head tilt, teasing smile, looking at viewer, black background, simple background, soft warm lighting
+
+阿姊_执卷考校_nsfw:
+  nsfw, 1girl, solo, upper body, nude, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-slipped (white and light blue hanfu:1.3), open clothes, holding book against stomach, blush, flustered, looking at viewer, black background, simple background, soft warm lighting
+
+# 二式 · 碧水扎染（图一：薄荷绿扎染纱裙）
+阿姊_碧水扎染_sfw:
+  1girl, solo, cowboy shot, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), (mint green and white hanfu:1.4), (tie-dye dress:1.2), puff sleeves, green waist belt, layered skirt, hands raised, dimples, gentle smile, looking at viewer, black background, simple background, soft rim lighting
+
+阿姊_碧水扎染_nsfw:
+  nsfw, 1girl, solo, cowboy shot, nude, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-slipped (mint green and white hanfu:1.4), open clothes, loose green waist belt, blush, shy gaze, looking at viewer, black background, simple background, soft rim lighting
+
+# 三式 · 红梅齐胸（图二：白底绣梅浅绿齐胸襦裙）
+阿姊_红梅齐胸_sfw:
+  1girl, solo, cowboy shot, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), (white and light green qixiong ruqun:1.4), (hanfu:1.2), red floral embroidery, green ribbon bow, wide sleeves, hands clasped, gentle smile, looking at viewer, black background, simple background, soft warm lighting
+
+阿姊_红梅齐胸_nsfw:
+  nsfw, 1girl, solo, cowboy shot, nude, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-slipped (white and light green qixiong ruqun:1.4), open clothes, untied green ribbon, blush, shy gaze, looking at viewer, black background, simple background, soft warm lighting
+
+# 四式 · 绯霞流袖（图三：桃色半透大袖衫 · 绯绦玄裙）
+阿姊_绯霞流袖_sfw:
+  1girl, solo, cowboy shot, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), (translucent peach hanfu robe:1.4), crimson trim, wide sleeves, (red trailing ribbons:1.3), pale peach inner robe, crossed collar, black high-waist skirt, red waist sash, arms outstretched, gentle smile, looking at viewer, black background, simple background, warm rim lighting
+
+阿姊_绯霞流袖_nsfw:
+  nsfw, 1girl, solo, cowboy shot, nude, black hair, long hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-slipped (translucent peach hanfu robe:1.4), open pale peach inner robe, crimson trim, (red trailing ribbons:1.3), loose red waist sash, black high-waist skirt, blush, shy gaze, looking at viewer, black background, simple background, warm rim lighting
+
+# ==========================================
+# 第二部分：「添盏式」零道具凑脸透视特辑（自由构图 · 纯黑底）
+# 核心机制：去掉 upper body/cowboy shot 裁切锁与一切手持物，纯靠前倾/俯仰/背手触发自然浅透视，令脸部贴近镜头焦点
+# ==========================================
+
+# 五式 · 添盏原式（大袖披帛 · 微倾浅笑）
+阿姊_添盏原式_sfw:
+  1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), polite composed smile, teasing gaze, looking at viewer, (light blue and white wide-sleeve robe with pibo:1.3), wide sleeves, leaning forward slightly, soft warm lighting, black background, simple background
+
+阿姊_添盏原式_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, damp hair strands on neck, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-closed eyes, elegant facade crumbling, shy affectionate gaze, looking at viewer, undone (light blue and white wide-sleeve robe with pibo:1.3), off shoulder, leaning forward slightly, soft warm lighting, black background, simple background
+
+# 六式 · 背手审视（双手背腰 · 俯身歪头凑脸）
+阿姊_背手审视_sfw:
+  1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), playful teasing smile, head tilt, looking at viewer, (sheer light blue and white hanfu:1.3), white floral moxiong, wide sleeves, leaning forward, arms behind back, foreshortening, soft warm lighting, black background, simple background
+
+阿姊_背手审视_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, damp hair strands on neck, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-closed eyes, shy flustered smile, head tilt, looking at viewer, half-slipped (sheer light blue and white hanfu:1.3), pulled down moxiong, off shoulder, leaning forward, arms behind back, foreshortening, soft warm lighting, black background, simple background
+
+# 七式 · 弯腰仰眸（微高机位 · 弯腰抬眸贴脸）
+阿姊_弯腰仰眸_sfw:
+  1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), gentle affectionate smile, looking up at viewer, (mint green and white wide-sleeve hanfu:1.3), crossed collar, from above, leaning forward, foreshortening, soft warm lighting, black background, simple background
+
+阿姊_弯腰仰眸_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, damp hair strands on neck, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), misty eyes, parted lips, looking up at viewer, undone (mint green and white wide-sleeve hanfu:1.3), open collar, off shoulder, from above, leaning forward, foreshortening, soft warm lighting, black background, simple background
+
+# 八式 · 侧肩回睇（旋身半侧 · 贴肩回眸近景）
+阿姊_侧肩回睇_sfw:
+  1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, sidelocks, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts:1.2), polite composed smile, head tilt, looking back at viewer over shoulder, (light blue silk hanfu with white pibo:1.3), wide sleeves, from side, leaning toward viewer, soft warm lighting, black background, simple background
+
+阿姊_侧肩回睇_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, black hair, long glossy hair, (single side braid:1.3), parted bangs, damp hair strands on neck, jade leaf hairpin, pearl earrings, (grey eyes:1.2), red eyeshadow, fair skin, (flat chest, small breasts, small nipples:1.2), half-closed eyes, shy gaze, head tilt, looking back at viewer over shoulder, half-slipped (light blue silk hanfu with white pibo:1.3), bare shoulders, bare back, from side, leaning toward viewer, soft warm lighting, black background, simple background
+
+负面提示词:
+  (worst quality, low quality, normal quality, caucasian:1), (large breasts, medium breasts, huge breasts, gigantic breasts, plump breasts, cleavage:1.4), (ribs, visible ribs, skinny, bony, skeletal, emaciated:1.3), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, milf, muscular, colored skin, modern clothes, sci-fi, complex background, detailed background
+---

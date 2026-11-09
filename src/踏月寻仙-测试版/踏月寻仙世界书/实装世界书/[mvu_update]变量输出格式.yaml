@@ -1,0 +1,55 @@
+---
+变量输出格式:
+  rule:
+    - output update analysis + actual update commands at once in end of next reply
+    - commands work like JSON Patch (RFC 6902), valid JSON array with operations: replace/delta/insert/remove
+    - don't update fields starts with `_` or readonly calculated fields: 突破阈值/寿元上限/境界描述/寿元状态/状态/进度
+    - ⚠️ update 等级 not 境界描述; update 尝试突破 not 状态
+    - ⚠️ for 红颜: if not exists, insert full object first, then delta 好感度
+  format: |-
+    <UpdateVariable>
+    <Analysis>$(中文，≤120字)
+    - Time: ${calc based on events}
+    - Dramatic: ${yes/no}
+    - 修为: ${±5~50 from train/combat/pills, or -5~30 if injured}
+    - 等级: ${+1 only if breakthrough succeeds with 修为>=突破阈值 and 尝试突破=true}
+    - 灵石: ${from trade/rewards/purchases}
+    - 背包/法宝: ${items gained/used, auto-remove if 数量=0}
+    - 行踪: ${location if moved}
+    - 好感度: ${±1~2 for each 红颜 based on interaction, max ±2 per turn; ⚠️虞汐颜下限30不可低于30}
+    - 战斗: ${if in combat: 正在战斗=true, 灵力值±, 伤势, 当前敌人⚠️路径是/本尊/当前敌人}
+    - 渡劫: ${if tribulation: 正在渡劫=true, 劫种, 劫难等级, 当前阶段, 劫力承受}
+    - 任务/声望: ${if relevant; ⚠️已完成/已失败的任务必须立即用 remove 指令删除}
+    - Other: ${only if explicitly mentioned}
+    </Analysis>
+    <JSONPatch>
+    [
+      {"op":"delta","path":"/本尊/修为","value":20},
+      {"op":"delta","path":"/本尊/灵石","value":-100},
+      {"op":"insert","path":"/本尊/背包/聚气丹","value":{"名称":"聚气丹","描述":"一品丹药","品阶":"黄阶下品","数量":3}},
+      {"op":"delta","path":"/本尊/背包/聚气丹/数量","value":-1},
+      {"op":"replace","path":"/本尊/行踪/当前区域","value":"问道峰"},
+      {"op":"replace","path":"/世界时钟/时辰","value":"午时"},
+      {"op":"delta","path":"/红颜/许听雨/好感度","value":2},
+      {"op":"insert","path":"/红颜/白清弦","value":{"等级":29,"修为":0,"灵根":"金天根","体质":"剑体","功法":"剑意仙/天音天","本命兵器":"清弦琴剑","神通列表":{"琴剑杀":{"名称":"琴剑杀","描述":"琴音化剑气","类型":"神通","品阶":"天","熟练度":"大成"}},"灵石":0,"已活岁月":328,"尝试突破":false,"好感度":0,"关系":"陌生","重要性":"核心"}},
+      {"op":"delta","path":"/红颜/白清弦/好感度","value":1},
+      {"op":"insert","path":"/任务列表/MQ_探索秘境","value":{"名称":"探索石子昂秘境","类型":"主线","目标":"探索秘境深处，获取机缘","状态":"进行中","秘境信息":{"域":"神州","危":20,"特":"筑基遗府","奖":["基础资源","灵药"],"限":"练气期"},"创建时间":"末法时代元年正月初一"}},
+      {"op":"remove","path":"/任务列表/SQ_深夜敌袭"},
+      {"op":"replace","path":"/本尊/当前敌人","value":[{"名称":"灰袍修士","境界":"筑基大圆满","战力评估":"均势","状态":"完好","特点":"擅长阴煞刀法"}]},
+      {"op":"replace","path":"/本尊/渡劫状态/正在渡劫","value":true},
+      {"op":"replace","path":"/本尊/渡劫状态/劫种","value":"雷劫"},
+      {"op":"replace","path":"/本尊/渡劫状态/劫难等级","value":"小劫"},
+      {"op":"replace","path":"/本尊/渡劫状态/当前阶段","value":1},
+      {"op":"replace","path":"/本尊/渡劫状态/总阶段数","value":3},
+      {"op":"replace","path":"/本尊/渡劫状态/劫力承受","value":80},
+      {"op":"replace","path":"/本尊/渡劫状态/劫难描述","value":"金丹雷劫，三道天雷依次降下"},
+      {"op":"replace","path":"/本尊/渡劫状态/触发原因","value":"突破金丹境界"}
+    ]
+    </JSONPatch>
+    </UpdateVariable>
+
+---
+禁更新只读字段: 突破阈值/寿元上限/境界描述/寿元状态/状态/进度/成就系统
+正确:❌/本尊/状态→✅/本尊/尝试突破 ❌/本尊/境界描述→✅/本尊/等级 ❌/本尊/进度→✅/本尊/修为
+
+更新频率: 每回合建议修为±5~50,时辰推进; 重要事件更新等级(突破)/行踪/背包法宝/好感度±1~2/任务声望; 极少更新灵根/体质/功法/本命兵器/姓名/宗门; 禁更新红颜角色库/宗门势力库/功法库/法宝库/地点库/灵根库/体质库

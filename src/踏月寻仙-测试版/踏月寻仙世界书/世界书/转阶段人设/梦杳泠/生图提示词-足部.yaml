@@ -1,0 +1,177 @@
+# 梦杳泠生图提示词 - 足部特辑 (Illustrious 底模适配，danbooru 标签风格)
+# 核心特征参考：platinum blonde hair、golden eyes + slit pupils、forehead mark、white fox ears + orange ear tips、platinum blonde fox tail、loli 体型、bell、barefoot（赤足）
+# 构图关键：使用 upper body / cowboy shot 将双足引入画幅上半部分。通过抱膝、抬腿、曲膝等坐姿/卧姿使足部成为前景焦点
+# 人设核心：梦杳泠乃上古乘黄幼崽，兽性未泯，常赤足无履——足部是其天然兽性一面的重要体现，稚嫩赤足既显天真懵懂，又暗含未被驯化的野性
+
+# 以下提示词皆为虚拟，请勿当真
+
+# 【通用幼态特征包】(loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature
+
+# ==========================================
+# 赤足 (Barefoot)
+# ==========================================
+# 梦杳泠人设常驻赤足，此乃其兽性未泯之天然特征
+# 构图：抱膝坐姿/抬腿卧姿将赤足引入上半身画幅
+# 关键词：barefoot, soles, toes, foot focus, (small feet:1.2), (soft soles:1.1), delicate toes
+
+梦杳泠_赤足_抱膝坐阶_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, curious, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, white dress, chinese clothes, hugging own legs, knees drawn up, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, soles, foot focus, feet in foreground, sitting on mossy stone steps, spring atmosphere, gentle sunlight, looking at viewer, golden theme, warm lighting, cinematic lighting
+
+梦杳泠_赤足_溪边戏水_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, loose hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, delighted innocent smile, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, white dress, chinese clothes, sitting on a rock by mountain stream, one knee bent, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, dipping feet in water, water ripples, splashing, foot focus, feet in foreground, bamboo forest, dappled sunlight, summer atmosphere, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_赤足_晨起初醒_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy bed hair, (golden eyes:1.3), (slit pupils:1.3), half-closed eyes, drowsy, head tilt, just woke up, rubbing one eye with small fist, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), ears drooping sleepily, (fox tail:1.2), (platinum blonde tail:1.2), bell, white ancient chinese sleepwear, thin inner robe, sitting on edge of carved wooden bed, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, dangling feet, foot focus, morning light through paper window, ancient bedroom, soft morning lighting, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_赤足_篝火蜷坐_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy hair, (golden eyes:1.3), (slit pupils:1.3), half-closed eyes, drowsy, head tilt, serene smile, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), tail curled around body, bell, long sleeves, white dress, sitting on ground, hugging own legs, knees drawn up, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, soles, foot focus, feet close to campfire, firelight illuminating soles, campfire, night sky, starry sky, embers, warm firelight, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_赤足_玄冰初醒_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), wet hair, floating hair, (golden eyes:1.3), (slit pupils:1.3), half-closed eyes, drowsy, confused, head tilt, (small golden forehead mark:1.1), glowing, (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, sitting on shattered ice, hugging own legs, knees drawn up, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, soles, foot focus, feet in foreground, ice, crystal, blue theme, golden light particles, cave, icicle, frost on skin, soft blush, shivering, looking at viewer, volumetric lighting, fantasy, dramatic lighting
+
+梦杳泠_赤足_轻纱寝衣_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy bed hair, (golden eyes:1.3), (slit pupils:1.3), half-closed eyes, drowsy, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), ears drooping, (fox tail:1.2), (platinum blonde tail:1.2), bell, (light purple and moon-white sheer sleeping robe:1.3), (thin butterfly-wing patterned gauze:1.3), see-through fabric, skin visible through fabric, exposed nipples, wide sleeves slipping off shoulders, open clothes, lying on back on bed, legs up, feet up, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, soles, foot focus, feet in foreground, morning mist drifting in window, heavy blush, soft glistening skin, looking at viewer, dreamy atmosphere, soft morning lighting, cinematic lighting
+
+# ==========================================
+# nsfw足控 - 赤足 (Barefoot Focus)
+# ==========================================
+
+梦杳泠_赤足足控_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, soles, foot focus, blush, looking at viewer, from below, foreshortening
+
+梦杳泠_赤足足控_足交_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, barefoot, (small feet:1.2), (soft soles:1.1), delicate toes, soles, cum on feet, cum drip, messy, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, foot focus, heavy blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 白丝 (White Pantyhose Focus)
+# ==========================================
+
+梦杳泠_白丝足控_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (pure white pantyhose:1.4), (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, foot focus, blush, looking at viewer, from below, foreshortening
+
+梦杳泠_白丝足控_足交_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (pure white pantyhose:1.4), cum on feet, cum on pantyhose, cum drip, messy, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, foot focus, heavy blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 黑丝 (Black Pantyhose Focus)
+# ==========================================
+
+梦杳泠_黑丝足控_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (black pantyhose:1.4), (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, foot focus, blush, looking at viewer, from below, foreshortening
+
+梦杳泠_黑丝足控_足交_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (black pantyhose:1.4), cum on feet, cum on pantyhose, cum drip, messy, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, foot focus, heavy blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 白丝踩脚袜 (White Stirrup Pantyhose)
+# ==========================================
+
+梦杳泠_白丝踩脚袜_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (pure white stirrup pantyhose:1.4), strap under heel, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, barefoot toes exposed, exposed heel, foot focus, blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 黑丝踩脚袜 (Black Stirrup Pantyhose)
+# ==========================================
+
+梦杳泠_黑丝踩脚袜_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (black stirrup pantyhose:1.4), strap under heel, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, barefoot toes exposed, exposed heel, foot focus, blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 白丝夹趾袜 (White Toe Loop Pantyhose)
+# ==========================================
+
+梦杳泠_白丝夹趾袜_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (pure white pantyhose:1.4), toe loop, toe loop pantyhose, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, barefoot toes exposed, foot focus, blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 黑丝夹趾袜 (Black Toe Loop Pantyhose)
+# ==========================================
+
+梦杳泠_黑丝夹趾袜_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (black pantyhose:1.4), toe loop, toe loop pantyhose, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, barefoot toes exposed, foot focus, blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 湿水白丝 (Soaked White Sheer Pantyhose)
+# ==========================================
+
+梦杳泠_湿水白丝_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (pure white sheer pantyhose:1.4), (soaked pantyhose:1.3), (highly detailed see-through pantyhose:1.4), skin visible through fabric, clinging to skin, water drops, wet skin, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, foot focus, blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# nsfw足控 - 湿水黑丝 (Soaked Black Sheer Pantyhose)
+# ==========================================
+
+梦杳泠_湿水黑丝_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (black sheer pantyhose:1.4), (soaked pantyhose:1.3), (highly detailed see-through pantyhose:1.4), skin visible through fabric, clinging to skin, water drops, wet skin, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, lying on back, legs up, feet up, foot focus, blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# 纯白连裤袜 (Pure White Pantyhose - SFW)
+# ==========================================
+
+梦杳泠_白丝_抱膝坐阶_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, innocent smile, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, white dress, chinese clothes, hugging own legs, knees drawn up, (pure white pantyhose:1.4), foot focus, feet in foreground, sitting on mossy stone steps, morning sunlight, looking at viewer, golden theme, soft warm lighting, cinematic lighting
+
+# ==========================================
+# 连裤袜+足交_旗袍装 (Pantyhose + Footjob in Cheongsam)
+# ==========================================
+
+梦杳泠_旗袍_黑丝足交_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, dazed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, (pink cheongsam:1.3), high side slit, foot focus, (black pantyhose:1.4), cum on feet, cum on pantyhose, cum drip, messy, lying on back, legs up, foot focus, heavy blush, looking at viewer, from below, foreshortening
+
+# ==========================================
+# 罗袜 - 古风丝绸短袜 (Ancient Chinese Silk Socks)
+# ==========================================
+# 构图关键：抱膝坐姿/曲膝坐姿将双足引入上半身画幅，罗袜自然成为前景焦点
+# 罗袜标签组合：(white silk socks:1.4) + (fitted socks:1.3) + (ribbon tied at calf:1.3) + (silk sheen:1.2) + knee-high socks
+# 常规坐姿用 hugging own legs / sitting with knees drawn up
+
+梦杳泠_罗袜_杏雨坐阶_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, loose hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, serene smile, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), tail curled on lap, bell, (pale pink and white ruqun with apricot blossom embroidery:1.4), (hanfu:1.3), crossed collar, layered sleeves, sitting on ancient mossy stone steps, hugging own legs, knees drawn up, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, apricot blossom petals falling, spring rain atmosphere, looking at viewer, golden theme, soft warm lighting, cinematic lighting
+
+梦杳泠_罗袜_杏雨坐阶_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, loose hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, embarrassed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, half-slipped (pale pink and white ruqun with apricot blossom embroidery:1.4), open clothes, exposed nipples, bare shoulders, sitting on ancient mossy stone steps, hugging own legs, knees drawn up, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, apricot blossom petals falling, soft blush, glistening skin, looking at viewer, spring rain atmosphere, golden theme, soft warm lighting, cinematic lighting
+
+梦杳泠_罗袜_荷风曲膝_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, half updo with lotus hairpin, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, innocent smile, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, (pale green and white summer ruqun with lotus embroidery:1.4), (hanfu:1.3), thin silk, wide sleeves, sitting on a rock by lotus pond, one knee bent up with foot resting on rock, hand adjusting sock, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, foot focus, lotus leaves and blossoms, dragonflies, summer atmosphere, sunlight filtering through leaves, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_荷风曲膝_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy hair, lotus hairpin askew, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, embarrassed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, half-slipped (pale green and white summer ruqun:1.4), open clothes, see-through thin silk, exposed nipples, sitting on a rock by lotus pond, one knee bent up with foot on rock, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, foot focus, soft blush, glistening skin, lotus pond background, summer atmosphere, sunlight through leaves, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_枫间抱膝_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, twin braids with maple leaf ornaments, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, wonder, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), tail wrapped around ankles, bell, (warm orange and cream ruqun with maple leaf embroidery:1.4), (hanfu:1.3), thick autumn silk, crossed collar, sitting on fallen maple leaves, hugging own legs tightly, knees drawn to chest, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet prominent in foreground, maple leaves falling, autumn forest background, warm golden hour, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_枫间抱膝_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy twin braids, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, embarrassed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, half-slipped (warm orange and cream ruqun:1.4), open clothes, exposed nipples, bare shoulders, sitting on fallen maple leaves, hugging own legs, knees drawn to chest, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, maple leaves falling, soft blush, glistening skin, autumn forest background, warm golden hour, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_霜檐拥膝_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, loose hair with frost sparkles, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, innocent smile, cold breath visible, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), ears wrapped in fur hood, (fox tail:1.2), (platinum blonde tail:1.2), tail wrapped around body for warmth, bell, (deep red and white padded winter hanfu with fur trim:1.4), (thick winter clothes:1.3), fluffy fur collar, snowflake embroidery, sitting on wooden veranda under frost-covered eaves, hugging own legs tightly, knees drawn up, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet nestled together in foreground, snow falling, icicles hanging from eaves, winter atmosphere, soft overcast lighting, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_霜檐拥膝_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy hair, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, embarrassed, cold breath visible, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), ears down, (fox tail:1.2), (platinum blonde tail:1.2), bell, half-slipped (deep red and white padded winter hanfu with fur trim:1.4), open clothes, exposed nipples, bare shoulders, fluffy fur collar still around neck, sitting on wooden veranda under frost-covered eaves, hugging own legs, knees drawn up, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, snow falling, goosebumps, soft blush, shivering, glistening skin, looking at viewer, winter atmosphere, soft overcast lighting, golden theme, cinematic lighting
+
+梦杳泠_罗袜_绣阁晨起_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy bed hair, long hair, (golden eyes:1.3), (slit pupils:1.3), half-closed eyes, drowsy, head tilt, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), ears drooping sleepily, (fox tail:1.2), (platinum blonde tail:1.2), tail curled lazily on bed, bell, (white silk ancient chinese sleepwear:1.3), thin inner robe slipping off one shoulder, sitting on edge of carved wooden bed, one foot raised, putting on socks, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, hands adjusting sock, bare foot partially visible, foot focus, morning light through paper window, ancient bedroom background, soft morning lighting, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_绣阁晨起_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy bed hair, (golden eyes:1.3), (slit pupils:1.3), half-closed eyes, drowsy, head tilt, embarrassed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), ears drooping, (fox tail:1.2), (platinum blonde tail:1.2), bell, fully open (white silk ancient chinese sleepwear:1.3), inner robe slipped off shoulders, exposed nipples, sitting on edge of carved wooden bed, one foot raised, putting on socks, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, hands adjusting sock, bare foot partially visible, foot focus, soft blush, soft glistening skin, morning light through paper window, ancient bedroom background, soft morning lighting, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_月下坐石_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, flowing hair in night breeze, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, serene devout expression, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, (deep indigo and silver-white ruqun with moon phase embroidery:1.4), (hanfu:1.3), flowing sleeves, sitting on a mossy stone under moonlight, hugging own legs, knees drawn up, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, silver moonlight on socks, starry night sky, fireflies, ethereal atmosphere, looking at viewer, golden theme, soft moonlight, cinematic lighting
+
+梦杳泠_罗袜_月下坐石_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy flowing hair in night breeze, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, embarrassed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, half-slipped (deep indigo and silver-white ruqun with moon phase embroidery:1.4), open clothes, exposed nipples, bare shoulders, sitting on a mossy stone under moonlight, hugging own legs, knees drawn up, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, silver moonlight on socks and bare skin, fireflies, soft blush, glistening skin, starry night sky, ethereal atmosphere, looking at viewer, golden theme, soft moonlight, cinematic lighting
+
+梦杳泠_罗袜_牡丹亭畔_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, elaborate half updo with peony hairpins, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, joyful innocent smile, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), tail wagging happily, bell, (elegant pale gold and peach ruqun with peony embroidery:1.4), (hanfu:1.3), crossed collar, layered silk sleeves, sitting on a carved stone bench in peony garden pavilion, one foot slightly lifted, foot visible, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, peony blossoms in full bloom, butterflies, spring garden, warm sunlight, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_牡丹亭畔_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy elaborate half updo, peony hairpins askew, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, embarrassed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, half-slipped (elegant pale gold and peach ruqun with peony embroidery:1.4), open clothes, exposed nipples, bare shoulders, sitting on a carved stone bench in peony garden, one foot lifted with sock still on, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, soft blush, glistening skin, peony blossoms and butterflies, spring garden, warm sunlight, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_翠竹幽涧_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), long hair, low ponytail with bamboo leaf ornament, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, curious, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, (white and bamboo-green crossed-collar hanfu with bamboo embroidery:1.4), (hanfu:1.3), thin summer silk, wide sleeves, sitting on a smooth rock by a mountain stream in bamboo forest, knees drawn up, feet resting on rock edge, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, clear stream water, bamboo leaves floating, dappled sunlight through bamboo, serene atmosphere, bird on nearby branch, looking at viewer, golden theme, cinematic lighting
+
+梦杳泠_罗袜_翠竹幽涧_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, nude, (loli:1.5), (child:1.4), (very young:1.3), (baby face:1.3), (round face:1.3), chubby cheeks, small nose, flat chest, petite, short stature, (pale skin:1.2), white skin, flawless skin, (platinum blonde hair:1.2), messy low ponytail, (golden eyes:1.3), (slit pupils:1.3), detailed eyes, head tilt, embarrassed, (small golden forehead mark:1.1), (fox ears:1.4), (white ears:1.1), (orange ear tips:1.2), (fox tail:1.2), (platinum blonde tail:1.2), bell, half-slipped (white and bamboo-green crossed-collar hanfu:1.4), open clothes, exposed nipples, bare shoulders, sitting on a smooth rock by mountain stream, knees drawn up, (white silk socks:1.4), (fitted socks:1.3), (ribbon tied at calf:1.3), (silk sheen:1.2), knee-high socks, feet in foreground, water drops on socks and skin, soft blush, glistening skin, bamboo forest, dappled sunlight, serene atmosphere, looking at viewer, golden theme, cinematic lighting
+
+负面提示词:
+  (worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, mature female, milf, muscular, colored skin, modern clothes, sci-fi, weird skin, patchy skin, green skin, blue skin

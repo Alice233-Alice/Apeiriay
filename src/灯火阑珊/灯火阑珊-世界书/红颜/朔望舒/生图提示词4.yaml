@@ -1,0 +1,19 @@
+# 朔望舒生图提示词4 — 月满·深爱期
+# 十里红妆大典：九天皓月为引，素银暗红云纹华服、凤冠霞帔正典礼服；构图沿用 upper body 半身特写，背景以素净黑白色调为主
+# 专属负面提示词（实测最佳版，保持原样勿增补）：(worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, milf, muscular, colored skin, modern clothes, sci-fi
+# 备注：① 本套不含 red clothes 压制，正红婚服可正常生成；② 若素净背景仍冒花卉光斑，可追补 (flowers, plants, petals, bokeh:1.4)；③ 满月属月满意象，需完全纯色净底可删去 giant full moon
+# ==========================================
+
+朔望舒_女帝_十里红妆_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, gigantic breasts, deep cleavage, serene and tender smile, crimson lips, (pure white hair:1.3), elegant high updo, silver hair ornaments, deep purple eyes, wuxia, xianxia, (elegant silver-white hanfu:1.4), (dark red cloud pattern embroidery:1.3), open chest, translucent silk, red wedding silk draped over her arms, (plain black background:1.5), (simple background:1.3), giant full moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔望舒_女帝_十里红妆_nsfw:
+  nsfw, nude, gigantic breasts, nipples, mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, tender and lustful expression, (pure white hair:1.3), elegant high updo slightly undone, silver hairpin askew, deep purple eyes, wuxia, xianxia, half-slipped (elegant silver-white hanfu:1.4), open clothes, (dark red cloud pattern embroidery:1.3), red wedding silk pooled around waist, bare shoulders, open chest, half-lidded eyes, looking at viewer, (plain black background:1.5), (simple background:1.3), giant full moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# 凤冠霞帔 — 迎亲正典礼服
+
+朔望舒_女帝_凤冠霞帔_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, gigantic breasts, deep cleavage, serene and majestic smile, (pure white hair:1.3), elegant high updo, (ornate traditional chinese bridal crown:1.5), golden ornaments, dangling pearl tassels, deep purple eyes, wuxia, xianxia, (vivid red bridal robe:1.5), (red and gold embroidered shoulder cape:1.3), golden embroidery, fringed trim, open chest, translucent silk, (plain black background:1.5), (simple background:1.3), giant full moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔望舒_女帝_凤冠霞帔_nsfw:
+  nsfw, nude, gigantic breasts, nipples, mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, tender and lustful expression, (pure white hair:1.3), elegant high updo slightly undone, (ornate traditional chinese bridal crown:1.5), golden ornaments, dangling pearl tassels, deep purple eyes, wuxia, xianxia, half-slipped (vivid red bridal robe:1.5), open clothes, (red and gold embroidered shoulder cape:1.3), golden embroidery, fringed trim, bare shoulders, open chest, half-lidded eyes, looking at viewer, (plain black background:1.5), (simple background:1.3), giant full moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail

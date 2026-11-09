@@ -1,0 +1,142 @@
+# 羽岚生图提示词 · 纯黑底精炼辑
+# 编写说明：
+#   1. 适配外部固定质量串与画师串，剔除首尾冗余画质词与解释性长句，单条控制在20~28个核心标签，集中权重于人物神韵与动态。
+#   2. 统一核心锚点：微丰鹅蛋脸与天然红晕 (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2)、单侧拢肩霜青长卷发 (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs、白皙柔润肤质 (fair skin:1.1)、琥珀金眸 (amber-gold eyes:1.3)、丰腴巨乳身段 voluptuous body, gigantic breasts、腰间旧红绳 faded red string at waist。
+#   3. 纯黑背景锁死：全篇统一 (plain black background, solid black background:1.4), simple background，剔除山林、溪石、茅屋等复杂场景词，仅以人物姿态、随身小物与光影承载意境。
+
+# ==========================================
+# 半身特写 (Upper Body Close-up)
+# ==========================================
+
+羽岚_半身特写_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), gentle innocent smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, deep cleavage, (plain celadon cloth robe:1.3), narrow sleeves, faded red string at waist, soft warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_半身特写_nsfw:
+  nsfw, nude, blush, wet skin, 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, shy bewildered expression, slightly parted lips, looking at viewer, voluptuous body, gigantic breasts, nipples, water droplets on skin, faded red string at waist, warm golden lighting, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 定制古风主题 (Custom Traditional Themes)
+# ==========================================
+
+# A. 青衫采药
+羽岚_青衫采药_sfw:
+  1girl, solo, cowboy shot, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), serene gentle smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, deep cleavage, (plain celadon cloth robe:1.3), narrow sleeves, faded red string at waist, carrying bamboo herb basket, holding medicinal herb, soft morning lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_青衫采药_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy bewildered expression, looking at viewer, voluptuous body, gigantic breasts, nipples, half-slipped (plain celadon cloth robe:1.3), off shoulder, faded red string at waist, bamboo herb basket at side, soft morning lighting, (plain black background, solid black background:1.4), simple background
+
+# B. 黄昏余烬
+羽岚_黄昏余烬_sfw:
+  1girl, solo, cowboy shot, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), peaceful gentle smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, cleavage, (plain celadon cloth robe:1.3), rolled-up sleeves, faded red string at waist, squatting, warm orange firelight, (plain black background, solid black background:1.4), simple background
+
+羽岚_黄昏余烬_nsfw:
+  nsfw, nude, heavy blush, sweating, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, relaxed dazed smile, looking at viewer, voluptuous body, gigantic breasts, nipples, wide hips, thick thighs, undone (plain celadon cloth robe:1.3), open clothes, faded red string at waist, squatting, warm orange firelight, (plain black background, solid black background:1.4), simple background
+
+# C. 溪畔濯足
+羽岚_溪畔濯足_sfw:
+  1girl, solo, cowboy shot, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), relaxed contented smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, cleavage, (plain celadon cloth robe:1.3), lifted skirt hem, bare legs, barefoot, (feet in focus, wooden bead anklet:1.2), sitting, dipping foot in water, soft warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_溪畔濯足_nsfw:
+  nsfw, nude, blush, wet skin, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), (amber-gold eyes:1.3), shy relaxed smile, looking at viewer, voluptuous body, gigantic breasts, nipples, wide hips, undone (plain celadon cloth robe:1.3), pooled around waist, bare legs, barefoot, (feet in focus, wooden bead anklet:1.2), sitting, dipping foot in water, soft warm lighting, (plain black background, solid black background:1.4), simple background
+
+# D. 月下妖相
+羽岚_月下妖相_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long floating wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (glowing amber-gold eyes, slit pupils:1.3), solemn trance expression, piercing wild gaze, looking at viewer, voluptuous body, gigantic breasts, cleavage, (plain celadon cloth robe:1.3), disheveled collar, glowing red string at waist, cool silver moonlight, (plain black background, solid black background:1.4), simple background
+
+羽岚_月下妖相_nsfw:
+  nsfw, nude, heavy blush, sweating, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long floating disheveled wavy hair, swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (glowing amber-gold eyes, slit pupils:1.3), half-closed eyes, pained lustful expression, looking at viewer, voluptuous body, gigantic breasts, nipples, torn (plain celadon cloth robe:1.3), open clothes, glowing red string at waist, kneeling, hand clutching chest, cool silver moonlight, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 额外主题 (Extra Themes)
+# ==========================================
+
+# E. 旧红绳
+羽岚_旧红绳_sfw:
+  1girl, solo, cowboy shot, from behind, looking back at viewer over shoulder, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), innocent curious expression, warm questioning gaze, voluptuous body, gigantic breasts, (wide hips:1.2), bare back, bare shoulders, half-slipped (plain celadon cloth robe:1.3), (faded red string tied around waist:1.4), warm afternoon lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_旧红绳_nsfw:
+  nsfw, nude, blush, 1girl, solo, cowboy shot, from behind, looking back at viewer over shoulder, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, swept bangs, damp hair strands on neck, (fair skin:1.1), (amber-gold eyes:1.3), shy flustered expression, looking at viewer, voluptuous body, gigantic breasts, nipples, (wide hips:1.3), (large ass:1.3), bare back, bare shoulders, (plain celadon cloth robe pooled at hips:1.3), (faded red string tied around bare waist:1.4), warm afternoon lighting, (plain black background, solid black background:1.4), simple background
+
+# F. 竹间小憩
+羽岚_竹间小憩_sfw:
+  1girl, solo, cowboy shot, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), closed eyes, sleeping, peaceful soft smile, voluptuous body, gigantic breasts, cleavage, one bare shoulder, collarbone, (plain celadon cloth robe:1.3), off one shoulder, faded red string at waist, leaning to side, dappled warm lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_竹间小憩_nsfw:
+  nsfw, nude, blush, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair spread out, swept bangs, (fair skin:1.1), closed eyes, sleeping, peaceful vulnerable expression, voluptuous body, gigantic breasts, nipples, undone (plain celadon cloth robe:1.3), open clothes, faded red string at waist, reclining on side, dappled warm lighting, (plain black background, solid black background:1.4), simple background
+
+# G. 玄冰亵裤
+羽岚_玄冰亵裤_sfw:
+  1girl, solo, cowboy shot, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), head tilt, innocent puzzled gaze, looking at viewer, voluptuous body, gigantic breasts, deep cleavage, (plain celadon cloth robe parted at hem:1.3), (dark ice-blue silk inner pants with crimson floral embroidery:1.3), faded red string at waist, seated, warm candlelight, (plain black background, solid black background:1.4), simple background
+
+羽岚_玄冰亵裤_nsfw:
+  nsfw, topless, blush, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), head tilt, innocent bewildered gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, wide hips, thick thighs, only wearing (dark ice-blue silk inner pants with crimson flower embroidery on crotch:1.4), faded red string at waist, seated with knees together, warm candlelight, (plain black background, solid black background:1.4), simple background
+
+# H. 暖泉氤氲
+羽岚_暖泉氤氲_sfw:
+  1girl, solo, upper body, wet skin, steam, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), bare shoulders, collarbone, (amber-gold eyes:1.3), half-closed eyes, blissful contented smile, looking at viewer, voluptuous body, gigantic breasts, cleavage above water surface, water ripples, warm misty lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_暖泉氤氲_nsfw:
+  nsfw, nude, heavy blush, wet skin, steam, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy blissful smile, looking at viewer, voluptuous body, gigantic breasts, nipples, wide hips, water droplets on skin, waist-deep in water, faded red string at waist, warm misty lighting, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 云雀本相主题 (Lark Demon Motif)
+# ==========================================
+
+# I. 羽背流光
+羽岚_羽背流光_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (small blue-grey feathers in hair:1.2), (fair skin:1.1), (amber-gold eyes:1.3), serene absent-minded gaze, hand touching hair strand, voluptuous body, gigantic breasts, cleavage, (plain celadon cloth robe:1.3), faded red string at waist, warm golden rim lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_羽背流光_nsfw:
+  nsfw, nude, blush, 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (small blue-grey feathers in hair:1.2), (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, dreamy absent-minded gaze, slightly parted lips, voluptuous body, gigantic breasts, nipples, half-slipped (plain celadon cloth robe:1.3), off shoulder, faded red string at waist, cool silver starlight, (plain black background, solid black background:1.4), simple background
+
+# J. 岚烟啼唤
+羽岚_岚烟啼唤_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), focused primal gaze, parted lips, hands cupped near mouth calling out, voluptuous body, gigantic breasts, cleavage, (plain celadon cloth robe:1.3), narrow sleeves, faded red string at waist, warm dawn lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_岚烟啼唤_nsfw:
+  nsfw, nude, blush, sweating, 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), yearning gaze upward, head tilted back, parted lips, hand on throat, voluptuous body, gigantic breasts, nipples, half-slipped (plain celadon cloth robe:1.3), off shoulder, faded red string at waist, warm dusk lighting, (plain black background, solid black background:1.4), simple background
+
+# K. 妖相残影
+羽岚_妖相残影_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (soft blue-grey downy feathers on cheek:1.3), (amber-gold eyes:1.3), wide startled eyes, hand touching cheek, looking at viewer, voluptuous body, gigantic breasts, cleavage, (plain celadon cloth robe:1.3), disheveled collar, faded red string at waist, dim ethereal lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_妖相残影_nsfw:
+  nsfw, nude, heavy blush, sweating, 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (soft blue-grey downy feathers on neck and shoulder:1.3), (amber-gold eyes:1.3), half-closed flustered eyes, parted lips, looking at viewer, voluptuous body, gigantic breasts, nipples, torn (plain celadon cloth robe:1.3), open clothes, hand clutching chest, faded red string at waist, dim ethereal lighting, (plain black background, solid black background:1.4), simple background
+
+# L. 妖羽仙衣
+羽岚_妖羽仙衣_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), serene gentle smile, warm soft gaze, looking at viewer, voluptuous body, gigantic breasts, cleavage, (blue-grey and warm brown layered feather cloak over shoulders:1.4), (plain celadon cloth robe beneath:1.2), faded red string at waist, soft silver moonlight, (plain black background, solid black background:1.4), simple background
+
+羽岚_妖羽仙衣_nsfw:
+  nsfw, nude, blush, 1girl, solo, cowboy shot, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy sensual smile, looking at viewer, voluptuous body, gigantic breasts, nipples, wide hips, slipping (blue-grey and warm brown layered feather cloak:1.4), open front, floating feathers, faded red string at waist, soft silver moonlight, (plain black background, solid black background:1.4), simple background
+
+# M. 罗衫半掩
+羽岚_罗衫半掩_sfw:
+  1girl, solo, upper body, sweating, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), (amber-gold eyes:1.3), drowsy innocent smile, warm languid gaze, looking at viewer, voluptuous body, gigantic breasts, cleavage, (translucent pale green silk gauze hanfu robe clinging to skin:1.4), sheer fabric, faded red string at waist, warm sunlight, (plain black background, solid black background:1.4), simple background
+
+羽岚_罗衫半掩_nsfw:
+  nsfw, nude, heavy blush, sweating, 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drowsy sensual gaze, slightly parted lips, looking at viewer, voluptuous body, gigantic breasts, nipples, undone (translucent pale green silk gauze hanfu robe clinging to wet skin:1.4), off shoulder, faded red string at waist, warm sunlight, (plain black background, solid black background:1.4), simple background
+
+# N. 对镜初妆
+羽岚_对镜初妆_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), curious bewildered expression, innocent questioning gaze, looking at viewer, voluptuous body, gigantic breasts, cleavage, (plain celadon cloth robe:1.3), faded red string at waist, leaning forward slightly, fingertip touching water ripples, soft golden lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_对镜初妆_nsfw:
+  nsfw, nude, blush, 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), fascinated confused expression, looking at viewer, voluptuous body, gigantic breasts, nipples, half-slipped (plain celadon cloth robe:1.3), off shoulder, faded red string at waist, leaning forward slightly, fingertip touching water ripples, soft golden lighting, (plain black background, solid black background:1.4), simple background
+
+# O. 醉卧花阴
+羽岚_醉卧花阴_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), (tipsy blush:1.2), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, flower petals in hair, (fair skin:1.1), (amber-gold eyes:1.3), half-closed eyes, drunk blissful smile, dreamy gaze, looking at viewer, voluptuous body, gigantic breasts, cleavage, loose (plain celadon cloth robe:1.3), faded red string at waist, reclining on side, warm afternoon lighting, (plain black background, solid black background:1.4), simple background
+
+羽岚_醉卧花阴_nsfw:
+  nsfw, nude, (heavy tipsy blush:1.2), 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, flower petals in hair and on skin, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, drunk indulgent smile, drowsy gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, undone (plain celadon cloth robe:1.3), open clothes, faded red string at waist, reclining on side, warm afternoon lighting, (plain black background, solid black background:1.4), simple background
+
+# P. 云肩半落
+羽岚_云肩半落_sfw:
+  1girl, solo, upper body, (plump face, round cheeks:1.1), rosy cheeks, (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, (fair skin:1.1), (amber-gold eyes:1.3), shy innocent gaze, hand touching collar, looking at viewer, voluptuous body, gigantic breasts, cleavage, (blue-grey and brown downy feather cloud collar slipping off one shoulder:1.4), (plain celadon cloth robe:1.3), faded red string at waist, warm candlelight, (plain black background, solid black background:1.4), simple background
+
+羽岚_云肩半落_nsfw:
+  nsfw, nude, blush, 1girl, solo, upper body, (plump face, round cheeks:1.1), (natural beauty, no makeup:1.2), (light blue-grey hair:1.3), very long wavy hair, (hair over one shoulder:1.4), swept bangs, damp hair strands on neck, (fair skin:1.1), collarbone, (amber-gold eyes:1.3), half-closed eyes, shy flustered gaze, looking at viewer, voluptuous body, gigantic breasts, nipples, half-slipped (blue-grey and brown downy feather cloud collar:1.4), off shoulder, faded red string at waist, warm candlelight, (plain black background, solid black background:1.4), simple background
+
+负面提示词:
+  (worst quality, low quality, normal quality, caucasian:1), (scales, dragon scales, reptile scales, snake scales:1.4), (double buns, twin buns, odango:1.3), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, loli, young girl, flat chest, small breasts, modern clothes, sci-fi, (blonde hair, black hair, pink hair, white hair:1.3), (cat eyes, feline eyes, cat pupils:1.5), (makeup, lipstick, heavy makeup:1.2), complex background, detailed background

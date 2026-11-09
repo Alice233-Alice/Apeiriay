@@ -1,0 +1,14 @@
+# 朔望舒生图提示词5 — 中秋·琼楼桂影
+# 主题：中秋月满，桂花浮玉。朔望舒着月白缀桂新裁华服，执团扇立于纯色净底之上——冷艳女帝难得一现的人间烟火气。
+# 设计理念：以「桂」补「月」。朔望舒本命为琼月，月相意象已用尽；中秋之新意全在桂花与团圆。桂金对霜发是极强撞色，月白主色又把神性拉回温润。
+# 构图：全系 upper body 半身特写，沿用底模甜区。背景为纯色净底，不加环境杂物。
+# 专属负面提示词（沿用4号文件实测最佳版）：(worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, milf, muscular, colored skin, modern clothes, sci-fi
+# 备注：① 桂金为暖金调，与原有 negative 的 red clothes 压制不冲突；② (osmanthus:1.3) 权重不宜加更高，过高易生黄色花团盖住衣纹；③ 本套回避玉兔、飞鸟、仙鹤等意象（与专属 negative 的 (animal:1.6) 冲突），改以桂花纹样承载中秋语义。
+# 切白底：将 (plain black background:1.5) 改为 (plain white background:1.5)，并在 intricate detail 前插入 soft even lighting, no harsh shadow。注意白底需删去深色背景的强轮廓光描述，否则边缘发灰。
+# ==========================================
+
+朔望舒_女帝_琼楼桂影_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, gigantic breasts, deep cleavage, calm and tender expression, faint smile, crimson lips, (pure white hair:1.3), elegant high updo, (silver moon-shaped hairpins:1.3), (osmanthus branch hair ornament:1.2), deep purple eyes, wuxia, xianxia, (elegant moon-white hanfu:1.4), (dark gold osmanthus embroidery:1.3), silver cloud pattern trim, translucent silk, open chest, sheer wide sleeves, (holding a round silk fan:1.3), (osmanthus:1.3), few osmanthus petals falling, (plain black background:1.5), (simple background:1.3), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔望舒_女帝_琼楼桂影_nsfw:
+  nsfw, nude, gigantic breasts, nipples, mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, tender and lustful expression, crimson lips, (pure white hair:1.3), elegant high updo slightly undone, (silver moon-shaped hairpin askew:1.3), (osmanthus branch hair ornament:1.2), deep purple eyes, wuxia, xianxia, half-slipped (elegant moon-white hanfu:1.4), open clothes, (dark gold osmanthus embroidery:1.3), silver cloud pattern trim, sheer wide sleeves pooled around elbows, bare shoulders, open chest, (holding a round silk fan:1.3), (osmanthus:1.3), few osmanthus petals on bare skin, half-lidded eyes, looking at viewer, (plain black background:1.5), (simple background:1.3), painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail

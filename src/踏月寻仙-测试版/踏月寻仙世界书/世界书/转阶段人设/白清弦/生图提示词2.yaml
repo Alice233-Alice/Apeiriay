@@ -1,0 +1,125 @@
+# 白清弦生图提示词 第二辑 (Illustrious 底模适配，danbooru 标签风格)
+# 核心特征同第一辑：成熟女性、黑发发髻、白玉头饰与银簪、眉心红钿、灰瞳、红唇与眼影、白衣汉服、巨乳
+# 本辑设计理念：裸体围裙——清冷师尊的反差色气，系着围裙看似贤惠，实则围裙之下不着寸缕
+# 构图以 upper body 为核心，利用 naked apron 经典题材，展现围裙边缘溢出的侧乳、后背系带交叉下的全裸线条
+# 以下提示词皆为虚拟，请勿当真
+
+# 【通用特征包】mature female, mature face, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts
+
+# ==========================================
+# 裸体围裙 · 素裳六式（Upper Body Naked Apron 主题）
+# 设计理念：白清弦贵为剑尊，围裙系身时端庄神情不改，但围裙之下空无一物——
+#    侧乳、后背、系带交叉处的全裸肌肤，与尊严神情构成最强的反差色气
+# 材质核心：white apron, fabric apron, apron strings, apron around neck
+# 构图：upper body 为主，sfw 中围裙遮住关键部位，nsfw 中围裙之下全然裸露
+# 背景：dark background 纯黑背景，突出素白围裙与裸露肌肤的对比
+# ==========================================
+
+白清弦_裸体围裙_正面_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, sideboob, apron partially covering breasts, bare shoulders, bare arms, dignified, gentle smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_正面_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, sideboob, exposed nipples, exposed breasts, bare shoulders, bare arms, dignified, half-closed eyes, faint blush, glistening skin, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_侧身_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, from side, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, sideboob, apron barely covering breasts from side, bare shoulders, bare arms, side waist visible, dignified, gentle smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_侧身_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, from side, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, sideboob, exposed side breast, exposed nipples, bare shoulders, bare arms, side waist fully visible, dignified, half-closed eyes, faint blush, glistening skin, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_回眸_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, from behind, looking back at viewer over shoulder, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, (apron strings visible on bare back:1.4), exposed back, bare shoulders, dignified, mysterious smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_回眸_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, from behind, looking back at viewer over shoulder, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, (apron strings visible on bare back:1.4), side breast visible when turning, exposed back, bare shoulders, dignified, half-closed eyes, heavy blush, glistening skin, dark background, cinematic lighting
+
+白清弦_裸体围裙_俯身_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, leaning forward, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, apron loosened while leaning forward, cleavage emphasized by posture, bare shoulders, bare arms, dignified, gentle smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_俯身_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, leaning forward, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, apron loosened while leaning forward, exposed breasts, exposed nipples, heavy breasts hanging, bare shoulders, bare arms, dignified, half-closed eyes, heavy blush, glistening skin, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_湿透_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), (wet apron:1.4), clinging to body, water drops on apron, bare shoulders, bare arms, dignified, gentle smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_湿透_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), (wet apron:1.4), (wet fabric clinging to body:1.3), (nipples clearly visible through wet apron:1.4), soaked apron becoming translucent, bare shoulders, bare arms, dignified, half-closed eyes, heavy blush, glistening skin, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_系带半解_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, (one apron string untied:1.4), apron slipping off one shoulder, fabric poised at the edge, dignified, shy smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_系带半解_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, (one apron string untied:1.4), apron slipping off completely, exposed breasts, exposed nipples, one breast fully visible, dignified, half-closed eyes, heavy blush, glistening skin, looking at viewer, dark background, cinematic lighting
+
+# ==========================================
+# 裸体围裙 · 第二辑——叙事性裸露（Upper Body Naked Apron 拓展系列）
+# 设计理念：从"摆好姿势穿好围裙"升级为"正在发生的瞬间"——
+#    系带崩断的意外、剑锋抵肩的威慑、乳汁洇开的失控、
+#    穿而未完的暴露临界、横陈事后的诚实肉体
+#    不再是她被看，而是行为中途不可回避的裸露
+# 构图：upper body 为主，引入 from below / on back / leaning on table 等非常规视角
+# 背景：dark background 纯黑背景，突出胴体与白色围裙的明暗对比
+# ==========================================
+
+白清弦_裸体围裙_正在系带_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), holding apron, putting on apron, arms reaching behind back, tying apron strings, apron held in front of body, cleavage, bare shoulders, bare arms, dignified, focused expression, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_正在系带_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), holding apron, putting on apron, arms reaching behind back, tying apron strings, apron held in front of body, exposed breasts, exposed nipples, bare shoulders, bare arms, dignified, focused expression, half-closed eyes, faint blush, (glistening skin:1.2), looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_剑锋挑带_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, holding sword, reverse grip, sword tip under apron strap, apron strap slipping off one shoulder, sideboob, bare shoulder, bare arms, dignified, cold expression, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_剑锋挑带_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, holding sword, reverse grip, sword tip under apron strap, apron strap cut, apron falling from one shoulder, exposed breast, exposed nipple, bare shoulder, bare arms, dignified, cold expression, half-closed eyes, faint blush, (glistening skin:1.2), looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_跪姿仰视_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, from below, kneeling, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, bare thighs implied, dignified, condescending smile, looking down at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_跪姿仰视_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, from below, kneeling, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, upskirt, pantsu, bare thighs, bare hip, dignified, condescending smile, heavy blush, looking down at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_玉乳压案_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, leaning on table, breasts pressed against table, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron bunched up, cleavage, arms folded on table, peeking from between arms, dignified, gentle smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_玉乳压案_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, leaning on table, breasts pressed against table, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron bunched up, (squished breasts:1.3), exposed breasts, exposed nipples, arms folded on table, peeking from between arms, dignified, half-closed eyes, heavy blush, (glistening skin:1.2), looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_炉灶雾透_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, steam, cooking, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), (wet apron:1.4), wet fabric clinging to body, water drops, cleavage visible through wet fabric, holding ladle, dignified, gentle smile, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_炉灶雾透_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, steam, cooking, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), (wet apron:1.4), (wet fabric clinging to body:1.3), (nipples clearly visible through wet apron:1.4), translucent fabric, water drops, holding ladle, dignified, half-closed eyes, heavy blush, (glistening skin:1.2), looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_乳汁洇开_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, lactation, milk leaking, (wet spots on apron:1.3), flustered, dignified, looking down at chest, dark background, cinematic lighting
+
+白清弦_裸体围裙_乳汁洇开_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, lactation, milk leaking, (wet spots on apron:1.3), (milk dripping from nipples:1.3), exposed nipples, nipples visible through wet apron, milk on fingers, flustered, dignified, heavy blush, looking down at chest, dark background, cinematic lighting
+
+白清弦_裸体围裙_系带缚腕_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron hanging from neck, apron strings wrapped around wrists, bound wrists, struggling, trying to free hands, bare shoulders, bare arms, cleavage, dignified, flustered, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_系带缚腕_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron hanging from neck, apron strings wrapped around wrists, bound wrists, struggling, (wrists tied behind back:1.3), exposed breasts, exposed nipples, bare shoulders, bare arms, dignified, flustered, heavy blush, half-closed eyes, (glistening skin:1.2), looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_提掀下摆_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, lifting own apron, holding up apron, exposed navel, bare stomach, bare thighs implied, dignified, calm expression, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_提掀下摆_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, lifting own apron, holding up apron, exposed lower body, panties, bare stomach, bare thighs, bare hip, dignified, calm expression, half-closed eyes, heavy blush, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_系带崩断_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, (straining fabric:1.4), apron straps digging into shoulders, cleavage emphasized, fabric barely containing breasts, dignified, nervous expression, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_系带崩断_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, front view, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron around neck, (straining fabric:1.4), apron straps digging into shoulders, (fabric tearing:1.3), breasts bursting out, exposed breasts, exposed nipples, flying fabric, dignified, surprised expression, half-closed eyes, heavy blush, (glistening skin:1.2), looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_横陈事后_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, lying on back, on bed, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron loosely draped over body, sweaty, (glistening skin:1.3), arm covering eyes, panting, exhausted, afterglow, serene expression, looking at viewer, dark background, cinematic lighting
+
+白清弦_裸体围裙_横陈事后_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, mature female, mature face, upper body, lying on back, on bed, <lora:ShuiYue IL:0.5>, shuiyue, black hair, hair bun, white hairdress, silver hairpin, red forehead mark, (detailed grey eyes:1.2), red lips, eyeshadow, earrings, jewelry, gigantic breasts, naked apron, (white apron:1.3), apron loosely draped over body, exposed breasts, exposed nipples, body fluids, (love juices on apron:1.3), (love juices on thighs:1.3), love juices on stomach, sweaty, (glistening skin:1.4), arm covering eyes, panting, exhausted, afterglow, heavy blush, half-closed eyes, looking at viewer, dark background, cinematic lighting
+
+负面提示词:
+  lowres, bad anatomy, bad hands, text, error, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, deformed face, ugly face, bad face, extra fingers, mutated hands, bad eyes, asymmetric eyes, dull eyes, wasp waist, disproportionate body, unnatural body, (keyhole:1.5), literal keyhole, (flat chest:1.5), (small breasts:1.5), (medium breasts:1.5), (modern clothes:1.5), (sci-fi:1.5)

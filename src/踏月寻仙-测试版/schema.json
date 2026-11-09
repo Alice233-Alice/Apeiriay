@@ -1,0 +1,1616 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "世界时钟": {
+      "default": {
+        "纪元": "末法时代",
+        "年份": 1,
+        "月份": 1,
+        "日期": 1,
+        "时辰": "子时"
+      },
+      "type": "object",
+      "properties": {
+        "纪元": {
+          "default": "末法时代",
+          "type": "string"
+        },
+        "年份": {
+          "default": 1,
+          "type": "number"
+        },
+        "月份": {
+          "default": 1,
+          "type": "number"
+        },
+        "日期": {
+          "default": 1,
+          "type": "number"
+        },
+        "时辰": {
+          "default": "子时",
+          "type": "string"
+        }
+      }
+    },
+    "世界地图": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "区域名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "layer": {
+            "default": "地层",
+            "type": "string",
+            "enum": [
+              "天层",
+              "地层",
+              "下层"
+            ]
+          },
+          "danger": {
+            "type": "number"
+          },
+          "desc": {
+            "default": "",
+            "type": "string"
+          },
+          "connections": {
+            "default": [],
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "danger"
+        ]
+      }
+    },
+    "世界图志": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "事件名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "状态": {
+            "default": "",
+            "type": "string"
+          },
+          "事件": {
+            "default": "",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "宗门势力库": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "宗门名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "地": {
+            "type": "string",
+            "description": "所在地"
+          },
+          "特": {
+            "type": "string",
+            "description": "核心特点"
+          },
+          "力": {
+            "type": "string",
+            "description": "最高战力"
+          },
+          "营": {
+            "type": "string",
+            "enum": [
+              "正",
+              "魔",
+              "中"
+            ]
+          },
+          "模": {
+            "type": "string",
+            "enum": [
+              "超大",
+              "大",
+              "小",
+              "微",
+              "特"
+            ]
+          }
+        },
+        "required": [
+          "地",
+          "特",
+          "力",
+          "营",
+          "模"
+        ]
+      }
+    },
+    "功法库": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "功法名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "阶": {
+            "default": "凡",
+            "type": "string"
+          },
+          "性": {
+            "type": "string",
+            "description": "属性"
+          },
+          "效": {
+            "type": "string",
+            "description": "效果"
+          }
+        },
+        "required": [
+          "性",
+          "效"
+        ]
+      }
+    },
+    "法宝库": {
+      "default": {
+        "镇渊剑": {
+          "阶": "仙器",
+          "类": "剑"
+        },
+        "双鱼佩": {
+          "阶": "本命",
+          "类": "玉佩",
+          "本命特性": "源血契约、阴阳双生、器灵化形、与主共修、生死相依、锁血护主",
+          "器灵": "虞汐颜"
+        }
+      },
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "法宝名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "阶": {
+            "type": "string",
+            "enum": [
+              "凡器",
+              "法器",
+              "灵器",
+              "法宝",
+              "灵宝",
+              "仙器",
+              "圣器",
+              "道器",
+              "本命"
+            ]
+          },
+          "类": {
+            "type": "string",
+            "description": "类型"
+          },
+          "本命特性": {
+            "description": "本命法宝独有特性",
+            "$ref": "#/$defs/__schema0"
+          },
+          "器灵": {
+            "description": "器灵名称",
+            "$ref": "#/$defs/__schema1"
+          }
+        },
+        "required": [
+          "阶",
+          "类"
+        ]
+      }
+    },
+    "地点库": {
+      "default": {
+        "天渊": {
+          "域": "天层",
+          "类": "禁地",
+          "危": 95,
+          "特": "星辰裂隙",
+          "资": [
+            "星辰碎片",
+            "陨铁"
+          ]
+        },
+        "罡风带": {
+          "域": "天层",
+          "类": "禁地",
+          "危": 90,
+          "特": "罡风屏障",
+          "资": [
+            "罡风精华"
+          ]
+        },
+        "问道峰": {
+          "域": "神州",
+          "类": "宗门",
+          "危": 10,
+          "特": "万法宗",
+          "资": [
+            "功法",
+            "灵药"
+          ]
+        },
+        "剑门关": {
+          "域": "神州",
+          "类": "宗门",
+          "危": 15,
+          "特": "剑阁",
+          "资": [
+            "剑意",
+            "飞剑"
+          ]
+        },
+        "藏书阁": {
+          "域": "神州",
+          "类": "宗门",
+          "危": 5,
+          "特": "古籍",
+          "资": [
+            "功法",
+            "秘术"
+          ]
+        },
+        "酆都城": {
+          "域": "神州",
+          "类": "城镇",
+          "危": 30,
+          "特": "鬼市",
+          "资": [
+            "幽冥材料"
+          ]
+        },
+        "龙门瀑": {
+          "域": "神州",
+          "类": "秘境",
+          "危": 40,
+          "特": "化龙",
+          "资": [
+            "龙气"
+          ]
+        },
+        "建木林": {
+          "域": "东苍",
+          "类": "地形",
+          "危": 50,
+          "特": "古树精",
+          "资": [
+            "灵木",
+            "妖丹"
+          ]
+        },
+        "青帝陵": {
+          "域": "东苍",
+          "类": "遗迹",
+          "危": 85,
+          "特": "青帝传承",
+          "资": [
+            "青帝传承"
+          ]
+        },
+        "百花境": {
+          "域": "东苍",
+          "类": "秘境",
+          "危": 20,
+          "特": "花海",
+          "资": [
+            "灵花"
+          ]
+        },
+        "不灭火山": {
+          "域": "南炎",
+          "类": "地形",
+          "危": 80,
+          "特": "朱雀涅槃",
+          "资": [
+            "朱雀火"
+          ]
+        },
+        "涅槃台": {
+          "域": "南炎",
+          "类": "遗迹",
+          "危": 70,
+          "特": "涅槃",
+          "资": [
+            "涅槃感悟"
+          ]
+        },
+        "万剑冢": {
+          "域": "西庚",
+          "类": "禁地",
+          "危": 85,
+          "特": "剑意",
+          "资": [
+            "剑意",
+            "古剑"
+          ]
+        },
+        "玄冰山": {
+          "域": "北冥",
+          "类": "宗门",
+          "危": 50,
+          "特": "玄武宗",
+          "资": [
+            "玄冰"
+          ]
+        },
+        "归墟眼": {
+          "域": "北冥",
+          "类": "禁地",
+          "危": 99,
+          "特": "归墟",
+          "资": [
+            "归墟感悟"
+          ]
+        },
+        "黄泉迹": {
+          "域": "下层",
+          "类": "遗迹",
+          "危": 90,
+          "特": "幽冥",
+          "资": [
+            "黄泉水"
+          ]
+        },
+        "炎渊": {
+          "域": "下层",
+          "类": "禁地",
+          "危": 95,
+          "特": "地心火",
+          "资": [
+            "地心火"
+          ]
+        }
+      },
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "地点名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "域": {
+            "type": "string",
+            "enum": [
+              "天层",
+              "神州",
+              "东苍",
+              "南炎",
+              "西庚",
+              "北冥",
+              "下层",
+              "四海"
+            ]
+          },
+          "类": {
+            "type": "string",
+            "enum": [
+              "秘境",
+              "城镇",
+              "宗门",
+              "禁地",
+              "遗迹",
+              "地形"
+            ]
+          },
+          "危": {
+            "type": "number"
+          },
+          "特": {
+            "type": "string",
+            "description": "特点"
+          },
+          "资": {
+            "default": [],
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "required": [
+          "域",
+          "类",
+          "危",
+          "特"
+        ]
+      }
+    },
+    "$宗门推断": {
+      "default": {
+        "当前域": "",
+        "当前主势力": ""
+      },
+      "type": "object",
+      "properties": {
+        "当前域": {
+          "default": "",
+          "type": "string"
+        },
+        "当前主势力": {
+          "default": "",
+          "type": "string"
+        }
+      }
+    },
+    "灵根库": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "灵根名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "质": {
+            "type": "string",
+            "enum": [
+              "劣",
+              "下",
+              "中",
+              "上",
+              "极",
+              "天",
+              "异"
+            ]
+          },
+          "性": {
+            "type": "string",
+            "description": "属性"
+          },
+          "稀": {
+            "type": "string",
+            "enum": [
+              "常",
+              "少",
+              "罕",
+              "稀",
+              "传"
+            ]
+          }
+        },
+        "required": [
+          "质",
+          "性",
+          "稀"
+        ]
+      }
+    },
+    "体质库": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "体质名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "质": {
+            "type": "string",
+            "enum": [
+              "凡",
+              "灵",
+              "道",
+              "圣",
+              "神"
+            ]
+          },
+          "特": {
+            "type": "string",
+            "description": "特性"
+          },
+          "稀": {
+            "type": "string",
+            "enum": [
+              "常",
+              "少",
+              "罕",
+              "稀",
+              "传"
+            ]
+          }
+        },
+        "required": [
+          "质",
+          "特",
+          "稀"
+        ]
+      }
+    },
+    "本尊": {
+      "default": {
+        "等级": 1,
+        "修为": 0,
+        "灵根": "五行杂灵根",
+        "体质": "凡体",
+        "功法": "无",
+        "本命兵器": "无",
+        "神通列表": {},
+        "灵石": 0,
+        "已活岁月": 0,
+        "尝试突破": false,
+        "修炼状态": {
+          "阶段": "修炼中",
+          "瓶颈原因": "",
+          "突破目标": "",
+          "上次结果": "无"
+        },
+        "行踪": {
+          "当前区域": "未知之地",
+          "所属层级": "地层",
+          "环境描述": "",
+          "危险度": 10,
+          "可用通道": [],
+          "导航信息": ""
+        },
+        "身份": {
+          "姓名": "无名氏",
+          "宗门": "散修",
+          "出身": "凡人"
+        },
+        "背包": {},
+        "法宝": {},
+        "杂物袋": {},
+        "战斗状态": {
+          "正在战斗": false,
+          "当前状态": "非战斗",
+          "灵力值": 100,
+          "伤势等级": "无伤",
+          "已用底牌": [],
+          "战斗回合": 0
+        },
+        "当前敌人": [],
+        "渡劫状态": {
+          "正在渡劫": false,
+          "劫种": "无",
+          "劫难等级": "无",
+          "当前阶段": 0,
+          "总阶段数": 0,
+          "劫力承受": 100,
+          "已用护道": [],
+          "劫难描述": "",
+          "触发原因": "",
+          "上次渡劫结果": "无",
+          "渡劫冷却": 0,
+          "失败惩罚记录": ""
+        }
+      },
+      "type": "object",
+      "properties": {
+        "等级": {
+          "default": 1,
+          "type": "number"
+        },
+        "修为": {
+          "default": 0,
+          "type": "number"
+        },
+        "灵根": {
+          "default": "五行杂灵根",
+          "type": "string"
+        },
+        "体质": {
+          "default": "凡体",
+          "type": "string"
+        },
+        "功法": {
+          "default": "无",
+          "type": "string"
+        },
+        "本命兵器": {
+          "default": "无",
+          "type": "string"
+        },
+        "神通列表": {
+          "default": {},
+          "type": "object",
+          "propertyNames": {
+            "type": "string",
+            "description": "神通名"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/__schema2"
+          }
+        },
+        "灵石": {
+          "default": 0,
+          "type": "number"
+        },
+        "已活岁月": {
+          "default": 0,
+          "type": "number"
+        },
+        "尝试突破": {
+          "default": false,
+          "type": "boolean"
+        },
+        "修炼状态": {
+          "$ref": "#/$defs/__schema3"
+        },
+        "行踪": {
+          "default": {
+            "当前区域": "未知之地",
+            "所属层级": "地层",
+            "环境描述": "",
+            "危险度": 10,
+            "可用通道": [],
+            "导航信息": ""
+          },
+          "type": "object",
+          "properties": {
+            "当前区域": {
+              "default": "未知之地",
+              "type": "string"
+            },
+            "所属层级": {
+              "default": "地层",
+              "type": "string"
+            },
+            "环境描述": {
+              "default": "",
+              "type": "string"
+            },
+            "危险度": {
+              "default": 10,
+              "type": "number"
+            },
+            "可用通道": {
+              "default": [],
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "导航信息": {
+              "default": "",
+              "type": "string"
+            }
+          }
+        },
+        "身份": {
+          "default": {
+            "姓名": "无名氏",
+            "宗门": "散修",
+            "出身": "凡人"
+          },
+          "type": "object",
+          "properties": {
+            "姓名": {
+              "default": "无名氏",
+              "type": "string"
+            },
+            "宗门": {
+              "default": "散修",
+              "type": "string"
+            },
+            "出身": {
+              "default": "凡人",
+              "type": "string"
+            }
+          }
+        },
+        "背包": {
+          "$ref": "#/$defs/__schema4"
+        },
+        "法宝": {
+          "$ref": "#/$defs/__schema4"
+        },
+        "杂物袋": {
+          "$ref": "#/$defs/__schema4"
+        },
+        "战斗状态": {
+          "default": {
+            "正在战斗": false,
+            "当前状态": "非战斗",
+            "灵力值": 100,
+            "伤势等级": "无伤",
+            "已用底牌": [],
+            "战斗回合": 0
+          },
+          "type": "object",
+          "properties": {
+            "正在战斗": {
+              "default": false,
+              "type": "boolean"
+            },
+            "当前状态": {
+              "default": "非战斗",
+              "type": "string"
+            },
+            "灵力值": {
+              "default": 100,
+              "type": "number"
+            },
+            "伤势等级": {
+              "default": "无伤",
+              "type": "string"
+            },
+            "已用底牌": {
+              "default": [],
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "战斗回合": {
+              "default": 0,
+              "type": "number"
+            }
+          }
+        },
+        "当前敌人": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "名称": {
+                "default": "未知敌人",
+                "type": "string"
+              },
+              "境界": {
+                "default": "未知",
+                "type": "string"
+              },
+              "战力评估": {
+                "default": "势均力敌",
+                "type": "string"
+              },
+              "状态": {
+                "default": "完好",
+                "type": "string"
+              },
+              "特点": {
+                "default": "",
+                "type": "string"
+              }
+            }
+          }
+        },
+        "渡劫状态": {
+          "default": {
+            "正在渡劫": false,
+            "劫种": "无",
+            "劫难等级": "无",
+            "当前阶段": 0,
+            "总阶段数": 0,
+            "劫力承受": 100,
+            "已用护道": [],
+            "劫难描述": "",
+            "触发原因": "",
+            "上次渡劫结果": "无",
+            "渡劫冷却": 0,
+            "失败惩罚记录": ""
+          },
+          "type": "object",
+          "properties": {
+            "正在渡劫": {
+              "default": false,
+              "type": "boolean"
+            },
+            "劫种": {
+              "default": "无",
+              "type": "string"
+            },
+            "劫难等级": {
+              "default": "无",
+              "type": "string"
+            },
+            "当前阶段": {
+              "default": 0,
+              "type": "number"
+            },
+            "总阶段数": {
+              "default": 0,
+              "type": "number"
+            },
+            "劫力承受": {
+              "default": 100,
+              "type": "number"
+            },
+            "已用护道": {
+              "default": [],
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "劫难描述": {
+              "default": "",
+              "type": "string"
+            },
+            "触发原因": {
+              "default": "",
+              "type": "string"
+            },
+            "上次渡劫结果": {
+              "default": "无",
+              "type": "string"
+            },
+            "渡劫冷却": {
+              "default": 0,
+              "type": "number"
+            },
+            "失败惩罚记录": {
+              "default": "",
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "红颜角色库": {
+      "default": {
+        "许听雨": {
+          "级": 33,
+          "根": "水本源天",
+          "质": "归墟神体",
+          "龄": "外26实12000",
+          "属": "归墟之主",
+          "法": "万水归源先天",
+          "器": "沧海遗珠先天",
+          "通": [
+            "归墟歌",
+            "逆流虚妄",
+            "寂灭海域",
+            "万水同源"
+          ]
+        },
+        "虞汐颜": {
+          "级": 12,
+          "根": "水阴阳异",
+          "质": "双鱼体",
+          "龄": "化形0年",
+          "属": "{{user}}玉佩",
+          "法": "双生天极/阴阳",
+          "器": "双鱼佩本体",
+          "通": [
+            "枯木春",
+            "夺命妆",
+            "双鱼梦"
+          ]
+        },
+        "白清弦": {
+          "级": 29,
+          "根": "金天根",
+          "质": "剑体",
+          "龄": "外30实1000+",
+          "属": "散修剑宗师",
+          "法": "剑意仙/天音天",
+          "器": "清弦琴剑灵宝",
+          "通": [
+            "琴剑杀",
+            "剑意歌",
+            "万剑心"
+          ]
+        },
+        "南宫云裳": {
+          "级": 16,
+          "根": "火天根",
+          "质": "神凰道体",
+          "龄": "外10实118",
+          "属": "大夏栖凤宫主",
+          "法": "九转涅槃仙",
+          "器": "栖梧簪灵宝",
+          "通": [
+            "南明离火",
+            "凰威镇世",
+            "羽化虚空"
+          ]
+        },
+        "梦杳泠": {
+          "级": 23,
+          "根": "瑞兽异根",
+          "质": "乘黄圣体",
+          "龄": "外8实万年+",
+          "属": "无(末代乘黄)",
+          "法": "乘黄本源天",
+          "器": "无",
+          "通": [
+            "瑞光庇佑",
+            "灵觉通明",
+            "本源爆发"
+          ]
+        },
+        "阮忘忧": {
+          "级": 44,
+          "根": "因果大道本源",
+          "质": "万法不侵之体",
+          "龄": "二八芳华/历劫万载",
+          "属": "仙界仙王（凡界伪装）",
+          "法": "因果大道",
+          "器": "无（万物皆兵）",
+          "通": [
+            "概念抹除",
+            "因果篡改",
+            "仙王威压",
+            "重塑纪元"
+          ]
+        },
+        "晚棠": {
+          "级": 15,
+          "根": "幽冥灵根",
+          "质": "噬魂之体",
+          "龄": "未知",
+          "属": "散修",
+          "法": "幽冥归魂经天",
+          "器": "引魂铃灵宝",
+          "通": [
+            "冥河指引",
+            "冥莲沉梦",
+            "归魂摆舟"
+          ]
+        },
+        "朔璃鸢": {
+          "级": 4,
+          "根": "异变风灵根",
+          "质": "桂魄玲珑体",
+          "龄": "外16实16",
+          "属": "西庚琼轮垂曜宫离宗千金",
+          "法": "碎星幽影诀残篇",
+          "器": "碎星双刃",
+          "通": [
+            "燕回闪"
+          ]
+        },
+        "朔望舒": {
+          "级": 32,
+          "根": "皓月异灵根",
+          "质": "皓月幽微体",
+          "龄": "外20实2000+",
+          "属": "西庚琼轮垂曜宫宫主",
+          "法": "赤渊镇世血月诀",
+          "器": "霜魄极品灵宝",
+          "通": [
+            "月映千机",
+            "赤月昭心",
+            "月华封禁",
+            "血月镇魂",
+            "万影归宗"
+          ]
+        },
+        "安迟迟": {
+          "级": 9,
+          "根": "木属天灵根",
+          "质": "墨海灵心",
+          "龄": "外23实23",
+          "属": "东苍浮云朝露阁藏卷阁掌籍弟子",
+          "法": "书画载道",
+          "器": "青琅玕笔",
+          "通": [
+            "神魂镇海",
+            "书墨化形",
+            "丹青赋灵",
+            "过目成诵"
+          ]
+        }
+      },
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "角色名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "级": {
+            "type": "number"
+          },
+          "根": {
+            "type": "string",
+            "description": "灵根"
+          },
+          "质": {
+            "type": "string",
+            "description": "体质"
+          },
+          "龄": {
+            "type": "string",
+            "description": "年龄"
+          },
+          "属": {
+            "type": "string",
+            "description": "所属"
+          },
+          "法": {
+            "type": "string",
+            "description": "功法"
+          },
+          "器": {
+            "type": "string",
+            "description": "本命兵器"
+          },
+          "通": {
+            "default": [],
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "自定义立绘": {
+            "default": {},
+            "type": "object",
+            "properties": {
+              "正面": {
+                "default": "",
+                "type": "string"
+              },
+              "背面": {
+                "default": "",
+                "type": "string"
+              }
+            }
+          }
+        },
+        "required": [
+          "级",
+          "根",
+          "质",
+          "龄",
+          "属",
+          "法",
+          "器"
+        ]
+      }
+    },
+    "红颜": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "红颜名"
+      },
+      "additionalProperties": {
+        "default": {
+          "等级": 1,
+          "修为": 0,
+          "灵根": "五行杂灵根",
+          "体质": "凡体",
+          "功法": "无",
+          "本命兵器": "无",
+          "神通列表": {},
+          "灵石": 0,
+          "已活岁月": 0,
+          "尝试突破": false,
+          "修炼状态": {
+            "阶段": "修炼中",
+            "瓶颈原因": "",
+            "突破目标": "",
+            "上次结果": "无"
+          },
+          "好感度": 0,
+          "关系": "陌生人",
+          "关系上下文": {}
+        },
+        "type": "object",
+        "properties": {
+          "等级": {
+            "default": 1,
+            "type": "number"
+          },
+          "修为": {
+            "default": 0,
+            "type": "number"
+          },
+          "灵根": {
+            "default": "五行杂灵根",
+            "type": "string"
+          },
+          "体质": {
+            "default": "凡体",
+            "type": "string"
+          },
+          "功法": {
+            "default": "无",
+            "type": "string"
+          },
+          "本命兵器": {
+            "default": "无",
+            "type": "string"
+          },
+          "神通列表": {
+            "default": {},
+            "type": "object",
+            "propertyNames": {
+              "type": "string",
+              "description": "神通名"
+            },
+            "additionalProperties": {
+              "$ref": "#/$defs/__schema2"
+            }
+          },
+          "灵石": {
+            "default": 0,
+            "type": "number"
+          },
+          "已活岁月": {
+            "default": 0,
+            "type": "number"
+          },
+          "尝试突破": {
+            "default": false,
+            "type": "boolean"
+          },
+          "修炼状态": {
+            "$ref": "#/$defs/__schema3"
+          },
+          "好感度": {
+            "default": 0,
+            "type": "number"
+          },
+          "关系": {
+            "default": "陌生人",
+            "type": "string"
+          },
+          "关系上下文": {
+            "default": {},
+            "type": "object",
+            "properties": {
+              "当前情绪": {
+                "default": "",
+                "type": "string"
+              },
+              "态度缘由": {
+                "default": "",
+                "type": "string"
+              },
+              "关系诉求": {
+                "default": "",
+                "type": "string"
+              },
+              "相处禁忌": {
+                "default": "",
+                "type": "string"
+              },
+              "未了约定": {
+                "default": "",
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "NPC图鉴": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "NPC名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "等级": {
+            "default": 1,
+            "type": "number"
+          },
+          "所在宗门": {
+            "default": "散修",
+            "type": "string"
+          },
+          "备注": {
+            "default": "",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "任务列表": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "任务ID"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "名称": {
+            "default": "",
+            "type": "string"
+          },
+          "类型": {
+            "default": "主线",
+            "type": "string"
+          },
+          "目标": {
+            "default": "",
+            "type": "string"
+          },
+          "状态": {
+            "default": "进行中",
+            "type": "string"
+          },
+          "秘境信息": {
+            "type": "object",
+            "properties": {
+              "域": {
+                "type": "string",
+                "enum": [
+                  "天层",
+                  "神州",
+                  "东苍",
+                  "南炎",
+                  "西庚",
+                  "北冥",
+                  "下层",
+                  "四海"
+                ]
+              },
+              "危": {
+                "type": "number"
+              },
+              "特": {
+                "type": "string"
+              },
+              "奖": {
+                "default": [],
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "限": {
+                "type": "string"
+              }
+            }
+          },
+          "创建时间": {
+            "default": 1794155332406,
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "声望系统": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "势力名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "值": {
+            "default": 0,
+            "type": "number"
+          },
+          "关系": {
+            "default": "陌生",
+            "type": "string"
+          },
+          "更新时间": {
+            "default": 1794155332406,
+            "type": "number"
+          }
+        }
+      }
+    },
+    "难度系统": {
+      "default": {},
+      "type": "object",
+      "properties": {
+        "天道感应": {
+          "default": "平稳",
+          "type": "string"
+        },
+        "环境高压警告": {
+          "default": "天道运转如常，万物循理。",
+          "type": "string"
+        },
+        "_难度系统内部数据": {
+          "default": {},
+          "type": "object",
+          "properties": {
+            "版本号": {
+              "default": 1,
+              "type": "number"
+            },
+            "平衡保护": {
+              "default": {},
+              "type": "object",
+              "properties": {
+                "连续受挫计数": {
+                  "default": 0,
+                  "type": "number"
+                },
+                "触发阈值": {
+                  "default": 3,
+                  "type": "number"
+                },
+                "生效剩余回合": {
+                  "default": 0,
+                  "type": "number"
+                },
+                "冷却剩余回合": {
+                  "default": 0,
+                  "type": "number"
+                }
+              }
+            },
+            "动态策略": {
+              "default": {},
+              "type": "object",
+              "properties": {
+                "单回合改变量上限": {
+                  "default": 0.15,
+                  "type": "number"
+                },
+                "自然回落速度": {
+                  "default": 0.03,
+                  "type": "number"
+                },
+                "增长冷却回合": {
+                  "default": 2,
+                  "type": "number"
+                }
+              }
+            },
+            "难度结算快照": {
+              "default": {},
+              "type": "object",
+              "properties": {
+                "回合基线系数": {
+                  "default": 1,
+                  "type": "number"
+                },
+                "本回合最终系数": {
+                  "default": 1,
+                  "type": "number"
+                },
+                "分层来源": {
+                  "default": {},
+                  "type": "object",
+                  "properties": {
+                    "世界叙事层": {
+                      "default": 1,
+                      "type": "number"
+                    },
+                    "玩家偏好层": {
+                      "default": 1,
+                      "type": "number"
+                    },
+                    "短期状态层": {
+                      "default": 1,
+                      "type": "number"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "可参与机遇": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "名称": {
+            "default": "",
+            "type": "string"
+          },
+          "来源": {
+            "default": "",
+            "type": "string"
+          },
+          "类型": {
+            "default": "探索",
+            "type": "string"
+          },
+          "描述": {
+            "default": "",
+            "type": "string"
+          },
+          "回报预期": {
+            "default": "",
+            "type": "string"
+          },
+          "风险评估": {
+            "default": "",
+            "type": "string"
+          },
+          "时限": {
+            "type": "string"
+          },
+          "关联事件": {
+            "type": "string"
+          },
+          "优先级": {
+            "default": 3,
+            "type": "number"
+          }
+        }
+      }
+    },
+    "当前处境": {
+      "default": "",
+      "type": "string"
+    },
+    "_系统设置": {
+      "default": {},
+      "type": "object",
+      "properties": {
+        "启用行动提示": {
+          "default": true,
+          "type": "boolean"
+        },
+        "修炼系统版本": {
+          "default": 1,
+          "type": "number"
+        },
+        "_临时状态手动覆盖签名": {
+          "default": "",
+          "type": "string"
+        }
+      }
+    },
+    "_好感度快照": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "红颜名"
+      },
+      "additionalProperties": {
+        "type": "number"
+      }
+    }
+  },
+  "$defs": {
+    "__schema0": {
+      "type": "string"
+    },
+    "__schema1": {
+      "type": "string"
+    },
+    "__schema2": {
+      "type": "object",
+      "properties": {
+        "名称": {
+          "default": "",
+          "type": "string"
+        },
+        "描述": {
+          "default": "",
+          "type": "string"
+        },
+        "类型": {
+          "default": "神通",
+          "type": "string",
+          "enum": [
+            "功法",
+            "神通",
+            "秘术"
+          ]
+        },
+        "品阶": {
+          "default": "凡",
+          "type": "string"
+        },
+        "熟练度": {
+          "default": "入门",
+          "type": "string"
+        },
+        "领悟时间": {
+          "default": 1794155332404,
+          "type": "number"
+        },
+        "威力等级": {
+          "type": "number"
+        }
+      }
+    },
+    "__schema3": {
+      "default": {
+        "阶段": "修炼中",
+        "瓶颈原因": "",
+        "突破目标": "",
+        "上次结果": "无"
+      },
+      "type": "object",
+      "properties": {
+        "阶段": {
+          "default": "修炼中",
+          "type": "string"
+        },
+        "瓶颈原因": {
+          "default": "",
+          "type": "string"
+        },
+        "突破目标": {
+          "default": "",
+          "type": "string"
+        },
+        "上次结果": {
+          "default": "无",
+          "type": "string"
+        }
+      }
+    },
+    "__schema4": {
+      "default": {},
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "description": "物品名"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "名称": {
+            "default": "",
+            "type": "string"
+          },
+          "描述": {
+            "default": "",
+            "type": "string"
+          },
+          "品阶": {
+            "default": "",
+            "type": "string"
+          },
+          "数量": {
+            "default": 1,
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
+}

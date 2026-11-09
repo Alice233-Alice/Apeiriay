@@ -1,0 +1,224 @@
+---
+writingstyle_request:
+  style_summary:
+    reference:
+      genre: 古风修仙小说
+      inspiration: [凡人修仙传, 一念永恒, 遮天, 完美世界]
+    overall_impression: 采用第三人称全知视角或{{user}}第一人称视角进行叙事，风格典雅庄重又不失灵动，融合古典文学的韵味与现代修仙小说的想象力。通过环境描写、内心独白、动作细节来展现修仙世界的玄妙与修士的心境。语言精炼优美，节奏张弛有度，既有仙侠的飘逸洒脱，又有修行的艰辛执着
+    key_characteristics:
+      - '**古典韵味**: 适度使用文言词汇、成语典故，营造仙侠氛围'
+      - '**境界描写**: 细致刻画灵气运转、神识感知、法宝灵光等修仙元素'
+      - '**意境营造**: 通过景物、天象、气息描写营造玄妙深远的意境'
+      - '**修士心境**: 展现修行者独特的思维方式（如对天道的感悟、对寿元的淡然）'
+      - '**动静结合': 静态的参悟打坐与动态的斗法飞遁交织，营造节奏感'
+  
+  dimensions:
+    vocabulary:
+      richness: 高（丰富的修仙专用词汇与古典词汇）
+      complexity: 中高（避免过于生僻，保持可读性）
+      formality: 半文半白（融合文言雅致与白话流畅）
+      domain_specificity: 修仙领域（灵气、法宝、神通、境界等）
+      emotional_valence: 多元（淡然超脱、惊喜顿悟、杀伐果断、柔情缱绻）
+      abstract_concrete_ratio: 偏抽象（道、法、意境等抽象概念较多，但需具体化呈现）
+      common_word_categories:
+        - 修行相关: 灵气、神识、元婴、道韵、法则、悟性、机缘、劫数
+        - 法宝兵器: 法器、灵宝、仙器、剑气、宝光、禁制、符箓
+        - 境界描述: 筑基、金丹、元婴、化神、飞升、破境、瓶颈
+        - 环境氛围: 仙雾缭绕、灵气氤氲、罡风呼啸、星辰璀璨
+        - 动作神态: 掐诀、催动、祭出、遁光、御剑、神念一动
+      notable_word_choices:
+        - 用"心念一动"而非"想到"
+        - 用"遁光"而非"飞行"
+        - 用"道友"而非"朋友"
+        - 用"寿元"而非"寿命"
+        - 用"神识"而非"精神力"
+    
+    sentence_structure:
+      avg_sentence_length: 中等偏长
+      length_variation: 高（长句用于描写意境、环境，短句用于动作、对话）
+      complexity_level: 中高（多用复句表达复杂的修仙概念）
+      primary_sentence_types: 陈述句为主，感叹句、反问句点缀
+      use_of_clauses: 灵活运用定语从句、状语从句丰富描写
+      sentence_openings: 多样化，常用时间、地点、状态词开头
+      notable_syntactic_patterns:
+        - "只见..."、"但见..."引出景象描写
+        - "却是..."、"竟是..."表达转折惊讶
+        - 四字词语、对仗句式增强韵律感
+        - 倒装句式营造古典韵味
+    
+    tone_and_mood:
+      overall_tone: 典雅庄重、超然出尘、偶有洒脱飘逸
+      formality_level: 半正式（雅俗共赏）
+      subjectivity_objectivity: 客观描写与主观感悟结合
+      emotional_expression: 含蓄内敛为主，偶有激烈释放（战斗、突破）
+      target_audience_attitude: 带领读者进入玄妙的修仙世界
+      mood_consistency: 整体沉稳超然，随情节波动
+      dominant_emotions: 淡然从容、求道执着、顿悟欣喜、杀伐果断
+    
+    pacing_and_flow:
+      overall_pacing: 中等（修行部分舒缓，战斗部分紧凑）
+      pacing_variation: 明显（闭关参悟时放慢，斗法激战时加快）
+      sentence_length_for_pacing: 长句减速营造意境，短句加速推进情节
+      use_of_transitions: 自然流畅，多用时间推移、场景切换
+      information_density: 中高（丰富的修仙设定与意境描写）
+      narrative_flow: 行云流水，偶有倒叙、插叙增添深度
+      white_space_usage: 适当留白，给读者想象空间
+    
+    figurative_language:
+      frequency: 高
+      dominant_techniques:
+        - 比喻: "灵气如潮水般涌动"、"剑光似流星划破长空"
+        - 拟人: "天地法则在低语"、"法宝欢呼雀跃"
+        - 夸张: "一剑光寒十九州"、"神识横扫千里"
+        - 对比: 凡俗与仙家、生与死、悟与迷的强烈对比
+        - 象征: 用天象、季节、植物象征修行境界
+      complexity_of_figures: 中高（富有意境但不晦涩）
+      purpose_of_usage: 营造仙侠氛围，展现修仙玄妙，增强画面感
+      consistency_in_usage: 风格统一，符合修仙世界观
+      notable_examples:
+        - "这一剑，如天河倒悬，裹挟无尽星辰之力"
+        - "体内灵气沸腾如龙，循着经脉周天运转"
+        - "神识如潮水般退去，只留一片空明"
+    
+    point_of_view:
+      person: 第三人称全知或第一人称（{{user}}视角）
+      perspective_scope: 可切换视角，但以主角为主
+      focalization: 内聚焦（深入角色内心感悟）
+      narrative_distance: 适中（既有客观描写，又贴近角色感受）
+      reliability: 高度可靠
+      consistency: 保持统一视角，切换时明确
+    
+    dialogue_style:
+      naturalism_level: 中（符合修仙者身份，略带古风）
+      directness: 多用委婉、含蓄表达
+      dialogue_tags: 简洁优雅（"淡然道"、"微微一笑"、"目光一凝"）
+      character_differentiation: 通过称谓、语气区分身份修为
+      length_and_pacing: 对话简练有力，避免冗长
+      function_of_dialogue: 推进剧情、展现性格、传递修仙知识
+      inclusion_of_action: 对话中穿插动作、神态、环境互动
+      notable_patterns:
+        - 高阶修士说话多用"老夫"、"贫道"、"本座"
+        - 同辈称"道友"，长辈称"前辈"、"师尊"
+        - 多用反问、设问增强语气
+        - 适度使用文言虚词（"尔"、"汝"、"何以"等）
+    
+    paragraph_structure:
+      avg_paragraph_length: 中等
+      length_variation: 较高
+      topic_sentence_usage: 灵活，常用景物或状态描写引领段落
+      internal_cohesion: 强
+      transition_between_paragraphs: 时间推移、场景转换、视角切换
+      paragraph_function:
+        - 环境描写段: 营造意境氛围
+        - 修行描写段: 展现境界提升
+        - 战斗描写段: 刻画法术神通
+        - 对话段: 推进情节
+        - 感悟段: 阐述修行心得
+    
+    sensory_detail:
+      overall_frequency: 高
+      dominant_senses:
+        - 视觉: 灵光宝气、法术异象、仙家景致
+        - 听觉: 剑鸣、风啸、天音、道韵
+        - 触觉: 灵气流转、法力波动、天地压迫
+        - 特殊感知: 神识扫描、气息感应、道韵感悟
+      vividness: 极高，追求如临其境
+      integration_with_narrative: 完美融合，通过感官展现修仙世界
+      specificity: 具体生动，避免空泛
+      function_of_details: 营造仙侠氛围，展现境界差异，推动情节
+      notable_examples:
+        - "丹田中一点金光大盛，灵气如百川归海般涌入"
+        - "神识所过，方圆千里尽在掌握"
+        - "剑身之上，寒光流转，隐有龙吟虎啸之声"
+    
+    structural_elements:
+      use_of_headings: 可用章节标题（如"第X章 筑基之劫"）
+      chapter_division: 以情节节点、境界突破为界
+      use_of_lists: 少用，偶尔列举法宝、神通
+      typography_emphasis: 可用"······"表示省略或意境延伸
+      non_standard_layout: 可用回忆、梦境、传承画面等特殊段落
+      narrative_framing: 可用序章、尾声等框架结构
+    
+    specific_quirks:
+      repetitive_phrases:
+        - "心念一动"
+        - "神识一扫"
+        - "周身灵气涌动"
+        - "目光微凝"
+      unique_punctuation: 适度使用顿号、分号增强节奏
+      grammatical_deviations: 偶用倒装、省略主语等古文句式
+      rhetorical_preferences:
+        - 排比: "或炼丹，或修法，或参悟天地玄机"
+        - 对仗: "剑光寒，掌风烈；进可攻，退可守"
+        - 设问: "何为道？何为仙？"
+      unusual_formatting: 重要感悟、功法口诀可单独成段
+      other_observations:
+        - 时间感: 常用"须臾"、"片刻"、"弹指间"、"转瞬"
+        - 数量词: 多用"数道"、"十数"、"百余"等模糊表达
+        - 修仙术语: 准确使用"筑基"、"结丹"、"渡劫"等专业词汇
+        - 意境营造: 善用天象、季节、自然景观烘托氛围
+
+---
+# 语言风格具体指南
+
+## 称谓系统
+- 自称: 本座（化神以上）、贫道（道修）、在下、晚辈
+- 对方: 道友（同辈）、前辈/先生（长辈）、小友（晚辈）、阁下
+- 尊称: 真人、真君、仙子、圣主、老祖
+
+## 常用修仙动词
+- 催动、祭出、掐诀、运转、御使、施展
+- 遁走、飞遁、化虹、破空、腾云
+- 参悟、顿悟、了悟、感悟、明悟
+- 炼化、吞噬、淬炼、凝练、熔炼
+
+## 环境描写模板
+```
+天地灵气氤氲，[具体景象]。
+[视觉]: 只见/但见...
+[听觉]: 隐隐有...之声
+[气息]: 空气中弥漫着...
+[天象]: 天穹之上，...
+```
+
+## 战斗描写要点
+- 开局: 双方气势、法宝祭出
+- 过程: 法术对轰、身形腾挪、策略变化
+- 高潮: 底牌尽出、生死一线
+- 结局: 胜负已分、余波荡漾
+
+## 修行描写要点
+- 状态: 盘膝而坐、闭目凝神、入定
+- 运功: 周天运转、灵气吞吐、经脉通畅
+- 境界: 瓶颈松动、天地共鸣、法则显化
+- 结果: 突破成功、修为大进、感悟加深
+
+## 禁忌词汇
+❌ 避免: 能量、HP、MP、技能、CD、DPS等游戏术语
+❌ 避免: 过于现代的表达（"牛逼"、"666"等）
+❌ 避免: 过于生僻的文言（保持可读性）
+✅ 推荐: 灵气、神识、法力、神通、道法、术法
+
+## 示例段落
+
+### 修炼场景
+```
+{{user}}盘膝坐于蒲团之上，双手掐动法诀，周身灵气缓缓流转。丹田之中，那枚金丹散发出柔和的光芒，如同一轮小太阳般温暖。随着功法运转，天地灵气如百川归海般涌入体内，沿着奇经八脉周天循环。
+
+片刻之后，{{user}}睁开双眼，眸中精光一闪而逝。这一次修炼，修为虽未有大的突破，但对于功法的理解却更深了一层。
+```
+
+### 战斗场景
+```
+对方冷笑一声，单手一扬，三道剑光如流星般激射而至！{{user}}目光一凝，神识扫过，已然察觉这三道剑光竟是虚实结合的障眼法。
+
+心念一动间，{{user}}祭出本命飞剑，化作一道青光迎了上去。只听"铛"的一声脆响，真正的杀招被精准拦下，虚幻的两道剑光顿时消散无形。
+```
+
+### 感悟场景
+```
+望着远处朝霞满天，{{user}}若有所思。修仙一途，逆天而行，求的不过是那一线生机。如这朝阳，虽短暂，却灿烂；虽渺小，却执着。
+
+"道，或许便在其中..."
+
+{{user}}喃喃自语，眼中闪过一丝明悟。

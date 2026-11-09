@@ -1,0 +1,22 @@
+# 朔璃鸢发型测试（Upper Body 对照）
+# 以半身特写为本，仅变更发型，其余特征完全一致，比对四款效果
+# ==========================================
+
+朔璃鸢_少女_发型测试_低垂马尾:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, 16yo, teenager, energetic, sweet smile, dimples, (pure black hair:1.3), loose low ponytail, flowing hair, crimson hair ribbon, (detailed eyes:1.2), (pure black eyes:1.3), large eyes, wuxia, xianxia, (elegant ranger outfit:1.3), (dark red and black accents:1.2), translucent silk, looking at viewer, dark background, warm amber rim light, dim lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_发型测试_侧髻松散:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, 16yo, teenager, energetic, sweet smile, dimples, (pure black hair:1.3), loose side bun, loose strands falling, crimson hair ribbon, (detailed eyes:1.2), (pure black eyes:1.3), large eyes, wuxia, xianxia, (elegant ranger outfit:1.3), (dark red and black accents:1.2), translucent silk, looking at viewer, dark background, warm amber rim light, dim lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_发型测试_半散发:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, 16yo, teenager, energetic, sweet smile, dimples, (pure black hair:1.3), half updo, flowing hair, crimson hair ribbon, (detailed eyes:1.2), (pure black eyes:1.3), large eyes, wuxia, xianxia, (elegant ranger outfit:1.3), (dark red and black accents:1.2), translucent silk, looking at viewer, dark background, warm amber rim light, dim lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_发型测试_单侧编发:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, 16yo, teenager, energetic, sweet smile, dimples, (pure black hair:1.3), loose side braid, flowing hair, crimson hair ribbon, (detailed eyes:1.2), (pure black eyes:1.3), large eyes, wuxia, xianxia, (elegant ranger outfit:1.3), (dark red and black accents:1.2), translucent silk, looking at viewer, dark background, warm amber rim light, dim lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 负面提示词（沿用朔璃鸢专属）
+# ==========================================
+
+负面提示词:
+  (worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, mature female, milf, muscular, colored skin, modern clothes, sci-fi, (red hair, streaked hair, multicolored hair:1.3), (red eyes:1.3), sword, dagger, holding sword, holding arrow, spear, (bad bow, broken bow, floating arrow, arrow through body, arrow through head, disconnected bowstring:1.4)

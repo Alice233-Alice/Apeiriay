@@ -1,0 +1,16 @@
+
+
+keys: [动态宗门控制]
+constant: true
+order: 92
+
+content: |-
+  @@preprocessing
+  <%_
+  const sectDerivedDomain = String(getvar('__sect_prompt_state.domain', { defaults: '' }) || getvar('stat_data.$宗门推断.当前域', { defaults: '' }) || '').trim();
+  const sectDerivedFaction = String(getvar('__sect_prompt_state.faction', { defaults: '' }) || getvar('stat_data.$宗门推断.当前主势力', { defaults: '' }) || '').trim();
+  if (sectDerivedDomain || sectDerivedFaction) {
+    // 用极小的注释标记触发递归世界书，避免把控制词直接暴露成正文。
+    print('<!-- 宗门底板 当前地域宗门 当前主势力 -->');
+  }
+  _%>

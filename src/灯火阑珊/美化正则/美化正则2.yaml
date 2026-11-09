@@ -1,0 +1,117 @@
+脚本名字：[美化]完整变量更新
+正则表达式：/<(update(?:variable)?)>\s*((?:(?!<\1>).)*)\s*<\/\1>/gsi
+<div style="width: 85%; margin: 20px auto;">
+  <details class="cultivation-var-update" style="
+    font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    background: linear-gradient(180deg, rgba(80, 30, 30, 0.95) 0%, rgba(30, 10, 10, 0.98) 100%);
+    border: 1px solid rgba(220, 120, 120, 0.4);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.5), inset 0 0 20px rgba(255, 100, 100, 0.1);
+    transition: all 0.3s ease;
+    overflow: hidden;
+    color: #ffe0e0;
+    font-size: 16px;
+    position: relative;
+  ">
+    <!-- 装饰性背景图案 -->
+    <div style="
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-image: url(https://pub-4d14ab94aa29488b977bc5be9f2a06ef.r2.dev/picgo/古风祥云云朵85.png);
+      background-size: 120px;
+      background-position: right top;
+      background-repeat: no-repeat;
+      opacity: 0.1;
+      pointer-events: none;
+      z-index: 0;
+    "></div>
+    <summary style="
+      padding: 12px 20px;
+      cursor: pointer;
+      list-style: none;
+      background: linear-gradient(90deg, rgba(140, 40, 40, 0.6) 0%, rgba(100, 30, 30, 0.6) 100%);
+      border-bottom: 1px solid rgba(220, 120, 120, 0.4);
+      font-weight: bold;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: all 0.2s ease;
+      z-index: 1;
+    ">
+      <!-- 左侧装饰线 -->
+      <div style="display: flex; align-items: center; gap: 4px; opacity: 0.6;">
+        <div style="width: 4px; height: 4px; background: #ff9999; transform: rotate(45deg);"></div>
+        <div style="width: 30px; height: 1px; background: linear-gradient(90deg, #ff9999, transparent);"></div>
+      </div>
+
+      <!-- 中间核心内容 -->
+      <div style="display: flex; align-items: center; justify-content: center; position: absolute; left: 0; right: 0; pointer-events: none;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <div style="
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px;
+            height: 28px;
+            background: rgba(255, 100, 100, 0.15);
+            border-radius: 50%;
+            border: 1px solid rgba(255, 150, 150, 0.3);
+            box-shadow: 0 0 10px rgba(255, 100, 100, 0.2);
+          ">
+            <i class="fa-solid fa-moon" style="color: #ff9999; font-size: 15px;"></i>
+          </div>
+          
+          <span style="
+            color: #ffcccc;
+            font-size: 17px;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.8), 0 0 8px rgba(255, 100, 100, 0.4);
+            letter-spacing: 4px;
+            margin-right: -4px; /* 抵消最后一个字的 letter-spacing，确保视觉居中 */
+          ">天道推演</span>
+        </div>
+      </div>
+
+      <!-- 右侧装饰线 -->
+      <div style="display: flex; align-items: center; gap: 4px; opacity: 0.6;">
+        <div style="width: 30px; height: 1px; background: linear-gradient(270deg, #ff9999, transparent);"></div>
+        <div style="width: 4px; height: 4px; background: #ff9999; transform: rotate(45deg);"></div>
+      </div>
+    </summary>
+    <div style="
+      max-height: 400px;
+      overflow-y: auto;
+      padding: 18px;
+      color: #88ccff;
+      line-height: 1.8;
+      white-space: pre-wrap;
+      background: linear-gradient(180deg, rgba(30, 35, 45, 0.95) 0%, rgba(15, 20, 25, 0.98) 100%);
+      text-shadow: 0 1px 2px rgba(0,0,0,0.8);
+      border-top: 1px solid rgba(220, 120, 120, 0.3);
+      font-size: 16px;
+      position: relative;
+      z-index: 1;
+    ">
+$2
+    </div>
+  </details>
+</div>
+
+<style>
+  .cultivation-var-update ::-webkit-scrollbar { width: 6px; }
+  .cultivation-var-update ::-webkit-scrollbar-track { background: rgba(70, 30, 30, 0.5); border-radius: 3px; }
+  .cultivation-var-update ::-webkit-scrollbar-thumb { background: rgba(200, 100, 100, 0.2); border-radius: 3px; }
+  .cultivation-var-update ::-webkit-scrollbar-thumb:hover { background: rgba(200, 100, 100, 0.3); }
+  
+  .cultivation-var-update[open] {
+    box-shadow: 0 6px 20px rgba(255, 100, 100, 0.15) !important;
+    border-color: rgba(220, 120, 120, 0.6) !important;
+  }
+  .cultivation-var-update summary:hover {
+    background: linear-gradient(90deg, rgba(120, 60, 60, 0.5) 0%, rgba(140, 50, 50, 0.5) 100%) !important;
+  }
+  .cultivation-var-update summary::marker { display: none; }
+  .cultivation-var-update summary::-webkit-details-marker { display: none; }
+  .cultivation-var-update[open] summary .var-summary::after { content: attr(data-open); }
+  .cultivation-var-update:not([open]) summary .var-summary::after { content: attr(data-close); }
+</style>

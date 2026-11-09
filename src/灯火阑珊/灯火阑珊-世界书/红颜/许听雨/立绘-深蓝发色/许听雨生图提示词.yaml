@@ -1,0 +1,158 @@
+# 许听雨生图提示词（深蓝发色版）
+# 核心特征：柔和面容、慈母、深蓝长发、漂浮的头发、深蓝眼眸、苍白湿润肌肤、颈部幻彩鳞片、鱼鳍耳、巨乳、赤足与脚链
+# 设计理念：温柔慈爱的深海母亲/海妖，带有柔和与神秘的海洋气息
+# 编写原则：精简聚焦，每个场景围绕一个核心氛围，避免堆砌过多标签分散模型注意力
+# 注意事项：该底模生成 full body 效果极差，请务必避免使用 full body 标签，尽量使用 cowboy shot 或 upper body。
+
+# 【无敌版提示词（保留原汁原味）】
+无敌版_原汁原味:
+  nsfw, nude, 1girl, fantasy, monster girl, front view, soft face, deep blue hair, very long hair, floating hair, fin ears, scales on neck, deep blue eyes, pale skin, wet skin, gigantic breasts, exposed nipples, blush, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, volumetric light
+
+半身特写:
+  1girl, solo, soft face, monster girl, upper body, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+半身特写_归墟宫殿:
+  1girl, solo, soft face, monster girl, upper body, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, motherly expression, gentle smile, looking at viewer, ancient palace interior, mystical architecture, glowing crystals, soft lighting, majestic atmosphere
+
+基础立绘:
+  1girl, solo, soft face, monster girl, cowboy shot, standing, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+头像:
+  1girl, solo, soft face, monster girl, face focus, close up, deep blue hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.3), eye focus, pale skin, wet skin, motherly expression, gentle smile, looking slightly away, underwater, air bubbles, caustics, light rays
+
+施展水法:
+  1girl, solo, soft face, monster girl, cowboy shot, dynamic pose, casting magic, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, serious expression, glowing water magic, water manipulation, underwater, air bubbles, caustics, light rays, dramatic lighting
+
+深海潜游:
+  1girl, solo, soft face, monster girl, cowboy shot, swimming, graceful movement, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, serene expression, underwater, colorful coral reef, marine life, air bubbles, caustics, light rays
+
+鱼鳍耳特写:
+  close up, ear focus, translucent fin ears, glowing veins, deep blue hair, floating hair, pale skin, wet skin, water droplets, underwater, air bubbles, caustics
+
+颈部鳞片特写:
+  close up, neck focus, shimmering iridescent scales on neck, gradient scales, pale skin, wet skin, water droplets, deep blue hair, underwater, air bubbles, caustics
+
+足部特写:
+  close up, feet focus, bare feet, anklet, pale skin, wet skin, water droplets, underwater, air bubbles, caustics
+
+足部特写_踩踏珊瑚:
+  close up, feet focus, bare feet, anklet, pale skin, wet skin, water droplets, stepping on glowing coral, underwater, ocean floor, air bubbles, caustics, light rays
+
+力量暴走:
+  1girl, solo, soft face, monster girl, upper body, messy deep blue hair, floating hair, fin ears, glowing iridescent scales on neck, (glowing deep blue eyes:1.3), pale skin, wet skin, gigantic breasts, torn elegant flowing white dress, pained expression, heavy breathing, chaotic water currents, stormy dark underwater, glowing elements, dramatic lighting
+
+水中冥想:
+  1girl, solo, soft face, monster girl, cowboy shot, sitting on coral throne, meditating, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, serene expression, closed eyes, peaceful atmosphere, underwater palace, bioluminescent plants, air bubbles, caustics, light rays
+
+归墟宫殿_王座:
+  1girl, solo, soft face, monster girl, upper body, sitting on grand throne, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, motherly expression, gentle smile, looking at viewer, ancient palace interior, mystical architecture, glowing crystals, soft lighting, majestic atmosphere
+
+归墟宫殿_漫步:
+  1girl, solo, soft face, monster girl, upper body, walking, graceful movement, deep blue hair, very long hair, floating hair, fin ears, iridescent scales on neck, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, serene expression, ancient palace interior, grand pillars, mystical architecture, glowing crystals, soft lighting
+
+经典版NSFW:
+  nsfw, nude, 1girl, fantasy, monster girl, front view, soft face, deep blue hair, very long hair, floating hair, fin ears, scales on neck, deep blue eyes, pale skin, wet skin, gigantic breasts, exposed nipples, blush, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, volumetric light
+
+# ==========================================
+# 【普通人版本提示词（去除海妖特征：鱼鳍耳、颈部鳞片、monster girl等）】
+# ==========================================
+
+普通人_无敌版_原汁原味:
+  nsfw, nude, 1girl, fantasy, front view, soft face, deep blue hair, very long hair, floating hair, deep blue eyes, pale skin, wet skin, gigantic breasts, exposed nipples, blush, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, volumetric light
+
+普通人_半身特写:
+  1girl, solo, soft face, upper body, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_基础立绘:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_头像:
+  1girl, solo, soft face, face focus, close up, deep blue hair, floating hair, (deep blue eyes:1.3), eye focus, pale skin, wet skin, motherly expression, gentle smile, looking slightly away, underwater, air bubbles, caustics, light rays
+
+普通人_足部特写:
+  close up, feet focus, bare feet, anklet, pale skin, wet skin, water droplets, underwater, air bubbles, caustics
+
+普通人_足部特写_浅滩漫步:
+  close up, feet focus, bare feet, anklet, pale skin, wet skin, water droplets, stepping on sand, shallow water ripples, underwater, air bubbles, caustics, light rays
+
+普通人_归墟宫殿_半身特写:
+  1girl, solo, soft face, upper body, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, motherly expression, gentle smile, looking at viewer, ancient palace interior, mystical architecture, glowing crystals, soft lighting, majestic atmosphere
+
+普通人_归墟宫殿_王座:
+  1girl, solo, soft face, upper body, sitting on grand throne, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, motherly expression, gentle smile, looking at viewer, ancient palace interior, mystical architecture, glowing crystals, soft lighting, majestic atmosphere
+
+普通人_归墟宫殿_漫步:
+  1girl, solo, soft face, upper body, walking, graceful movement, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, serene expression, ancient palace interior, grand pillars, mystical architecture, glowing crystals, soft lighting
+
+普通人_归墟宫外_深海远眺:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, outside ancient palace, deep ocean trench, glowing corals, giant sea plants, air bubbles, caustics, light rays
+
+普通人_归墟宫外_海床漫步:
+  1girl, solo, soft face, cowboy shot, walking, graceful movement, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, serene expression, underwater, ocean floor, ancient ruins, bioluminescent plants, glowing marine life, dark blue water, air bubbles, caustics, light rays
+
+普通人_经典版NSFW:
+  nsfw, nude, 1girl, fantasy, front view, soft face, deep blue hair, very long hair, floating hair, deep blue eyes, pale skin, wet skin, gigantic breasts, exposed nipples, blush, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, volumetric light
+
+普通人_古典旗袍_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant classic cheongsam, chinese dress, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_古典旗袍_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, elegant classic cheongsam, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_齐胸襦裙_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, hanfu, qixiong ruqun, flowing silk, translucent drapery, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_齐胸襦裙_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, hanfu, qixiong ruqun, flowing silk, translucent drapery, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_仙侠轻纱羽衣_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, xianxia fairy dress, translucent gauze robe, wide sleeves, flowing drapery, water wave patterns, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_仙侠轻纱羽衣_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, xianxia fairy dress, translucent gauze robe, wide sleeves, flowing drapery, water wave patterns, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_明制马面裙_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, ming dynasty hanfu, mamianqun, pleated embroidered skirt, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_明制马面裙_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, ming dynasty hanfu, mamianqun, pleated embroidered skirt, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_魏晋交领半臂_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, wei jin style hanfu, crossed collar, banbi half-sleeve jacket, flowing wide skirt, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_魏晋交领半臂_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, wei jin style hanfu, crossed collar, banbi half-sleeve jacket, flowing wide skirt, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_正宗汉服_曲裾_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, han dynasty style hanfu, quju curved hem robe, layered robes, wide belt, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_正宗汉服_曲裾_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, han dynasty style hanfu, quju curved hem robe, layered robes, wide belt, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_正宗汉服_大袖衫_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, tang dynasty style hanfu, daxiushan large sleeve robe, luxurious silk, trailing skirt, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_正宗汉服_大袖衫_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, tang dynasty style hanfu, daxiushan large sleeve robe, luxurious silk, trailing skirt, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_黑色修身长衫_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant black long robe, traditional chinese clothes, layered heavy fabric, high collar, form-fitting, tight waist, wide belt, fully covered, long wide flowing sleeves, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+普通人_黑色修身长衫_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed nipples, blush, elegant black long robe, traditional chinese clothes, high collar, form-fitting, tight waist, wide belt, long wide flowing sleeves, wet see-through clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, underwater, air bubbles, caustics, light rays
+
+# ==========================================
+# 【普通人版本 - 真正的深海环境（暗水/无阳光/生物发光）】
+# ==========================================
+
+普通人_深海_基础立绘:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant flowing white dress, bare feet, anklet, motherly expression, gentle smile, looking at viewer, dark underwater, deep ocean trench, pitch black water, no sunlight, (no water surface:1.5), bioluminescence, glowing marine snow, faint rim light
+
+普通人_深海_足部特写:
+  close up, feet focus, bare feet, anklet, pale skin, wet skin, water droplets, dark underwater, deep ocean trench, pitch black water, no sunlight, (no water surface:1.5), bioluminescence, glowing marine snow, faint rim light
+
+普通人_深海_古典旗袍_SFW:
+  1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, elegant classic cheongsam, chinese dress, bare feet, anklet, motherly expression, gentle smile, looking at viewer, dark underwater, deep ocean trench, pitch black water, no sunlight, (no water surface:1.5), bioluminescence, glowing marine snow, faint rim light
+
+普通人_深海_古典旗袍_NSFW:
+  nsfw, 1girl, solo, soft face, cowboy shot, standing, deep blue hair, very long hair, floating hair, (deep blue eyes:1.2), pale skin, wet skin, gigantic breasts, exposed breasts, exposed nipples, blush, elegant classic cheongsam, open clothes, bare feet, anklet, motherly expression, gentle smile, looking at viewer, dark underwater, deep ocean trench, pitch black water, no sunlight, (no water surface:1.5), bioluminescence, glowing marine snow, faint rim light

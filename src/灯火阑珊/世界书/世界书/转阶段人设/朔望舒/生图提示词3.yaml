@@ -1,0 +1,266 @@
+# 朔望舒生图提示词3 — 色气特化·半身特写篇
+# 核心特征：成熟御姐体态、极度丰满 ((huge breasts:1.3))、霜雪白发、深邃紫眸、清冷孤寂、墨底银纹星河长裙
+# 设计理念：以「色气」为核心，探索情趣服饰与古典仙侠的融合——连体丝袜、蕾丝内衣、透视轻纱在霜月清辉映照下，释放成熟女帝的冷艳诱惑。清冷神性与暗涌情欲在暗夜中交融。每条概念分为 sfw（衣装端整、威仪自持）与 nsfw（衣襟半褪、情欲暗涌）两个版本。
+# 编写原则：每个场景固定使用 upper body 构图，聚焦面部、锁骨、肩颈与上半身的细腻表现。黑色背景为基调，避免堆砌过多提示词分散模型注意力。
+# 特别注意（必读）：本文件全部条目均使用 upper body 构图。该底模对 upper body 跑出的效果极为友好，面部细节、肩颈线条、丝织物质感均能稳定呈现。禁止使用 full body 或 cowboy shot 构图。
+# 💡 关键发现：透视仙衣 + 连体黑丝的组合效果极为出色。以半透明仙衣的轻盈柔纱叠搭连体黑丝的紧密包裹——轻与重、虚与实的视觉张力，完美呈现朔望舒冷艳而不失诱惑的独特气质。
+# 专属负面提示词：(worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, loli, young girl, flat chest, modern clothes, sci-fi, (black hair, red hair, red eyes, red clothes:1.3), (crazy smile, yandere:1.3), sword, dagger, holding sword, spear, (goblet, wine glass, cocktail glass, glass cup:1.6), (other people, crowd, soldiers, corpses, multiple girls, multiple boys:1.5), (tattoo, body tattoo, crotch tattoo, womb tattoo, body writing, skin markings:1.5), (red skin, colored skin, red hands, colored hands:1.5), (phoenix, bird, winged creature, animal:1.6), (blood, bleeding, bloodstains, blood pool, menstrual blood, blood on skin, period blood:1.8), (mist around mouth:1.5), (smoke around face:1.5), (fog covering mouth:1.5), (veil over face:1.4)
+# ==========================================
+# 连体情趣丝袜 — 黑与银的极致诱惑
+# ==========================================
+
+朔望舒_女帝_连体黑丝情趣装_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint smile, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black bodystocking:1.4), (black full-body pantyhose:1.3), translucent black sheer fabric, body-hugging, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, no skin on hands, layered with black and silver silk outer robe, wide sleeves, collarbone faintly visible through sheer fabric, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_连体黑丝情趣装_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black bodystocking:1.4), (black full-body pantyhose:1.3), translucent black sheer fabric, body-hugging, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, no skin on hands, see-through, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑丝连体衣蕾丝_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and elegant expression, faint smile, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black lace bodystocking:1.4), delicate black floral lace pattern on skin, translucent lace, (arms and hands completely encased in sheer black lace:1.5), no bare hands, no exposed fingers, no skin on hands, layered with black and silver silk gauze robe, proper collar, mysterious and refined, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑丝连体衣蕾丝_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black lace bodystocking:1.4), delicate black floral lace pattern on skin, translucent lace, (arms and hands completely encased in sheer black lace:1.5), no bare hands, no exposed fingers, no skin on hands, see-through, body-hugging, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 撕破丝袜 — 破坏美学的色气
+# ==========================================
+
+朔望舒_女帝_黑丝撕破_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and slightly embarrassed expression, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black pantyhose:1.4), (ripped pantyhose:1.3), (arms and hands completely encased in intact sheer black fabric:1.5), no bare hands, no exposed fingers, torn fabric at shoulders, ripped seams, exposed skin peeking through ripped holes, black and silver silk robe worn over but slipping, provocative blush, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑丝撕破_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black pantyhose:1.4), (ripped pantyhose:1.3), (arms and hands completely encased in intact sheer black fabric:1.5), no bare hands, no exposed fingers, torn fabric, ripped seams, exposed skin through ripped holes, body-hugging, half-lidded eyes, cold but lustful expression, looking at viewer with slight shame, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 透视仙衣 + 连体黑丝 — 轻与重的极致张力 ★
+# ==========================================
+
+朔望舒_女帝_透视仙衣黑丝_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint mysterious smile, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (sheer dark silver fantasy robe:1.4), translucent fairy dress, see-through silk, floating gauze sleeves, silver cloud embroidery on sheer fabric, (black bodystocking:1.3), body-hugging underneath translucent layers, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, layered opacity contrast, divine yet dark maiden aura, ethereal silver glow, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_透视仙衣黑丝_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (sheer dark silver fantasy robe:1.4), translucent fairy dress, see-through silk, floating gauze sleeves, silver cloud embroidery on sheer fabric, (black bodystocking:1.3), body-hugging sheer layer, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, bare shoulders visible through fabric, half-lidded eyes, cold but lustful expression, looking at viewer, ethereal silver glow, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 情趣内衣与透视装 — 若隐若现的极致
+# ==========================================
+
+朔望舒_女帝_半透明黑丝蕾丝内衣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and elegant expression, faint smile, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (translucent black lace lingerie:1.4), sheer bra, delicate fabric, lace trim, covered by black and silver sheer silk inner robe, collarbone subtly visible, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_半透明黑丝蕾丝内衣_nsfw:
+  nsfw, nude, (huge breasts:1.3), nipples, mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (translucent black lace lingerie:1.4), sheer bra, see-through delicate fabric, lace trim, bare shoulders, collarbone, half-lidded eyes, cold but lustful expression, seductive gaze, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_湿身透明纱衣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and calm expression, faint smile, (pure white hair:1.3), damp loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (wet translucent black gauze robe:1.4), wet clothes clinging to body, see-through wet fabric, water glistening, black silk inner layer preserving modesty, rain atmosphere, steam, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_湿身透明纱衣_nsfw:
+  nsfw, nude, (huge breasts:1.3), nipples, mature female, milf, heavy blush, wet, glistening wet skin, water droplets on skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), wet loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (wet translucent black gauze robe:1.4), wet clothes clinging to body, see-through wet fabric, water glistening, half-lidded eyes, cold but lustful expression, looking at viewer, steam, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑丝内衣回眸_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, from behind, looking back at viewer over shoulder, mature female, milf, (huge breasts:1.3), cleavage, cold and elegant expression, faint smile, (pure white hair:1.3), loose hair, hair falling over one shoulder, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black lingerie:1.4), (black lace bra:1.3), sheer black fabric, covered by black and silver sheer outer robe, bare back hinting, cold over-shoulder glance, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑丝内衣回眸_nsfw:
+  nsfw, nude, (huge breasts:1.3), nipples, mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, from behind, looking back at viewer over shoulder, (pure white hair:1.3), loose hair, hair falling over one shoulder, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black lingerie:1.4), (black lace bra:1.3), sheer black fabric, bare back, exposed shoulder blades, half-lidded eyes, cold but lustful expression, teasing gaze, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 古风融合情趣 — 仙与欲的交织
+# ==========================================
+
+朔望舒_女帝_透视仙衣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint smile, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (sheer dark silver fantasy robe:1.4), translucent fairy dress, see-through silk, floating gauze sleeves, silver cloud embroidery on sheer fabric, opaque silk inner layer preserving modesty, divine dark maiden aura, ethereal silver glow, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_透视仙衣_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (sheer dark silver fantasy robe:1.4), translucent fairy dress, see-through silk, floating gauze sleeves, silver cloud embroidery on sheer fabric, bare shoulders visible through fabric, half-lidded eyes, cold but lustful expression, looking at viewer, ethereal silver glow, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_银绸缚情趣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and curious expression, faint smile, (pure white hair:1.3), loose hair, silver hairpin, jade ornament, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (silver silk ribbon decorative:1.4), silver ribbons loosely draped around arms and shoulders, decorative ceremonial knotting, tied over proper black and silver silk robe, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_银绸缚情趣_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, jade ornament, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (silver silk ribbon bondage:1.4), silver ribbons wrapped around arms and shoulders, decorative shibari, ceremonial bondage, cold yet erotic, half-lidded eyes, submissive but proud gaze, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑丝吊带袜半身_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and elegant expression, faint smile, (pure white hair:1.3), loose hair, silver hairpin, jade ornament, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black garter belt:1.4), black thigh-high stockings, black lace garter straps faintly visible, black and silver silk robe worn properly, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑丝吊带袜半身_nsfw:
+  nsfw, nude, (huge breasts:1.3), nipples, mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, jade ornament, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black garter belt:1.4), black thigh-high stockings, black lace garter straps visible, bare shoulders, half-slipped black and silver silk robe draped over arms, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 乳帘情趣 — 垂幕遮胸的极致诱惑
+# ==========================================
+
+朔望舒_女帝_黑绸乳帘_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint mysterious smile, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black satin fabric panels hanging from neck like a curtain:1.4), (fabric curtain draping vertically over breasts:1.3), thin neck strap, weighted satin hem, glossy liquid-smooth satin fabric, covered by black and silver sheer silk outer robe, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_黑绸乳帘_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black satin fabric panels hanging from neck like a curtain:1.4), (fabric curtain draping vertically over breasts:1.3), thin neck strap, weighted satin hem, glossy liquid-smooth satin fabric, fabric panels barely covering front, sideboob visible, bare shoulders, bare collarbone, black and silver silk robe half-slipped off shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_银纱乳帘_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and elegant expression, faint mysterious smile, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (sheer silver gauze panels hanging from silver chain collar like a curtain:1.4), (translucent fabric curtain draping vertically over breasts:1.3), delicate silver neck chain, ethereal floating gauze, faintly visible body through sheer fabric, covered by sheer dark silver silk outer robe, ethereal silver glow, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_银纱乳帘_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (sheer silver gauze panels hanging from silver chain collar like a curtain:1.4), (translucent fabric curtain draping vertically over breasts:1.3), delicate silver neck chain, ethereal floating gauze, barely covering, sideboob visible through sheer fabric, bare shoulders, bare collarbone, gauze robe fully slipped off, half-lidded eyes, cold but lustful expression, looking at viewer, ethereal silver glow, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 特殊情境 — 夜色、繁花与星痕
+# ==========================================
+
+朔望舒_女帝_月下黑丝情趣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and mysterious expression, faint smile, (pure white hair:1.3), loose hair, silver hairpin, jade ornament, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black bodystocking:1.4), sheer black fabric, body-hugging, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, layered with black and silver silk robe, ethereal silver rim light, elegant night beauty, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_月下黑丝情趣_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, jade ornament, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black bodystocking:1.4), sheer black fabric, body-hugging, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, ethereal silver rim light, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_花丛黑丝情趣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and elegant expression, faint smile, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black lace bodystocking:1.4), translucent black floral lace, body-hugging, (arms and hands completely encased in sheer black lace:1.5), no bare hands, no exposed fingers, layered with black and silver silk gauze robe, scattered silver osmanthus petals, floating petals, black void backdrop, dramatic contrast lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_花丛黑丝情趣_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black lace bodystocking:1.4), translucent black floral lace, body-hugging, (arms and hands completely encased in sheer black lace:1.5), no bare hands, no exposed fingers, scattered silver osmanthus petals, floating petals, black void backdrop, half-lidded eyes, cold but lustful expression, looking at viewer, dramatic contrast lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_星河纹身黑丝_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and distant expression, faint mysterious smile, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black sheer bodystocking:1.4), translucent black fabric, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, (constellation tattoo on skin:1.3), silver constellation and star marks spread faintly across shoulders and collarbone, layered with black and silver gauze outer robe, body-hugging, celestial dark maiden, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_星河纹身黑丝_nsfw:
+  nsfw, nude, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (black sheer bodystocking:1.4), translucent black fabric, (arms and hands completely encased in sheer black fabric:1.5), no bare hands, no exposed fingers, (constellation tattoo on skin:1.3), silver constellation and star marks spread across shoulders and collarbone, body-hugging, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 霜月华章 — 雪肤、花影、墨韵、鳞光
+# 设计理念：彻底脱离丝袜主题，以「冰晶」「繁花」「水墨」「银鳞」「霜华」五大元素替代丝织物语汇，
+# 探索清冷仙帝的全新色气维度——冰晶的圣洁与破碎、暗夜花朵的寂静与诱惑、
+# 水墨迹染的流动与无常、非人鳞衣的异色之美、霜雪在温暖肌肤上融化的冷热交织。
+# 每条概念分为 sfw（衣装端整、威仪自持）与 nsfw（衣襟半褪、情欲暗涌）两个版本。
+# 全部条目使用 upper body 构图、黑色背景基调。
+# ==========================================
+
+朔望舒_女帝_冰晶缠身_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint mysterious smile, (pure white hair:1.3), loose hair, silver hairpin with frozen teardrop ornament, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (intricate frost patterns on black and silver silk robe:1.3), (ice crystals forming ornate frost jewelry along collar and sleeves:1.4), frozen teardrops dangling from hairpin, delicate frost filigree spreading like silver embroidery on fabric, cold breath faintly visible, wintry atmosphere, silver frost rim light, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_冰晶缠身_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin with melting frozen teardrop, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (erect nipples:1.4), (melting ice crystals on bare skin:1.3), (frost on bare breasts melting into glossy water droplets trailing down chest:1.4), cold frost contrasting with warm flushed skin, frozen teardrop melting on collarbone, black and silver silk robe completely slipped off pooling at waist, bare shoulders, wintry atmosphere, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_暗夜繁花_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and elegant expression, faint mysterious smile, (pure white hair:1.3), loose hair interwoven with dark purple night-blooming cereus, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (night-blooming cereus flowers draped around shoulders:1.3), (dark purple and black floral embroidery on silver silk robe:1.4), delicate flower petals adorning hair, subtle floral fragrance in dark air, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_暗夜繁花_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair interwoven with dark purple night-blooming cereus, jade hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (dark purple flower petals clinging to bare breasts and shoulders:1.3), (night-blooming cereus petals barely veiling bare chest:1.4), scattered dark petals floating in black void, bare breasts, bare shoulders, bare collarbone, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_水墨晕染_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and contemplative expression, faint distant smile, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (chinese ink wash painting aesthetic:1.3), (sumi-e brushstroke patterns flowing across black and silver silk robe:1.4), ink bleeding gracefully into silver mist, calligraphy motifs on silk, black ink swirls like living art, artistic abstract elegance, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_水墨晕染_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (sumi-e ink wash brush painting on bare skin:1.3), (black ink patterns bleeding across bare breasts and shoulders like living calligraphy:1.4), water droplets mixing with ink on skin, body as living canvas, bare breasts, bare shoulders, ink trails spiraling down bare chest, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_霜雪凝脂_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and serene expression, faint calm smile, (pure white hair:1.3), loose hair with delicate snowflakes settling on strands, silver hairpin, jade ornament, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (frost and snowflakes settling on black silk robe:1.3), (delicate snowflakes on eyelashes:1.4), winter night stillness, silver frost rim light outlining her silhouette, cold dignified beauty, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_霜雪凝脂_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair with snowflakes melting on strands, jade hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (erect nipples:1.4), (frost melting on bare warm breasts into glistening trails:1.3), (contrast of winter frost and flushed body heat on bare breasts and shoulders:1.4), snowflakes melting on collarbone and bare chest, bare breasts, bare shoulders, cold and warm contrast, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 衣景合一 — 极光、水墨、霜花、烟罗、月漪
+# 设计理念：衣与景互为因果——袍子是冻结的极光、消融的水墨、盛开的冰花、
+# 凝固的烟雾、静止的月下湖面。色气来自衣与环境的边界模糊——当衣服开始
+# 融化、消散、流淌、绽放，身体便在衣与景的裂缝中露出。
+# 每条概念分为 sfw（衣装端整、威仪自持）与 nsfw（衣襟半褪、情欲暗涌）两个版本。
+# 全部条目使用 upper body 构图、黑色背景基调。
+# ==========================================
+
+朔望舒_女帝_极光羽织_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint distant gaze, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (iridescent aurora silk robe:1.4), (color-shifting fabric shifting between deep purple cyan and silver-gray:1.3), (robe woven from frozen aurora light:1.3), layered feather-light gauze with wide sleeves, aurora borealis colors captured in silk like trapped light, faint aurora glow in dark night sky backdrop, ethereal dimensional fabric, elegant and otherworldly, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_极光羽织_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (iridescent aurora silk robe slipping off both shoulders revealing bare chest:1.4), (aurora borealis colors glowing on bare breasts and collarbone:1.3), iridescent light catching bare breasts, color-shifting fabric pooled around elbows, bare breasts, bare shoulders, faint aurora glow in dark night sky, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_烟雨水墨_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and contemplative expression, faint distant gaze, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black silver-pattern silk robe edges dissolving into sumi-e ink swirls:1.4), (robe bleeding into ink mist at edges:1.3), ink wash atmosphere, water surface at bottom of frame, blurred distant mountains in ink wash style, artistic dissolution, elegant and melancholy, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_烟雨水墨_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (silk robe dissolving into sumi-e ink mist at edges:1.4), (bare breasts emerging from the ink dissolution:1.3), ink swirls framing bare breasts like living calligraphy, water reflection glow on bare chest, bare breasts, bare shoulders, water surface at bottom of frame, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_霜花冰庭_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint mysterious smile, (pure white hair:1.3), loose hair, silver hairpin with ice crystal ornament, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (intricate frost flowers blooming across black silk robe in real-time:1.4), (ice crystal petals spreading from collar across fabric like time-lapse:1.3), frost filigree on fabric, frozen courtyard atmosphere blurred in background, icicles on bare branches, moonlight through ice, elegant and ethereal, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_霜花冰庭_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin with melting ice ornament, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (erect nipples:1.4), (frost flowers on robe melting into glistening water droplets on bare breasts:1.4), (ice crystal petals becoming liquid trails across bare breasts and shoulders:1.3), robe half-slipped as frost recedes from warmth revealing bare chest, moonlight through melting ice, bare breasts, bare shoulders, cold breath visible, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_焚香烟罗_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and distant expression, faint meditative calm, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (robe woven from solidified incense smoke holding silk-like form:1.4), (smoke fabric holding the shape of wide sleeves and elegant collar:1.3), edges of robe curling into drifting smoke wisps, hazy incense-filled dark hall atmosphere, bronze incense burner barely visible through smoke, moonlight beam through lattice window cutting through smoke, ethereal and haunting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_焚香烟罗_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (incense smoke robe dissipating into mist:1.4), (bare breasts emerging through thinning smoke fabric:1.3), smoke trails caressing bare breasts like ghostly fingers, face half-hidden in swirling smoke, bare breasts, bare shoulders, bare collarbone, hazy moonlight through smoke, half-lidded eyes, cold but lustful expression, looking at viewer through smoke, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_月华漪纹_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and serene expression, faint distant gaze, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (translucent silver-white silk robe like a still pond surface:1.4), (water ripple patterns frozen in perfect stillness across the robe mirroring moonlight and stars:1.3), robe surface as a mirror of the night sky, still water at bottom of frame, full moon reflected both in water and on robe fabric, ethereal silver glow, elegant and transcendent, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_月华漪纹_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (translucent water-silk robe with ripples breaking the mirror surface:1.4), (bare breasts visible through disturbed ripple translucency:1.3), robe surface broken into shimmering moonlight fragments on bare chest, water droplets on bare breasts, bare breasts, half-lidded eyes, cold but lustful expression, looking at viewer, ethereal silver glow, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 血月入身 — 赤痕、血绛、霜赤、魂映、赤丝
+# 设计理念：血月不在天——在眼底赤线、在袍角沁色、在碎刃锋芒、
+# 在魂灯映肤、在指尖丝缕。她是血月镇守者，亦是封印本身。那轮赤色
+# 不从苍穹降下，而是从她的封印裂隙中透出，从她的灵脉中漫溢。
+# 每条概念分为 sfw（封印稳镇、威仪自持）与 nsfw（封印微敞、血月透隙）两个版本。
+# 全部条目使用 upper body 构图、黑色背景基调。
+# ==========================================
+
+朔望舒_女帝_血绛染袍_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and curious expression, faint mysterious fascination, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (black silk robe with silver embroidery beginning to wick crimson dye from edges:1.4), (silver thread patterns blushing from silver to rose-gold to blood-red at tips:1.3), crimson gradient creeping up embroidery like wicking liquid, dye-front advancing through silk, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_血绛染袍_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, jade hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (crimson dye creeping up robe reaching collar and slipping off shoulders revealing bare chest:1.4), (stark gradient line between silver embroidery and blood-red dye falling across bare breasts:1.3), robe half-slipped revealing bare breasts untouched by the advancing dye-front, bare breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_霜魄化赤_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and vigilant expression, faint alert tension, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (floating frost-white moon shards suspended motionless around shoulders:1.4), (a few shards at the edges beginning to blush crimson at the tips:1.3), broken moon wheel fragments at rest, power contained but ready, elegant and dangerous, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_霜魄化赤_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, elaborate silver crown, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (floating shards now mostly crimson swirling actively around bare breasts:1.4), (blood-red shard fragments casting crimson reflections across bare breasts:1.3), broken moon wheel fully awakened, crimson refractions playing on bare breasts and collarbone, bare breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_魂灯映红_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and melancholy expression, faint distant sorrow, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (eerie crimson light casting down from soul lamps above:1.4), (cold crimson top-lighting illuminating face and silver hair tips with blood moon tones:1.3), hundreds of soul lamps implied beyond frame, trapped soul-flame glow, ethereal and haunting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_魂灯映红_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (intensified crimson soul lamp light casting down on bare breasts:1.4), (eerie blood moon radiance painting bare breasts like cold fire:1.3), soul lamp glow merging with heavy blush on bare chest, bare breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_赤丝缠身_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and contemplative expression, faint curiosity, (pure white hair:1.3), loose hair, silver hairpin with jade ornament, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, (delicate silver threads draped decoratively around arms and shoulders:1.4), (a few threads at the ends beginning to blush crimson like a spreading blush:1.3), decorative ceremonial threading, silver-to-crimson gradient at thread tips, elegant and mysterious, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_赤丝缠身_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), loose hair, jade hairpin, deep purple eyes, (fair skin, pale skin:1.2), dark background, black background, (bare breasts:1.3), (nipples:1.3), (silver threads now mostly crimson wrapped tighter around bare breasts and shoulders:1.4), (glowing crimson threads crossing bare breasts like awakened restraints:1.3), decorative binding threads glowing faintly with blood moon radiance across bare chest, bare breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 染锋溯流 — 血绛染袍·发梢染色三条方向
+# 设计理念：血绛染袍的最优效果——衣绣上的赤蓝染料沿发丝逆行攀爬。
+# 不是染了色的头发，而是正在被衣袍染色的过程。三条方向：
+# 赤缕挑染（整缕实色锁入发束）、染锋溯流（染锋可见的攀爬瞬间）、
+# 血绛银绾（挂在松髻上的挑染，衣→发的因果链完整可见）。
+# 每条概念分为 sfw（染意初动、威仪自持）与 nsfw（染意蔓延、情欲暗涌）两个版本。
+# 全部条目使用 upper body 构图、黑色背景基调。
+# ==========================================
+
+朔望舒_女帝_赤缕挑染_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and enigmatic expression, faint intrigue, (pure white hair:1.3), long hair, very long flowing hair, (deep purple eyes:1.2), (fair skin, pale skin:1.2), (several full strands of long hair dyed solid crimson from root to tip and others dyed solid ice-blue:1.4), (chunky color-blocked highlights woven through predominantly white long hair:1.3), black and silver silk robe with crimson and blue-dyed embroidery at collar matching the dyed strands, elegant and striking, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_赤缕挑染_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), long hair, very long flowing hair, (deep purple eyes:1.2), (fair skin, pale skin:1.2), (bare breasts:1.3), (nipples:1.3), (vivid solid crimson locks and solid ice-blue locks spread across bare breasts:1.4), (color-blocked dyed hair strands draped across bare breasts like silk ribbons:1.3), deep crimson and cold blue locks contrasting with pale bare breasts, bare breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+朔望舒_女帝_血绛银绾_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and dignified expression, faint absent-minded calm, (pure white hair:1.3), long hair, very long flowing hair, (deep purple eyes:1.2), (fair skin, pale skin:1.2), (loose half-up casual coil secured with a single silver hairpin:1.4), (hair pulled into the coil carries crimson dye wicked up from robe collar while free-falling strands show ice-blue at their tips:1.3), dye source visible at robe collar connecting fabric dye to hair dye, black and silver silk robe with crimson-dyed embroidery, elegant and effortless, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_血绛银绾_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), long hair, very long flowing hair, (deep purple eyes:1.2), (fair skin, pale skin:1.2), (bare breasts:1.3), (nipples:1.3), (silver hairpin barely holding as loose coil unravels:1.4), (crimson and ice-blue dyed strands spilling in disarray across bare breasts and collarbone:1.3), wet dyed traces on bare breasts where falling dyed hair clings, robe collar visible below as the dye source, bare breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 银丝松绾 — 发式篇
+# 设计理念：取材自人设原文「银丝松束，未绾繁髻」——此为朔望舒最本真之态。
+# 非精心梳理的宫髻，非刻意散落的披发，而是随手一拢、银丝一束的慵懒半绾。
+# 此发式是她两千载独坐殿中的真实倒影——无人可悦，故不费心梳妆。
+# 每条概念分为 sfw（松绾端整、威仪自持）与 nsfw（松绾滑落、发乱肩裸）。
+# 全部条目使用 upper body 构图、黑色背景基调。
+# ==========================================
+
+朔望舒_女帝_银丝松绾_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, mature female, milf, (huge breasts:1.3), cleavage, cold and serene expression, faint absent-minded calm, (pure white hair:1.3), long hair, very long flowing hair, (half-up half-down loose hairstyle:1.4), (hair loosely swept into a casual undone bun secured with a single silver hairpin:1.3), most of the very long hair cascading freely past shoulders in flowing waves, relaxed elegant coiffure, no elaborate styling, effortless grace, silver hairpin, deep purple eyes, (fair skin, pale skin:1.2), wuxia, xianxia, dark background, black background, black and silver silk robe, elegant and understated, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+ 朔望舒_女帝_银丝松绾_nsfw:
+   nsfw, nude, topless, (huge breasts:1.3), mature female, milf, heavy blush, glistening skin, sweat, fantasy, textures, volumetric light, 1girl, solo, upper body, (pure white hair:1.3), long hair, very long flowing hair, (bare breasts:1.3), (nipples:1.3), (loose undone bun beginning to slip apart:1.4), (silver hairpin barely holding as very long hair spills in disarray across bare breasts and collarbone:1.3), the casual coil coming undone strand by strand, long hair cascading over bare breasts in a disheveled veil, hair draped across bare breasts, bare breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait

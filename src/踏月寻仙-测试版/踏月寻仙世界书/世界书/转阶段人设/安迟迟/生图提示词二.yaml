@@ -1,0 +1,138 @@
+# 安迟迟生图提示词二
+# 核心特征：同生图提示词.yaml - 温雅文学少女、纤细体态、焦茶长发·简素低髻木簪绾之·碎发散落颈侧、碧琉璃绿瞳、暖褐素色交领襦裙、腰间青玉小砚、左眼泪痣、书卷墨香
+# 设计理念：延续「素淡如旧书页中夹着的一枚叶脉书签」的审美底线，在极简基础上做微妙的色调偏移。每一系列仅变一色、增一质、添一层氛围，不堆砌装饰。
+# 编写原则：同生图提示词.yaml。构图优先级：upper body > cowboy shot > 全身。发型日常固定为简素低髻木簪，散发场景则焦茶长发自然垂落腰际。每系列 SFW+NSFW 成对。
+# 负面提示词与固定特征前缀同生图提示词.yaml，此处不再重复。
+# 💡 构图建议：所有条目统一使用 upper body 构图以获得最精致的人物细节。
+# 💡 色彩设计说明：
+#   薄暮烟霞：霞光粉灰底，微暖不艳——暮色在肩，望眼欲穿。
+#   兰芷清风：极淡兰紫白底，药草暗纹若隐若现——采药浮岛，衣染兰芷。
+#   霜青水色：浅水蓝灰底，清晨冷光——临水而立，衣如薄霜。
+#   古藤褐影：深褐沉色粗麻质，素面质朴——卷袖劳作，粗缯大布裹生涯。
+#   樱吹雪色：极淡樱粉白底，薄罗轻纱微暖——早樱初绽，衣似朝霞。
+# ==========================================
+
+# ==========================================
+# 定制古风服饰 - 薄暮烟霞系列（霞光粉灰调·外层薄纱对襟·暮色温存）
+# 💡 霞光粉灰远看仍是素衣，只在暮光下才透出微暖霞彩。与焦茶低髻形成暖调层次，不违「素淡」底线
+# 💡 薄纱外罩用 (sheer light pinkish-grey silk outer jacket:1.3) 保证霞光感出现
+# ==========================================
+
+安迟迟_暮霞凭栏_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), wistful and serene expression, gentle distant gaze, lips slightly parted, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), a few loose strands catching warm dusk light, (mole under left eye:1.3), (green jade eyes, emerald eyes soft in golden hour:1.4), wuxia, xianxia, (dusty pinkish-grey simple hanfu, warm muted rose-grey cotton cross-collar inner robe:1.4), (sheer light pinkish-grey silk outer jacket flowing softly:1.3), standing leaning against wooden corridor pillar, floating island background, sea of clouds tinted pink by sunset below, dusk deepening, first stars emerging, wind chimes faintly visible at eaves, (green jade ink stone at waist catching last light:1.2), quiet and patient waiting atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+安迟迟_暮霞凭栏_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, wistful but bashful expression, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, loose strands catching dusk light, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), half-slipped (dusty pinkish-grey simple hanfu:1.4), open clothes, (sheer light pinkish-grey silk outer jacket slipped off one shoulder:1.2), leaning against wooden corridor pillar, bare shoulders visible, half-lidded eyes, light blush, looking at viewer, floating island at dusk, sea of clouds pink below, first stars, wind chimes, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 定制古风服饰 - 兰芷清风系列（极淡兰紫白调·腰间小药篓·浮岛采药）
+# 💡 呼应「花膏润玉」系列中她以浮岛花材自制护肤膏脂的人设。衣色兰紫如幽兰初绽，极淡不艳
+# 💡 小药篓用 (small woven herb basket slung at hip:1.2) 增叙事层次
+# ==========================================
+
+安迟迟_兰径采药_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), calm and focused expression, gentle downward gaze at herbs in hand, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), stray strands catching mountain breeze, (mole under left eye:1.3), (green jade eyes, emerald eyes soft with quiet focus:1.4), wuxia, xianxia, (pale orchid-grey simple hanfu, muted lavender-white cotton cross-collar inner robe:1.4), (plain thin hemp outer robe in faint orchid, subtle woven herb-leaf pattern barely visible:1.2), narrow cuffs pushed slightly up, (kneeling on floating island mountainside meadow, picking fragrant herbs with one hand:1.3), (small woven herb basket slung at hip, a few fresh herbs peeking out:1.2), wild medicinal herbs and small white flowers in foreground, ancient pine at edge of cliff, sea of clouds far below, early morning mountain light, green jade ink stone at waist catching dew, fresh and pure atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+安迟迟_兰径采药_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, calm but bashful expression, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, mountain breeze playing with loose strands, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), half-slipped (pale orchid-grey simple hanfu:1.4), open clothes, (plain thin hemp outer robe in faint orchid pooled around hips, sleeves slipped down:1.2), kneeling on mountainside meadow, herb basket beside her, herbs scattered nearby, bare shoulders and collarbone visible, half-lidded eyes, light blush, looking at viewer, sea of clouds below, morning mountain light, fresh atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 定制古风服饰 - 霜青水色系列（极淡水蓝灰调·清晨薄霜·临水清影）
+# 💡 水蓝灰远看仍是素衣，只在晨光下才透出幽微寒意。与焦茶低髻形成冷暖对照，不违「素淡」底线
+# 💡 霜青水色衣用 (pale water-blue grey simple hanfu, frosty blue-grey cotton cross-collar inner robe:1.4) 保证冷调质感
+# 💡 NSFW 特殊处理：(spreading pussy with fingers, spreading labia, pussy spread:1.5)，构图统一 upper body
+# ==========================================
+
+安迟迟_霜庭临水_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly cool expression, gentle downward gaze at water, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), a few loose strands lifted by cold morning breeze, (mole under left eye:1.3), (green jade eyes, emerald eyes reflecting pale morning light on water:1.4), wuxia, xianxia, (pale water-blue grey simple hanfu, frosty blue-grey cotton cross-collar inner robe:1.4), (plain thin outer robe in cool pale blue-grey, subtle water-ripple weave barely visible:1.2), standing at edge of still garden pond, thin ice forming at water's edge, frost on withered lotus leaves, bare winter branches overhead, early morning cold blue light, breath visible as faint white mist, (green jade ink stone at waist catching frost:1.2), quiet and crystalline winter morning atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+安迟迟_霜庭临水_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, pussy, young female, slender body, shy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, bashful and flustered expression, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, cold morning breeze playing with loose strands, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), (spreading pussy with fingers, spreading labia, pussy spread:1.5), (hands between legs, fingers parting labia:1.4), half-slipped (pale water-blue grey simple hanfu:1.4), open clothes, (plain thin outer robe in cool pale blue-grey pooled around waist:1.2), standing at edge of garden pond, frost on withered lotus leaves, bare collarbone visible, half-lidded eyes, light blush, looking at viewer, cold morning blue light, breath visible as faint white mist, crystalline winter atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 定制古风服饰 - 樱吹雪系列（极淡樱粉白调·薄罗轻衫·烛影摇红 / 樱下徐行 / 樱庭小憩）
+# 💡 以早樱初绽为灵感色调，粉白微暖，薄如蝉翼。与焦茶发髻形成柔和的暖冷层次，不违「素淡」底线
+# 💡 NSFW 特殊处理：樱下徐行仅衣物半褪露肩，樱庭小憩与樱吹雪同用掰开阴唇特写动作
+# 💡 樱下徐行：户外樱林漫步，落英缤纷，花瓣拂肩——素衣徐步，樱雪沾衣。
+# 💡 樱庭小憩：午后倚廊闲坐，暖阳斜照，慵懒静谧——花影半掩，春困袭人。
+# ==========================================
+
+安迟迟_樱吹雪_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly dreamy expression, soft gaze, lips slightly parted, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face, (mole under left eye:1.3), (green jade eyes, emerald eyes soft in candlelight:1.4), wuxia, xianxia, (pale cherry-blossom pink simple hanfu, soft sakura-white cotton cross-collar inner robe:1.4), (sheer gossamer silk outer jacket in faint blush pink, translucent thin silk:1.3), sitting by paper window, early spring cherry branch in small vase on desk, warm candlelight glow, green jade ink stone at waist, quiet and tender atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+安迟迟_樱吹雪_nsfw:
+   nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, bashful and trembling expression, flushed cheeks, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy strands clinging to damp skin, (mole under left eye:1.3), (green jade eyes, emerald eyes hazy and half-lidded:1.4), completely topless, (pale cherry-blossom pink simple hanfu pooled around waist and elbows:1.3), (sheer gossamer silk outer jacket slipped off, trailing behind:1.2), kneeling on low bed, (leaning back slightly, hands reaching down between thighs:1.3), (spreading pussy with both hands, fingers parting labia open:1.5), (presenting pink inner folds, glistening wet:1.4), (looking down shyly at viewer through half-lidded eyes:1.3), warm candlelight casting golden glow on bare skin, ancient library background softly blurred, ink stone and scrolls on nearby desk, intimate and vulnerable atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 定制古风服饰 - 樱吹雪系列——樱下徐行（户外樱林漫步·落英拂肩·素衣徐步）
+# 💡 从室内烛光转向户外樱林，延续同色系薄罗轻衫，以飘落的花瓣和透过花枝的日光营造春日漫步的轻盈感
+# 💡 SFW 用 (walking slowly under blooming cherry trees:1.3) 确立动态步行的叙事感
+# 💡 NSFW 仅衣物半褪露肩，不涉及腿间手势，保持漫步场景的自然优雅
+# ==========================================
+
+安迟迟_樱下徐行_sfw:
+   fantasy, textures, volumetric light, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and peaceful expression, gentle upward gaze at falling petals, lips slightly parted in quiet wonder, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), cherry blossom petals caught in loose strands of hair, (mole under left eye:1.3), (green jade eyes, emerald eyes reflecting soft spring sunlight through petals:1.4), wuxia, xianxia, (pale cherry-blossom pink simple hanfu, soft sakura-white cotton cross-collar inner robe:1.4), (sheer gossamer silk outer jacket in faint blush pink, translucent thin silk fluttering lightly:1.3), (walking slowly under blooming cherry trees, petals falling around her:1.3), ancient stone path lined with cherry trees in full bloom, dappled spring sunlight filtering through branches, floating petals in foreground, distant mountain silhouette, green jade ink stone at waist catching stray petals, tranquil early spring afternoon atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+安迟迟_樱下徐行_nsfw:
+   nsfw, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, bashful and breathless expression, flushed cheeks, half-lidded eyes, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, cherry petals tangled in messy strands, (mole under left eye:1.3), (green jade eyes, emerald eyes hazy with spring warmth:1.4), half-slipped (pale cherry-blossom pink simple hanfu, collar pulled open exposing shoulders and collarbone:1.3), (sheer gossamer silk outer jacket slipping off one shoulder:1.2), open clothes, bare shoulders visible, (one hand clutching loosened collar to chest shyly:1.2), standing under blooming cherry trees, petals falling onto bare skin, dappled sunlight warming shoulders, ancient stone path and falling petals in background, light blush, looking at viewer with flustered expression, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 定制古风服饰 - 樱吹雪系列——樱庭小憩（午后倚廊闲坐·花影半掩·春困慵懒）
+# 💡 延续樱吹雪的室内暖光氛围，但从烛光改为午后暖阳，从跪坐改为倚廊闲坐，营造慵懒静谧的春困午后
+# 💡 窗外樱枝探入，桌上散落未合书卷，呼应安迟迟的文学少女气质
+# 💡 NSFW 与樱吹雪同用掰开阴唇特写手势
+# ==========================================
+
+安迟迟_樱庭小憩_sfw:
+   fantasy, textures, volumetric light, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), drowsy and peaceful expression, half-lidded eyes soft with afternoon languor, lips slightly curved in contented half-smile, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), a few loose strands falling across cheek, (mole under left eye:1.3), (green jade eyes, emerald eyes drowsy in warm afternoon light:1.4), wuxia, xianxia, (pale cherry-blossom pink simple hanfu, soft sakura-white cotton cross-collar inner robe:1.4), (sheer gossamer silk outer jacket in faint blush pink loosely draped:1.3), leaning against wooden veranda pillar, sitting sideways on veranda floor, open book resting face-down on lap, cherry branch reaching in from outside window, warm afternoon sunlight slanting through paper window, dust motes floating in sunbeam, green jade ink stone at waist, tranquil and drowsy spring afternoon atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+安迟迟_樱庭小憩_nsfw:
+   nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, bashful and drowsy expression, flushed cheeks, half-lidded eyes hazy with languor, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy strands clinging to warm skin, (mole under left eye:1.3), (green jade eyes, emerald eyes glazed and unfocused:1.4), completely topless, (pale cherry-blossom pink simple hanfu pooled around waist:1.3), (sheer gossamer silk outer jacket slipped off, draped loosely over one arm:1.2), sitting sideways on low wooden veranda, (spreading pussy with both hands, fingers parting labia open:1.5), (presenting pink inner folds, glistening wet:1.4), (shyly looking at viewer through half-lidded eyes:1.3), warm afternoon sunlight casting golden glow on bare skin, cherry branch reaching in from window, fallen petals scattered on veranda floor, open book and ink stone set aside nearby, intimate and drowsy spring afternoon atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 素纱微透 · 月白六式（Upper Body 白纱透肤主题）
+# 设计理念：以月白素纱、薄罗丝绢为核心材质——贴合安迟迟素淡底色。
+#    白衣之下的朦胧春色不靠裸露，靠纱薄透色——衣裳完好无损，纱本身透明即是最强色气。
+#    朔璃鸢素纱六式以「赤红发带+暗底琥珀暖光+梨涡甜笑」为魂，取其透明纱质骨架，
+#    注入安迟迟的「焦茶低髻木簪+暗底冷柔光+静谧文雅表情」——从灵动娇憨转为清冷温润。
+# 材质核心：translucent white silk, sheer white gauze, thin moon white organza, see-through white fabric
+# 透肤逻辑：衣裳完好无损，纱本身透明 —— 不用 nude/exposed/open clothes（SFW），全靠纱薄透色
+# 发型统一：简素低髻木簪（日常固定发型），湿身与闺中场景微散碎发增添慵懒感
+# 场景统一：全系列暗色背景（dark background），以月光、烛光或冷柔 rim light 勾勒白纱轮廓与人物剪影
+# ==========================================
+
+安迟迟_素纱笼身_sfw:
+   masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly distant expression, gentle downward gaze, lips closed in quiet composure, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, (translucent white silk robe:1.4), (sheer moon white gauze clinging to body:1.3), (body silhouette faintly visible through white fabric:1.3), off shoulder, collarbone, dark background, soft cool rim light tracing body silhouette, quiet and ethereal atmosphere, dim lighting, cinematic
+
+安迟迟_素纱笼身_nsfw:
+   nsfw, masterpiece, best quality, absurdres, 1girl, solo, young female, slender body, (medium breasts:1.2), upper body, close up, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), loose strands, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, serene yet bashful expression, (translucent white silk robe:1.4), (sheer moon white gauze clinging to body:1.3), (nipples clearly visible through sheer white fabric:1.4), (areola visible through translucent white silk:1.3), (clothes fully intact but completely transparent:1.3), off shoulder, faint blush, looking at viewer, dark background, soft cool rim light, quiet atmosphere, dim lighting, cinematic
+
+安迟迟_月纱湿身_sfw:
+   masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), calm and slightly cool expression, gentle distant gaze, lips slightly parted, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin slightly damp:1.4), wet strands clinging to neck and temples, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, water drops on face, (wet translucent white gauze clinging to body:1.4), (soaked sheer white silk:1.3), (wet fabric sticking to skin:1.3), off shoulder, water drops on fabric, dark background, cool moonlight rim light on wet fabric, quiet and crystalline atmosphere, dim lighting, cinematic
+
+安迟迟_月纱湿身_nsfw:
+   nsfw, masterpiece, best quality, absurdres, 1girl, solo, young female, slender body, (medium breasts:1.2), upper body, close up, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, wet strands clinging to skin, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, calm yet bashful expression, water drops on face and neck, (wet translucent white gauze clinging to body:1.4), (soaked sheer white silk:1.3), (wet fabric sticking to skin:1.3), (nipples clearly visible through wet sheer white fabric:1.4), (areola visible through soaked translucent white silk:1.3), (clothes fully intact but soaked completely transparent:1.3), wet skin glistening, water drops on skin, faint blush, looking at viewer, dark background, cool moonlight rim light, dim lighting, cinematic
+
+安迟迟_素裳映影_sfw:
+   masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly mysterious expression, gentle eyes, lips closed in quiet stillness, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), loose strands backlit, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, (single layer of ultra-thin white organza covering upper body:1.4), (sheer white silk so thin it barely conceals:1.3), (body outline visible through translucent white fabric:1.3), front view, dark background, warm candlelight backlight casting soft silhouette through fabric, ethereal and dreamy atmosphere, dim lighting, cinematic
+
+安迟迟_素裳映影_nsfw:
+   nsfw, masterpiece, best quality, absurdres, 1girl, solo, young female, slender body, (medium breasts:1.2), upper body, close up, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), loose strands backlit, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, serene yet bashful expression, (single layer of ultra-thin white organza covering upper body:1.4), (sheer white silk so thin it clearly reveals everything through:1.3), (nipples and areola fully visible through translucent white fabric:1.4), (breasts clearly seen through see-through white silk:1.3), (clothes fully intact, no holes, see-through only:1.3), faint blush, looking at viewer, dark background, warm candlelight backlight, dim lighting, cinematic
+
+安迟迟_白纱半褪_sfw:
+   masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), wistful expression, shy downward gaze, lips slightly pressed together, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), a few loose strands falling across bare shoulder, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, (translucent white gauze slipping off one shoulder:1.4), (sheer white silk robe:1.3), (exposed bare shoulder and collarbone:1.3), off shoulder, fabric poised at the edge, looking to the side, dark background, warm amber rim light on bare shoulder, quiet and intimate atmosphere, dim lighting, cinematic
+
+安迟迟_白纱半褪_nsfw:
+   nsfw, masterpiece, best quality, absurdres, 1girl, solo, young female, slender body, (medium breasts:1.2), upper body, close up, shoulder focus, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy strands clinging to bare shoulder, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, shy smile, (translucent white gauze slipping off one shoulder:1.4), (sheer white silk robe:1.3), (fabric barely held at elbow:1.3), (one breast visible through translucent white silk:1.3), bare shoulder, faint blush, looking at viewer, dark background, warm amber rim light, dim lighting, cinematic
+
+安迟迟_薄罗轻绡_sfw:
+   masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), dreamy and slightly melancholic expression, soft distant gaze, lips gently parted, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin:1.4), loose strands softly floating, (mole under left eye:1.3), (green jade eyes, emerald eyes misty and faraway:1.4), beautiful detailed eyes, (extremely thin white silk draped loosely over body:1.4), (ultra-sheer white gauze barely covering:1.3), (fabric so light it floats and reveals silhouette:1.3), off shoulder, looking at viewer, dark background, soft cool moonlight rim light tracing fabric edges, floating starlight particles, dreamy and vast atmosphere, dim lighting, cinematic
+
+安迟迟_薄罗轻绡_nsfw:
+   nsfw, masterpiece, best quality, absurdres, 1girl, solo, young female, slender body, (medium breasts:1.2), upper body, close up, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin slightly undone:1.3), loose strands softly floating, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, dreamy yet bashful expression, (extremely thin white silk draped loosely over body:1.4), (ultra-sheer white gauze barely covering:1.3), (nipples clearly visible through floating sheer white fabric:1.4), (areola visible through translucent white silk:1.3), (clothes fully intact but fabric completely transparent:1.3), off shoulder, faint blush, looking at viewer, dark background, soft cool moonlight rim light, floating starlight particles, dim lighting, cinematic
+
+安迟迟_素帷春梦_sfw:
+   masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), peaceful and innocent expression, gentle closed-eye smile, quiet drowsy stillness, (warm brown hair:1.4), (chestnut brown hair in simple low bun with wooden hairpin slightly loose:1.4), stray strands catching soft light, (mole under left eye:1.3), (green jade eyes, emerald eyes sleepy and gentle:1.4), beautiful detailed eyes, (sitting behind white sheer gauze curtain:1.4), (translucent white veil between viewer and subject:1.3), (silhouette faintly visible through layered white mesh:1.3), off shoulder, dark background, soft warm candlelight from behind curtain, innocent and tender atmosphere, dim lighting, cinematic
+
+安迟迟_素帷春梦_nsfw:
+   nsfw, masterpiece, best quality, absurdres, 1girl, solo, young female, slender body, (medium breasts:1.2), upper body, close up, (warm brown hair:1.4), (chestnut brown hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy strands, (mole under left eye:1.3), (green jade eyes, emerald eyes:1.4), beautiful detailed eyes, innocent yet bashful smile, (sitting behind white sheer gauze curtain:1.4), (translucent white veil between viewer and subject:1.3), (nude silhouette visible through layered white mesh:1.4), (breasts visible through sheer white curtain:1.3), (fabric fully intact, see-through only:1.3), off shoulder, faint blush, dark background, soft warm candlelight from behind curtain, dim lighting, cinematic

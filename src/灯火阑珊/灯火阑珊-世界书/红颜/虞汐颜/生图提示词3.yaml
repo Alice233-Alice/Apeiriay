@@ -1,0 +1,222 @@
+# 虞汐颜生图提示词3 — 色气特化·双魂反差+赤足篇
+# 核心特征（虞汐）：银发如瀑、赤瞳、素白缀樱、软糯纯真、掌生之法则
+# 核心特征（虞颜）：青丝如瀑、赤瞳、玄红妖冶、沉静幽冷、掌死之法则
+# 共同特征：赤足、透明流云袖、阴阳双鱼玉簪、一躯双魂、万载古玉化灵
+# 设计理念：双魂反差板块聚焦虞汐颜独有的一体双魂身份张力——半面阴阳、双魂虚影、切换裂光，色气源于魂魄撕裂时的脆弱与双生之美。古玉化灵板块探索万载死玉觉醒为灵的瞬间。赤足板块通过抬足入框的构图，将裸足融入 upper body 特写。
+# 编写原则：双魂反差板块为合并条目（一图双魂共现），古玉化灵与赤足板块按虞汐→虞颜分列。全部条目统一使用 upper body 构图。sfw 神韵自持，nsfw 衣襟半褪、情欲暗涌。
+# 专属负面提示词：(worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, loli, young girl, flat chest, modern clothes, sci-fi, (crazy smile, yandere:1.3), (goblet, wine glass, cocktail glass, glass cup:1.6), (other people, crowd, soldiers, corpses, multiple girls, multiple boys:1.5), (tattoo, body tattoo, crotch tattoo, womb tattoo, body writing, skin markings:1.5), (red skin, colored skin, red hands, colored hands:1.5), (blood, bleeding, bloodstains, blood pool:1.8), (mist around mouth:1.5), (smoke around face:1.5), (fog covering mouth:1.5), (veil over face:1.4)
+# ==========================================
+# 双魂反差 — 半面阴阳、魂影交叠、切换裂光
+# ==========================================
+
+# --- 半面阴阳：白发与黑发的共生之美 ---
+
+虞汐颜_半面阴阳_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, (half white hair half black hair:1.4), split hair color down the middle, left white hair soft and straight, right black hair straight and loose, hair ornament on both sides, (red eyes:1.3), heterochromia expression, left eye soft gentle, right eye cold piercing, (fair skin, pale skin:1.2), (breasts:1.2), cleavage, wuxia, xianxia, (white and red silk robe on left side:1.3), (black and red silk robe on right side:1.3), split outfit along center, transparent flowing sleeves, yin yang split composition, dignified yet mysterious expression, faint smile on white side, celestial river, sea of clouds, painterly, glowing elements, yin yang aesthetic, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐颜_半面阴阳_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (half white hair half black hair:1.4), split hair color down the middle, left white hair soft, right black hair wild, (red eyes:1.3), heterochromia expression, left eye shy and pleading, right eye cold and seductive, (fair skin, pale skin:1.2), dark background, black background, robe half-slipped revealing shoulders and breasts, white robe fallen from left shoulder, black robe torn at right, split along exposed skin, yin yang split composition, half-lidded eyes, double expression of shame and desire, looking at viewer, painterly, glowing elements, yin yang aesthetic, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 切换裂光：魂变之瞬、光裂为界 ---
+
+虞汐颜_切换裂光_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, (mid-transformation hair shifting from white to black:1.4), hair half-white half-black in motion, white strands turning black at the tips, loose hair in natural fall, (red eyes:1.3), one eye wide and soft one eye narrowed and cold, (fair skin, pale skin:1.2), (breasts:1.2), cleavage, wuxia, xianxia, (glowing crack of light splitting down the center:1.3), energy fissure, yin yang rift, white silk on one side black silk on the other, fabric mid-shift, transparent flowing sleeves caught in transformation, dramatic lighting, celestial river, sea of clouds, painterly, glowing elements, yin yang aesthetic, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐颜_切换裂光_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, (mid-transformation hair shifting from white to black:1.4), hair half-white half-black in wild motion, white strands turning black at the tips, (red eyes:1.3), one eye tearful and soft one eye heavy-lidded and hungry, (fair skin, pale skin:1.2), dark background, black background, (glowing crack of light splitting down the center:1.3), energy fissure revealing bare skin, robe tearing at the seam of transformation, white silk ripped away from left side, black silk ripped from right, bare breasts exposed on the torn side, half-lidded eyes, expression caught between pain and pleasure, looking at viewer, yin yang rift, dramatic contrast lighting, painterly, glowing elements, yin yang aesthetic, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 古玉化灵 — 万载死玉、一朝为灵
+# ==========================================
+
+# --- 玉光浮现：从玉佩光芒中半透明具现 ---
+
+虞汐_玉光浮现_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, (body emerging from a glowing jade pendant light:1.4), lower body dissolving into jade luminescence, semi-transparent at the edges, white and red silk robe materializing from light, ethereal form, divine pure maiden manifesting from ancient jade, celestial river, sea of clouds, painterly, glowing elements, jade green and white luminosity, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_玉光浮现_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (body emerging from a glowing jade pendant light:1.4), body partially materialized, still semi-transparent at the chest, nipples faintly visible through translucent forming flesh, lower body dissolving into jade luminescence, white and red silk robe only half-formed barely covering, half-lidded eyes, expression of shy wonder at being seen mid-formation, looking at viewer, jade green and white luminosity, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_玉光浮现_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, (body emerging from a glowing jade pendant light:1.4), lower body dissolving into jade luminescence, semi-transparent at the edges, black and red silk robe materializing from light, ethereal form, dark divine maiden manifesting from ancient jade, cold and dignified expression, celestial river, sea of clouds, painterly, glowing elements, jade green and dark red luminosity, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_玉光浮现_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), dark background, black background, (body emerging from a glowing jade pendant light:1.4), body partially materialized, still semi-transparent at the chest, nipples faintly visible through translucent forming flesh, lower body dissolving into jade luminescence, black and red silk robe only half-formed barely covering, half-lidded eyes, cold but flustered expression at being seen mid-formation, looking at viewer with reluctant desire, jade green and dark red luminosity, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 流光绕体：玉芒为带、缠绕为衣 ---
+
+虞汐_流光绕体_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, (luminescent jade green light ribbons wrapping around body:1.4), ethereal glowing threads encircling shoulders and arms, light forming decorative spirals, covered by white and red sheer silk outer robe, jade light body ornament, divine maiden adorned in living light, celestial river, sea of clouds, painterly, glowing elements, jade and white luminescence, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_流光绕体_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (luminescent jade green light ribbons wrapping around bare body:1.4), ethereal glowing threads spiraling across bare breasts barely covering nipples, jade light caressing skin, bare shoulders, bare collarbone, no robe, body adorned only by living jade luminescence, half-lidded eyes, pure but aroused expression, looking at viewer, jade and white luminescence, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_流光绕体_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, (luminescent jade green light ribbons wrapping around body:1.4), ethereal glowing threads encircling shoulders and arms, light forming decorative spirals, covered by black and red sheer silk outer robe, jade light body ornament, dark divine maiden adorned in living light, cold and mysterious expression, celestial river, sea of clouds, painterly, glowing elements, jade and dark red luminescence, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_流光绕体_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), dark background, black background, (luminescent jade green light ribbons wrapping around bare body:1.4), ethereal glowing threads spiraling across bare breasts barely covering nipples, jade light caressing skin, bare shoulders, bare collarbone, no robe, body adorned only by living jade luminescence, half-lidded eyes, cold but lustful expression, looking at viewer, jade and dark red luminescence, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 水玉双鱼：玉佩化鲤、绕身而游 ---
+
+虞汐_水玉双鱼_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, (two glowing koi fish circling around body:1.4), silver and red koi, ethereal jade fish swimming in air, yin yang twin fish, white and red silk robe flowing in water-like ripples, playing with the luminous fish, celestial river, sea of clouds, painterly, glowing elements, red and white theme with jade accents, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_水玉双鱼_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, wet loose hair, hair bun loose, hair ornament, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (two glowing koi fish circling around bare body:1.4), silver and red koi swimming through air wrapping around naked form, ethereal jade fish, white and red silk robe floating around shoulders barely clinging, half-lidded eyes, innocent but sensual, looking at viewer, painterly, glowing elements, red and white theme with jade accents, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_水玉双鱼_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, (two glowing koi fish circling around body:1.4), black and red koi, ethereal jade fish swimming in air, yin yang twin fish, black and red silk robe flowing in water-like ripples, cold and mysterious expression, celestial river, sea of clouds, painterly, glowing elements, red and black theme with jade accents, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_水玉双鱼_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, wet very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), dark background, black background, (two glowing koi fish circling around bare body:1.4), black and red koi swimming through air wrapping around naked form, ethereal jade fish, black and red silk robe floating around shoulders barely clinging, half-lidded eyes, cold but lustful, looking at viewer, painterly, glowing elements, red and black theme with jade accents, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# ==========================================
+# 华服之美 — 毛领大氅、袒领轻纱、抹胸叠纱、深V交领
+# ==========================================
+
+# --- 毛领大氅：蓬松毛领、冬日暖艳 ---
+
+虞汐_毛领大氅_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (white fluffy fur collar:1.4), (red winter cloak:1.3), thick fur framing face, snowflakes falling, elegant and warm expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_毛领大氅_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (white fluffy fur collar:1.4), (red winter cloak hanging open:1.3), thick fur framing face, cloak open revealing bare chest, exposed breasts, snowflakes falling, half-lidded eyes, shy but warm expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_毛领大氅_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (black fluffy fur collar:1.4), (dark red winter cloak:1.3), thick fur framing face, snowflakes falling, cold and dignified expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_毛领大氅_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (black fluffy fur collar:1.4), (dark red winter cloak hanging open:1.3), thick fur framing face, cloak open revealing bare chest, exposed breasts, snowflakes falling, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 袒领轻纱：一侧肩裸、轻纱掩映 ---
+
+虞汐_袒领轻纱_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (off-shoulder white silk robe:1.4), one bare shoulder, collarbone exposed, translucent white gauze draping across body, elegant and innocent, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_袒领轻纱_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (off-shoulder white silk robe:1.4) slipped lower, both shoulders bare, translucent white gauze barely covering chest, sideboob visible, half-lidded eyes, shy but aroused expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_袒领轻纱_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (off-shoulder black silk robe:1.4), one bare shoulder, collarbone exposed, translucent black gauze draping across body, cold and mysterious expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_袒领轻纱_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (off-shoulder black silk robe:1.4) slipped lower, both shoulders bare, translucent black gauze barely covering chest, sideboob visible, half-lidded eyes, cold but seductive expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 抹胸叠纱：抹胸为底、半透轻纱外罩 ---
+
+虞汐_抹胸叠纱_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (white silk strapless bandeau top:1.4), (sheer red gauze outer robe:1.3), translucent silk layer over solid bandeau, bare shoulders, collarbone, elegant and innocent, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_抹胸叠纱_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (white silk strapless bandeau top:1.4) slipping down, (sheer red gauze outer robe:1.3) fully open, translucent silk parted revealing bare breasts, sideboob, bare shoulders, collarbone, half-lidded eyes, embarrassed but aroused expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_抹胸叠纱_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (black silk strapless bandeau top:1.4), (sheer dark red gauze outer robe:1.3), translucent silk layer over solid bandeau, bare shoulders, collarbone, cold and elegant expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_抹胸叠纱_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (black silk strapless bandeau top:1.4) slipping down, (sheer dark red gauze outer robe:1.3) fully open, translucent silk parted revealing bare breasts, sideboob, bare shoulders, collarbone, half-lidded eyes, cold but flustered expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 深V交领：襟口深开、锁骨尽显 ---
+
+虞汐_深V交领_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), cleavage, wuxia, xianxia, dark background, black background, (deep V-neck white and red cross-collar silk robe:1.4), low neckline, collarbone and cleavage subtly visible, elegant and refined, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_深V交领_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (deep V-neck white and red cross-collar silk robe:1.4) half-open, neckline pulled wide, exposed breasts, bare shoulders, half-lidded eyes, shy but willing expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_深V交领_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), cleavage, wuxia, xianxia, dark background, black background, (deep V-neck black and red cross-collar silk robe:1.4), low neckline, collarbone and cleavage subtly visible, cold and refined expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_深V交领_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (deep V-neck black and red cross-collar silk robe:1.4) half-open, neckline pulled wide, exposed breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 坐姿翘足：保留条目 ---
+
+# --- 坐姿翘足：足尖轻挑、若即若离 ---
+
+虞汐_坐姿翘足_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, sitting gracefully, one leg raised, foot lifted near face level, barefoot, toes pointed, white and red silk robe, elegant and playful, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, detailed feet, intricate detail, upper body, portrait
+
+虞汐_坐姿翘足_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, transparent flowing sleeves, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, sitting gracefully, one leg raised high, foot lifted near face, barefoot, toes delicately pointed, white and red silk robe slipped off one shoulder, bare shoulder and breast exposed on one side, half-lidded eyes, shy but teasing expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, detailed feet, intricate detail, upper body, portrait
+
+虞颜_坐姿翘足_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, sitting gracefully, one leg raised, foot lifted near face level, barefoot, toes pointed, black and red silk robe, cold and elegant expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, detailed feet, intricate detail, upper body, portrait
+
+虞颜_坐姿翘足_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, transparent flowing sleeves, (fair skin, pale skin:1.2), dark background, black background, sitting gracefully, one leg raised high, foot lifted near face, barefoot, toes slightly spread, black and red silk robe slipped off one shoulder, bare shoulder and breast exposed on one side, half-lidded eyes, cold but seductive expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, detailed feet, intricate detail, upper body, portrait
+
+# ==========================================
+# 华服之美·续 — 云肩、斜襟、无袖立领、浴后裹布、褙子抹胸
+# ==========================================
+
+# --- 云肩：云形披肩、层叠华丽 ---
+
+虞汐_云肩_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (white and red cloud-shaped shoulder cape:1.4), (chinese cloud collar:1.3), layered silk cloud motifs draping over shoulders, adorned with silver tassels, elegant and refined, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_云肩_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (white and red cloud-shaped shoulder cape:1.4) slipped off, (chinese cloud collar:1.3) fallen to arms, bare shoulders exposed, silver tassels dangling over bare skin, half-lidded eyes, shy but aroused expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_云肩_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (black and red cloud-shaped shoulder cape:1.4), (chinese cloud collar:1.3), layered silk cloud motifs draping over shoulders, adorned with gold tassels, cold and dignified expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_云肩_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (black and red cloud-shaped shoulder cape:1.4) slipped off, (chinese cloud collar:1.3) fallen to arms, bare shoulders and breasts exposed, gold tassels draping over bare skin, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 斜襟单衣：不对称斜开领口、一侧锁骨全露 ---
+
+虞汐_斜襟单衣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (diagonal asymmetric collar white silk robe:1.4), slanted neckline, one collarbone fully exposed, one side covered, elegant and innocent, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_斜襟单衣_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (diagonal asymmetric collar white silk robe:1.4) pulled wide open, slanted neckline fully gaping, one breast exposed, one breast still covered, bare shoulder on open side, half-lidded eyes, shy but teasing expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_斜襟单衣_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (diagonal asymmetric collar black silk robe:1.4), slanted neckline, one collarbone fully exposed, one side covered, cold and mysterious expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_斜襟单衣_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (diagonal asymmetric collar black silk robe:1.4) pulled wide open, slanted neckline fully gaping, one breast exposed, one breast still covered, bare shoulder on open side, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 无袖立领：高领无袖、领口紧闭的反差 ---
+
+虞汐_无袖立领_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (sleeveless high collar white silk cheongsam top:1.4), tight stand collar fastened to the neck, bare arms, bare shoulders, form-fitting bodice, elegant and demure, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_无袖立领_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (sleeveless high collar white silk cheongsam top:1.4) with collar buttons undone, stand collar loosened, bare arms, bare shoulders, front slit open revealing cleavage and breasts, half-lidded eyes, shy but aroused expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_无袖立领_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (sleeveless high collar black silk cheongsam top:1.4), tight stand collar fastened to the neck, bare arms, bare shoulders, form-fitting bodice, cold and refined expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_无袖立领_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (sleeveless high collar black silk cheongsam top:1.4) with collar buttons undone, stand collar loosened, bare arms, bare shoulders, front slit open revealing cleavage and breasts, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 浴后裹布：腋下裹白布、湿发披肩 ---
+
+虞汐_浴后裹布_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, damp long straight hair, hair bun slightly loose, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (white bath towel wrapped around chest:1.4), cloth wrapped under arms covering breasts, bare shoulders, bare collarbone, damp hair clinging to skin, fresh and pure after bath, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_浴后裹布_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, water droplets on skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, wet loose hair, hair bun completely loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (white bath towel slipping from chest:1.4), cloth barely clinging under breasts, exposed breasts, bare shoulders, wet hair plastered to skin, half-lidded eyes, embarrassed but aroused expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_浴后裹布_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, damp very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (white bath towel wrapped around chest:1.4), cloth wrapped under arms covering breasts, bare shoulders, bare collarbone, damp hair clinging to skin, cold and composed after bath, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_浴后裹布_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, water droplets on skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, wet very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (white bath towel slipping from chest:1.4), cloth barely clinging under breasts, exposed breasts, bare shoulders, wet hair plastered to skin, half-lidded eyes, cold but flustered expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+# --- 褙子抹胸：宋制长背心罩抹胸、直垂叠穿 ---
+
+虞汐_褙子抹胸_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun, hair ornament, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (red silk bandeau top:1.3), (white straight-collar long vest:1.4), song dynasty beizi layered over dudou, vertical straight lines, bare arms visible through loose vest, bare shoulders, collarbone, elegant and refined, faint smile, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞汐_褙子抹胸_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, white hair, long straight hair, hair bun slightly loose, (cute expression:1.2), (soft expression:1.2), (red eyes:1.3), (fair skin, pale skin:1.2), dark background, black background, (red silk bandeau top:1.3) slipping down, (white straight-collar long vest:1.4) hanging fully open, song dynasty beizi parted revealing bare chest beneath, exposed breasts, bare shoulders, half-lidded eyes, shy but willing expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_褙子抹胸_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), (breasts:1.2), wuxia, xianxia, dark background, black background, (dark red silk bandeau top:1.3), (black straight-collar long vest:1.4), song dynasty beizi layered over dudou, vertical straight lines, bare arms visible through loose vest, bare shoulders, collarbone, cold and elegant expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait
+
+虞颜_褙子抹胸_nsfw:
+  nsfw, nude, (breasts:1.2), nipples, heavy blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, upper body, black hair, (red eyes:1.3), very long hair, loose hair, hair ornament, (fair skin, pale skin:1.2), dark background, black background, (dark red silk bandeau top:1.3) slipping down, (black straight-collar long vest:1.4) hanging fully open, song dynasty beizi parted revealing bare chest beneath, exposed breasts, bare shoulders, half-lidded eyes, cold but lustful expression, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, upper body, portrait

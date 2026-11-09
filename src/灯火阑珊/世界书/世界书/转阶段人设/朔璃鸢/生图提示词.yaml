@@ -1,0 +1,184 @@
+# 朔璃鸢生图提示词
+# 核心特征：16岁少女体态、黑发、赤红发带、黑眸灵动、笑现梨涡、精致游侠装（暗红魔宗元素点缀/飘逸轻纱）、长弓（碎星弓）
+# 💡 发型说明：弃用高马尾，改用两种少女发型混搭——半散发(half updo)与单侧编发(loose side braid)
+#    半散发用于：端庄慵懒向——锁骨幽影、拂发侧颈、初醒迷蒙
+#    单侧编发用于：活泼娇憨向——湿发贴颈、含指忘言、肩纱轻坠
+#    下次为朔璃鸢跑图时，优先从这两款发型中择取
+# 设计理念：向阳而生的灵动飞鸟，落跑千金伪装成的底层散修——摒弃土气，强调仙侠的飘逸唯美与魔宗千金的华丽底色
+# 编写原则：精简聚焦，每个场景围绕一个核心氛围，避免堆砌过多标签分散模型注意力
+# 特别注意：由于底模特性，请勿在提示词中使用 full body 标签，以免影响生成效果。
+# 专属负面提示词：(worst quality, low quality, normal quality, caucasian:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2), signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs, mature female, milf, muscular, colored skin, modern clothes, sci-fi, (red hair, streaked hair, multicolored hair:1.3), (red eyes:1.3), sword, dagger, holding sword, holding arrow, spear, (bad bow, broken bow, floating arrow, arrow through body, arrow through head, disconnected bowstring:1.4)
+# 💡 提示：若“赤红发带”导致头发或眼睛出现红色（颜色污染），请确保在负面提示词中加入 (red hair, streaked hair, red eyes:1.3)，并在正面提示词中将黑发/黑眸与红发带的标签隔开，强调 (pure black hair:1.3) 和 (pure black eyes:1.3)。
+# ==========================================
+
+朔璃鸢_少女_基础立绘:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, (cute young girl:1.2), round face, soft cheeks, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (simple grey martial arts hanfu:1.2), tight sleeves, (holding a longbow:1.3), dynamic posture, glowing wind aura, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_半身特写:
+ fantasy, textures, volumetric light, 1girl, solo, upper body, 16yo, teenager, energetic, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, (detailed eyes:1.2), black eyes, large eyes, wuxia, xianxia, (elegant ranger outfit:1.3), (dark red and black accents:1.2), translucent silk, crossed arms, confident expression, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_坊市初遇:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (elegant ranger outfit:1.3), (dark red and black accents:1.2), translucent silk, holding half-eaten steamed bun, eating, looking at viewer, surprised expression, ancient chinese city, market stall background, depth of field, cinematic lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_弯弓搭箭:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, (cute young girl:1.2), round face, soft cheeks, determined but cute expression, biting lip, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (simple grey martial arts hanfu:1.2), tight sleeves, (archery:1.4), (holding a longbow:1.4), (drawing bowstring:1.4), (perfect archery pose:1.3), (arrow on bowstring:1.3), (magical energy bowstring:1.3), (glowing energy arrow:1.3), action pose, jumping, wind effect, glowing wind aura, combat scene, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_nsfw半身:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, blush, wet, glistening, fantasy, textures, volumetric light, 1girl, upper body, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, heavy wet transparent flowing sleeves, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_nsfw背影回眸:
+ nsfw, nude, exposed back, beautiful back, medium breasts, blush, glistening skin, fantasy, textures, volumetric light, 1girl, upper body, from behind, looking back at viewer over shoulder, 16yo, teenager, energetic, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, half-slipped elegant ranger outfit draped over arms, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_nsfw基础:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, barefoot, half-lidded eyes, faint blush, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_nsfw巨尻_背影:
+ nsfw, nude, exposed back, beautiful back, (big ass:1.4), wide hips, thick thighs, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, ass focus, from behind, looking back at viewer over shoulder, 16yo, teenager, energetic, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, half-slipped elegant ranger outfit draped over arms, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+
+
+# ==========================================
+# 定制古风服饰 (Custom Traditional Chinese Clothes)
+# ==========================================
+
+朔璃鸢_少女_幽影宗圣女服_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, black hair, neat high ponytail, flowing hair, exquisite crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (luxurious crimson and black hanfu:1.4), (shadow sect saintess outfit:1.4), intricate silver embroidery, wide sleeves, translucent silk, elegant, barefoot, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_幽影宗圣女服_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, black hair, neat high ponytail, flowing hair, exquisite crimson hair ribbon, black eyes, large eyes, half-slipped (luxurious crimson and black hanfu:1.4), (shadow sect saintess outfit:1.4), open clothes, intricate silver embroidery, translucent silk, barefoot, half-lidded eyes, heavy blush, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_流云飞袖裙_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (gorgeous flowing dress:1.4), (translucent silk sleeves:1.3), (dark red and gold embroidery:1.2), elegant ribbons, barefoot, glowing wind aura, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_流云飞袖裙_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, black hair, neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, half-slipped (gorgeous flowing dress:1.4), open clothes, (translucent silk sleeves:1.3), (dark red and gold embroidery:1.2), barefoot, half-lidded eyes, heavy blush, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_醉卧花间_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (black hair, twin braids, loose hair:1.2), floral hairpins, black eyes, large eyes, wuxia, xianxia, (elegant pink and white hanfu:1.4), (floral patterns:1.3), translucent silk, wide sleeves, lying on grass, surrounded by flowers, relaxed pose, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_醉卧花间_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (black hair, twin braids, loose hair:1.2), floral hairpins, black eyes, large eyes, half-slipped (elegant pink and white hanfu:1.4), open clothes, (floral patterns:1.3), translucent silk, lying on grass, surrounded by flowers, barefoot, half-lidded eyes, heavy blush, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_月下舞姬_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (black hair, elaborate updo, golden hair ornaments:1.3), black eyes, large eyes, wuxia, xianxia, (gorgeous dancer outfit:1.4), (crimson and gold silk:1.3), bare midriff, flowing ribbons, dancing pose, moonlight, night scene, glowing particles, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_月下舞姬_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (black hair, elaborate updo, golden hair ornaments:1.3), black eyes, large eyes, half-slipped (gorgeous dancer outfit:1.4), open clothes, (crimson and gold silk:1.3), bare midriff, flowing ribbons, dancing pose, barefoot, half-lidded eyes, heavy blush, looking at viewer, moonlight, night scene, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_银铃幻蝶_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (black hair, twin tails:1.2), intricate silver headpiece, silver bells, black eyes, large eyes, wuxia, xianxia, (exotic ethnic clothing:1.4), (purple and black silk:1.3), bare midriff, short skirt, barefoot, glowing butterflies, magical forest, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_银铃幻蝶_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (black hair, twin tails:1.2), intricate silver headpiece, silver bells, black eyes, large eyes, half-slipped (exotic ethnic clothing:1.4), open clothes, (purple and black silk:1.3), bare midriff, barefoot, half-lidded eyes, heavy blush, looking at viewer, glowing butterflies, magical forest, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_墨竹清风_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (black hair, half updo, jade hairpin:1.2), black eyes, large eyes, wuxia, xianxia, (elegant white and green hanfu:1.4), (ink bamboo patterns:1.3), wide sleeves, holding a bamboo flute, bamboo forest background, sunlight filtering through leaves, serene atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_墨竹清风_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (black hair, half updo, jade hairpin:1.2), black eyes, large eyes, half-slipped (elegant white and green hanfu:1.4), open clothes, (ink bamboo patterns:1.3), barefoot, half-lidded eyes, heavy blush, looking at viewer, bamboo forest background, sunlight filtering through leaves, serene atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_踏雪寻梅_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (black hair, double buns, odango:1.2), red hair ribbons, black eyes, large eyes, wuxia, xianxia, (thin translucent red silk hanfu:1.4), (lightweight elegant dress:1.3), bare shoulders, empty hands, falling snow, winter forest, contrast of snow and thin clothes, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_踏雪寻梅_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (black hair, double buns, odango:1.2), red hair ribbons, black eyes, large eyes, half-slipped (thin translucent red silk hanfu:1.4), open clothes, (lightweight elegant dress:1.3), empty hands, falling snow, winter forest, barefoot, half-lidded eyes, heavy blush, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_十里红妆_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, black hair, elaborate updo, (phoenix coronet:1.3), black eyes, large eyes, wuxia, xianxia, (traditional chinese bridal dress:1.4), (luxurious red and gold embroidery:1.3), red veil lifted, holding a red folding fan, festive atmosphere, red lanterns, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_十里红妆_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, black hair, elaborate updo, black eyes, large eyes, half-slipped (traditional chinese bridal dress:1.4), open clothes, (luxurious red and gold embroidery:1.3), red veil, barefoot, half-lidded eyes, heavy blush, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_海棠春雨_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (pure black hair:1.3), twin loops, hair ribbon, (red ribbon:1.1), black eyes, large eyes, wuxia, xianxia, (elegant pale pink and white hanfu:1.4), (crabapple blossom patterns:1.2), translucent silk, wide sleeves, sitting on a wooden swing, blooming crabapple tree, falling pink petals, spring atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_海棠春雨_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (pure black hair:1.3), twin loops, hair ribbon, (red ribbon:1.1), black eyes, large eyes, half-slipped (elegant pale pink and white hanfu:1.4), open clothes, (crabapple blossom patterns:1.2), barefoot, half-lidded eyes, heavy blush, looking at viewer, sitting on a wooden swing, blooming crabapple tree, falling pink petals, spring atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_桂魄仙裳_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, (energetic and lively:1.3), (cute young girl:1.2), round face, soft cheeks, playful smile, winking, dimples, (black hair with large areas of white highlights:1.4), (frosty white streaks:1.3), neat high ponytail, flowing hair, (white and silver hair ribbon:1.2), black eyes, large eyes, wuxia, xianxia, (white and silver martial arts hanfu:1.4), tight sleeves, (osmanthus and moon embroidery:1.3), translucent silk, dynamic pose, leaning forward playfully, holding a glowing lantern, floating osmanthus flowers, ethereal atmosphere, night sky, giant moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_桂魄仙裳_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, (energetic and lively:1.3), (cute young girl:1.2), round face, soft cheeks, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, playful smile, winking, dimples, (black hair with large areas of white highlights:1.4), (frosty white streaks:1.3), neat high ponytail, flowing hair, (white and silver hair ribbon:1.2), black eyes, large eyes, half-slipped (white and silver martial arts hanfu:1.4), open clothes, tight sleeves, (osmanthus and moon embroidery:1.3), barefoot, half-lidded eyes, heavy blush, looking at viewer, floating osmanthus flowers, ethereal atmosphere, night sky, giant moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_春日游园_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (black hair, twin braided buns, cute hair accessories:1.3), black eyes, large eyes, wuxia, xianxia, (light green and pale yellow hanfu:1.4), (spring floral patterns:1.2), translucent silk, holding a sugar-coated hawthorn stick, bustling ancient street, cherry blossoms falling, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_春日游园_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (black hair, twin braided buns, cute hair accessories:1.3), black eyes, large eyes, half-slipped (light green and pale yellow hanfu:1.4), open clothes, (spring floral patterns:1.2), barefoot, half-lidded eyes, heavy blush, looking at viewer, cherry blossoms falling, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_星夜提灯_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, gentle smile, dimples, (black hair, loose side braid, star hairpins:1.3), black eyes, large eyes, wuxia, xianxia, (deep blue and silver hanfu:1.4), (starry night embroidery:1.2), translucent silk, wide sleeves, holding a glowing lotus lantern, fireflies, starry night sky, ethereal atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_星夜提灯_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, gentle smile, dimples, (black hair, loose side braid, star hairpins:1.3), black eyes, large eyes, half-slipped (deep blue and silver hanfu:1.4), open clothes, (starry night embroidery:1.2), barefoot, half-lidded eyes, heavy blush, looking at viewer, fireflies, starry night sky, ethereal atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_暗夜潜行_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, (cute young girl:1.2), round face, soft cheeks, confident smile, playful smile, dimples, (pure black hair:1.3), neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (simple dark grey martial arts hanfu:1.2), tight sleeves, (holding a longbow:1.2), crouching on roof, night sky, moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_暗夜潜行_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, (cute young girl:1.2), round face, soft cheeks, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, confident smile, playful smile, dimples, (pure black hair:1.3), neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, half-slipped (simple dark grey martial arts hanfu:1.2), open clothes, tight sleeves, (holding a longbow:1.2), barefoot, half-lidded eyes, heavy blush, looking at viewer, crouching on roof, night sky, moon, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_弓舞惊鸿_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, (cute young girl:1.2), round face, soft cheeks, sweet smile, dimples, (pure black hair:1.3), neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (simple grey martial arts hanfu:1.2), tight sleeves, (archery:1.3), (dynamic bow dance:1.2), (holding a longbow:1.4), glowing wind aura, falling leaves, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_弓舞惊鸿_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, (cute young girl:1.2), round face, soft cheeks, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (pure black hair:1.3), neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, half-slipped (simple grey martial arts hanfu:1.2), open clothes, tight sleeves, (archery:1.3), (dynamic bow dance:1.2), (holding a longbow:1.4), barefoot, half-lidded eyes, heavy blush, looking at viewer, glowing wind aura, falling leaves, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_桂魄蜕变_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, (energetic and lively:1.3), (cute young girl:1.2), round face, soft cheeks, confident and playful smile, dimples, (very long hair:1.3), flowing hair, windblown hair, (black hair with large areas of white highlights:1.4), (frosty white streaks:1.3), glowing hair, crimson hair ribbon, (pure black eyes:1.4), glowing eyes, large eyes, wuxia, xianxia, (simple grey martial arts hanfu fluttering in wind:1.2), tight sleeves, (dark night sky background:1.4), (glowing full moon:1.2), dark clouds, deep shadows, high contrast, ethereal moonlight, (body turning into moonlight and shadows:1.3), floating in mid-air, dynamic pose, glowing aura, magical particles, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_桂魄蜕变_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, (energetic and lively:1.3), (cute young girl:1.2), round face, soft cheeks, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, confident and playful smile, dimples, (very long hair:1.3), flowing hair, windblown hair, (black hair with large areas of white highlights:1.4), (frosty white streaks:1.3), glowing hair, crimson hair ribbon, (pure black eyes:1.4), glowing eyes, large eyes, half-slipped (simple grey martial arts hanfu fluttering in wind:1.2), open clothes, tight sleeves, (dark night sky background:1.4), (glowing full moon:1.2), dark clouds, deep shadows, high contrast, ethereal moonlight, (body turning into moonlight and shadows:1.3), floating in mid-air, dynamic pose, barefoot, half-lidded eyes, heavy blush, looking at viewer, glowing aura, magical particles, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_温泉嬉水_sfw:
+ fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, playful smile, dimples, (pure black hair:1.3), wet hair, messy high ponytail, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (wet translucent white silk inner robe:1.4), (red dudou:1.2), clinging to skin, water drops, playing with water, hot spring, steam, floating rose petals, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_温泉嬉水_nsfw:
+ nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, playful smile, dimples, (pure black hair:1.3), wet hair, messy high ponytail, crimson hair ribbon, black eyes, large eyes, open (wet translucent white silk inner robe:1.4), half-slipped (red dudou:1.2), clinging to skin, water drops, playing with water, hot spring, steam, floating rose petals, half-lidded eyes, heavy blush, looking at viewer, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_晨起娇慵_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sleepy smile, dimples, (pure black hair:1.3), messy loose hair, holding crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (white silk nightgown:1.4), (black dudou with red embroidery:1.3), bare shoulders, sitting on bed, stretching arms, morning sunlight, ancient chinese bedroom, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_晨起娇慵_nsfw:
+  nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sleepy smile, dimples, (pure black hair:1.3), messy loose hair, holding crimson hair ribbon, black eyes, large eyes, open (white silk nightgown:1.4), half-slipped (black dudou with red embroidery:1.3), bare shoulders, sitting on bed, stretching arms, (no panties:1.3), exposed crotch, visible pussy, half-lidded eyes, heavy blush, looking at viewer with love, morning sunlight, ancient chinese bedroom, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 少女古风新裳（新增）
+# ==========================================
+
+朔璃鸢_少女_蜻蜓点水_夏日短打_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, playful smile, dimples, (pure black hair:1.3), neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (light cyan short-sleeved martial arts hanfu:1.4), (summer lightweight ranger outfit:1.3), high side slit, bare legs, translucent dragonfly-wing sleeves, (delicate dragonfly embroidery:1.2), barefoot, standing on lotus leaf over pond, water ripples, summer sunlight, dragonfly resting on fingertip, playful expression, looking at dragonfly, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_蜻蜓点水_夏日短打_nsfw:
+  nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, playful smile, dimples, (pure black hair:1.3), neat high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, half-slipped (light cyan short-sleeved martial arts hanfu:1.4), open clothes, (summer lightweight ranger outfit:1.3), translucent dragonfly-wing sleeves, barefoot, sitting on lotus leaf over pond, water drops on skin, (no panties:1.3), exposed crotch, visible pussy, half-lidded eyes, heavy blush, looking at viewer, dragonflies, summer sunlight, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_蝶舞翩跹_齐胸襦裙_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, sweet smile, dimples, (pure black hair:1.3), twin loops with crimson ribbons, black eyes, large eyes, wuxia, xianxia, (pink and white high-waist ruqun:1.4), (tang dynasty qixiong skirt:1.3), (butterfly embroidery on bodice:1.2), wide flowing sleeves, translucent silk shawl, dancing in flower field, butterflies surrounding, spring meadow, warm sunshine, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_蝶舞翩跹_齐胸襦裙_nsfw:
+  nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, sweet smile, dimples, (pure black hair:1.3), twin loops with crimson ribbons slightly undone, black eyes, large eyes, half-slipped (pink and white high-waist ruqun:1.4), open clothes, (tang dynasty qixiong skirt:1.3), translucent silk shawl fallen, bare shoulders, sitting in flower field, butterflies resting on skin, (no panties:1.3), exposed crotch, visible pussy, half-lidded eyes, heavy blush, looking at viewer, spring meadow, warm sunshine, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_纸鸢寄风_半臂轻装_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, joyful smile, dimples, (pure black hair:1.3), high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (white and crimson banbi jacket:1.4), (song dynasty half-sleeve casual wear:1.3), (simple light green skirt:1.2), holding a kite string, looking up at sky, red paper kite flying high, grassy hilltop, blue sky with white clouds, wind blowing, dynamic pose, running, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_纸鸢寄风_半臂轻装_nsfw:
+  nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, joyful smile, dimples, (pure black hair:1.3), high ponytail, flowing hair, crimson hair ribbon, black eyes, large eyes, half-slipped (white and crimson banbi jacket:1.4), open clothes, (song dynasty half-sleeve casual wear:1.3), simple light green skirt pooled on grass, kite string loosely held, lying on grassy hilltop, barefoot, (no panties:1.3), exposed crotch, visible pussy, half-lidded eyes, heavy blush, looking at viewer, red kite in sky, blue sky with white clouds, warm breeze, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_采莲曲_荷塘浣纱_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, innocent smile, dimples, (pure black hair:1.3), loose low twin tails, crimson hair ribbons, black eyes, large eyes, wuxia, xianxia, (light green and pale pink lotus-picking hanfu:1.4), (summer water-side dress:1.3), rolled-up sleeves, barefoot, kneeling on wooden boat, holding a freshly picked lotus flower, lotus pond, broad lotus leaves, pink lotus blooms, summer heat haze, water reflections, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_采莲曲_荷塘浣纱_nsfw:
+  nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, innocent smile, dimples, (pure black hair:1.3), loose low twin tails, crimson hair ribbons, black eyes, large eyes, half-slipped (light green and pale pink lotus-picking hanfu:1.4), open clothes, (summer water-side dress:1.3), wooden boat, lotus pond, barefoot dipping in water, water drops on skin, lotus flower petal stuck to breast, (no panties:1.3), exposed crotch, visible pussy, half-lidded eyes, heavy blush, looking at viewer, summer heat haze, water reflections, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_糖葫芦_市井甜心_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, delighted smile, dimples, (pure black hair:1.3), twin buns, cute hair accessories, crimson hair ribbons, black eyes, large eyes, wuxia, xianxia, (warm orange and cream casual hanfu:1.4), (simple commoner girl dress:1.3), holding a stick of candied hawthorn, happily eating, ancient street market background, colorful lanterns, festive atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_糖葫芦_市井甜心_nsfw:
+  nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, delighted smile, dimples, (pure black hair:1.3), twin buns slightly messy, cute hair accessories, crimson hair ribbons, black eyes, large eyes, half-slipped (warm orange and cream casual hanfu:1.4), open clothes, (simple commoner girl dress:1.3), holding half-eaten candied hawthorn, sticky sugar on lips and fingers, barefoot, (no panties:1.3), exposed crotch, visible pussy, half-lidded eyes, heavy blush, looking at viewer, sitting on bed in cozy inn room, candied hawthorn sticks scattered on bedside table, paper window, warm candlelight, dim intimate lighting, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_萤火之森_夏夜轻纱_sfw:
+  fantasy, textures, volumetric light, 1girl, solo, cowboy shot, 16yo, teenager, energetic, dreamy smile, dimples, (pure black hair:1.3), loose side ponytail, crimson hair ribbon, black eyes, large eyes, wuxia, xianxia, (translucent pale yellow summer gauze dress:1.4), (lightweight sheer hanfu:1.3), wide flowing sleeves, barefoot, standing in deep forest, countless fireflies glowing, reaching hand toward fireflies, firefly resting on palm, mystical summer night, dappled moonlight, ethereal atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+朔璃鸢_少女_萤火之森_夏夜轻纱_nsfw:
+  nsfw, nude, medium breasts, nipples, 16yo, teenager, energetic, innocent nudity, blush, glistening skin, fantasy, textures, volumetric light, 1girl, solo, cowboy shot, dreamy smile, dimples, (pure black hair:1.3), loose side ponytail, crimson hair ribbon, black eyes, large eyes, half-slipped (translucent pale yellow summer gauze dress:1.4), open clothes, (lightweight sheer hanfu:1.3), sheer fabric clinging to curves, barefoot, sitting on moss-covered log, fireflies glowing around body, fireflies resting on bare skin, (no panties:1.3), exposed crotch, visible pussy, half-lidded eyes, heavy blush, looking at viewer, mystical summer night, dappled moonlight, ethereal atmosphere, painterly, masterpiece, best quality, very aesthetic, absurdres, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail

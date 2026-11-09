@@ -1,0 +1,112 @@
+# 沈倩宁生图提示词二：正式形象（依据人设【仙姿】定稿）
+# 锚点总览：
+#   发  血珀殷红长发，(deep crimson hair with white streaks:1.3)；霜白挑染自耳侧垂落，发尾微乱轻扬，鬓发微覆额前，绯红长发带
+#   眉  眉如远山含黛，双眸深若血珀、光下灼灼如燃炽炭
+#   唇  不点而朱，冷白雪肤映衬下愈见娇艳
+#   躯  外显十六七岁二八娇俏，玉肤凝脂冷白，纤细娇小
+#   衣  玄红窄袖劲装·覆极薄残破黑纱
+# 构图：全系 upper body + 素色背景（黑/白/灰各版），背景不抢戏
+# SFW/NSFW 配套：延续半身特写的对照写法，NSFW 仅微调表情，衣带自解，发眸肤色锚点恒定
+# ⚠️ 发色写法：一律 (deep crimson hair with white streaks:1.3)，禁止 fading 渐变句式，禁止把挑染拆成独立标签
+# ⚠️ 少女感：一律 (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2)
+# ⚠️ 质量词：不写 masterpiece / best quality / absurdres 等，交由外置质量串统一注入
+# 以下提示词皆为虚拟，请勿当真
+
+# ==========================================
+# 正式形象·半身特写 —— 玄红劲装黑纱版（纯黑底）
+# ==========================================
+
+沈倩宁_正式形象_半身特写_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), sweet smile, playful expression, looking at viewer, (dark red and black silk martial outfit:1.3), narrow sleeves, (thin tattered black gauze draped over shoulders:1.2), faint crimson glow, (solid black background:1.4)
+
+沈倩宁_正式形象_半身特写_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), (sweet smile:1.2), playful expression, looking up at viewer, (dark red and black silk martial outfit:1.3), open clothes, untied sash, (tattered black gauze slipping off one shoulder:1.2), bare shoulders, exposed collarbone, faint crimson glow, (solid black background:1.4)
+
+
+# ==========================================
+# 定制古风服饰：雪峰梅氅 —— 万仞雪峰之巅初绽的极艳红梅
+# 意象：人设原句「万仞雪峰之巅初绽的极艳红梅，妖娆清绝两相宜」
+# 布设：月白缟缎大氅为雪峰，玄墨衬里为雷海之夜；泼朱砂梅枝自肩头掠至襟畔，霜白挑染落于雪衣，如雪里开出的血
+# 魔女味：眼神仍是猎食者的甜笑，仙姿只是她的皮，煞气藏在笑里
+# 防油腻：禁软媚表情与湿亮肤，色气只留一处，氅衣单肩滑落，雪肩与朱砂梅纹同断于锁骨
+# ==========================================
+
+沈倩宁_雪峰梅氅_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), sweet smile, playful expression, looking at viewer, (moon-white wide-sleeved silk overcoat:1.4), (ink-wash crimson plum branch across shoulder to chest:1.3), (black silk inner robe beneath:1.2), black waist sash, (coat slipping off one shoulder:1.2), bare collarbone, faint crimson glow, (solid black background:1.4)
+
+沈倩宁_雪峰梅氅_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), (sweet smile:1.2), playful expression, looking up at viewer, (moon-white wide-sleeved silk overcoat:1.4), open clothes, (overcoat slipping off both shoulders, white silk pooling at elbows:1.3), (ink-wash crimson plum branch on slipped fabric:1.2), bare shoulders, exposed collarbone, (black silk inner robe pooled around waist:1.1), faint crimson glow, (solid black background:1.4)
+
+# ==========================================
+# 定制古风服饰：璎珞飞天 —— 敦煌飞天式半袒瑜珈，妖娆清绝另一解
+# 意象：「鬓云欲度香腮雪」，仙子也有风动时。半袒露肩的菩萨装，璎珞缀金，飘带缠风
+# 写法：框架钉死中式仙袂与敦煌味道，飞天飘带用 translucent silk scarves 克制不仙过头；眼神仍是猎食者甜笑
+# 防偏：禁 exotic India dancer 类词，只认 classical xianxia heavenly maiden；防油腻同前，禁湿亮肤与媚态
+# ==========================================
+
+沈倩宁_璎珞飞天_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), sweet smile, playful expression, looking at viewer, (classical xianxia fairy silk costume:1.4), (half-shoulder draped ivory silk, bare shoulders and upper back:1.3), (flowing translucent celestial scarves:1.3), (gold beaded necklace, jeweled armlets:1.2), faint crimson glow, (solid black background:1.4)
+
+沈倩宁_璎珞飞天_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), (sweet smile:1.2), playful expression, looking up at viewer, (classical xianxia fairy silk costume:1.4), open clothes, (silk slipping off both shoulders, celestial scarves trailing down:1.3), (gold beaded necklace resting between breasts:1.2), jeweled armlets, bare shoulders, exposed collarbone, (ivory silk pooled around waist:1.1), faint crimson glow, (solid black background:1.4)
+
+# ==========================================
+# 定制古风服饰：赤瓷胎衣 —— 郎窑红釉，月下骨瓷的第三解
+# 意象：她本就是一盏白瓷，釉是血烧的。素白瓷胎底料，郎窑红釉自领口肩头晕染而下，如窑火里凝成的一滴血泪
+# 写法：只取「红釉晕染」一条，与安迟迟青花道袍的「绘纹」完全错开，全红白两色不串味
+# 防偏离：禁花纹工笔，纯釉色渐变晕染；瓷面用 deep glaze texture 或 silky glaze sheen，不要油亮肤感；防油腻同前
+# ==========================================
+
+沈倩宁_赤瓷胎衣_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), sweet smile, playful expression, looking at viewer, (ivory-white silk robe with porcelain glaze texture:1.4), (deep oxblood red flambe glaze bleeding from collar and sleeves:1.4), (glazed fabric with porcelain sheen:1.2), (dark red sash at waist:1.1), faint crimson glow, (solid black background:1.4)
+
+沈倩宁_赤瓷胎衣_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), (sweet smile:1.2), playful expression, looking up at viewer, (ivory-white silk robe with porcelain glaze texture:1.4), open clothes, (robe slipping off both shoulders, oxblood glaze edge breaking at collarbone:1.3), (deep red glaze gradient running down the slipped fabric:1.2), bare shoulders, exposed collarbone, (smooth white silk pooled at waist:1.1), faint crimson glow, (solid black background:1.4)
+
+
+
+# ==========================================
+# 定制古风服饰：玄缎血珀旗袍 · 正统形制，玄缎立骨，血珀点睛
+# 形制：立领、斜襟、盘扣、收腰、开衩、滚边六样俱全，别无赘饰，让形制自己说话
+# 意象：她惯穿玄红劲装，这一件只把劲装换成缎面。玄缎贴身收着纤细身量，血珀红盘扣自领口斜落，如凝在夜色里的一串血珠
+# 色气来源：旗袍的色气在扣与开之间。NSFW 只解领口两粒盘扣、襟缝微启一线，衣裳仍穿在身上，笑意不动，与 SFW 的差距刻意收窄
+# 防偏离：只认正统旗袍词（qipao, cheongsam, mandarin collar, pankou），禁和服韩服抹胸裙混入；缎面光泽只写布面，防湿亮肤，防油腻同前
+# 腿线两式（坐姿·站姿）见后文：改牛仔镜头，开衩垂落露一段大腿
+# 配色：玄黑缎面旗袍·血珀红盘扣滚边｜绯红发带｜红发白挑染｜赤瞳｜素灰底
+# ==========================================
+
+沈倩宁_玄缎血珀旗袍_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), sweet smile, playful expression, looking at viewer, (black silk qipao, cheongsam:1.4), (mandarin collar:1.2), (blood-red pankou frog buttons:1.3), (slim red piping:1.1), (sleeveless, high side slit:1.2), (soft satin sheen:1.1), faint crimson glow, (plain light grey background:1.4)
+
+沈倩宁_玄缎血珀旗袍_nsfw:
+  nsfw, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), (sweet smile:1.2), playful expression, looking up at viewer, (black silk qipao, cheongsam:1.4), (top pankou buttons undone, mandarin collar open showing collarbone:1.3), (blood-red pankou frog buttons:1.3), (slim red piping:1.1), (sleeveless, high side slit:1.2), (front opening parted slightly at the chest:1.2), (soft satin sheen:1.1), faint crimson glow, (plain light grey background:1.4)
+
+# ==========================================
+# 玄缎血珀旗袍 · 腿线两式（坐姿 / 站姿）
+# 取景：改牛仔镜头，自膝上收进大腿，立领、盘扣、发眸肤、底背景全部沿用
+# 坐姿：端正叠腿，开衩沿腿侧垂落，露出一段大腿，上身一丝不苟，下头松一线
+# 站姿：重心落于一足，一足微前，开衩随势掀开一线
+# 防走光：露腿只行开衩一条路，禁裙摆上提，禁内裤露出
+# NF 尺度：坐姿仍走收敛路线（领口加开衩），站姿解襟露胸，衣仍穿身，补足 NSFW 辨识度
+# 坐姿加护：sitting 姿态词自带黑发先验，此式发色锚点提至 1.5 并二次强调，防飘色
+# 配色：玄黑缎面旗袍·血珀红盘扣滚边｜绯红发带｜红发白挑染｜赤瞳｜素灰底
+# ==========================================
+
+沈倩宁_玄缎血珀旗袍_坐姿_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.3), (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.5), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), sweet smile, playful expression, looking at viewer, (sitting, legs crossed at the knee:1.3), (black silk qipao, cheongsam:1.4), (mandarin collar:1.2), (blood-red pankou frog buttons:1.3), (slim red piping:1.1), (sleeveless:1.2), (high side slit falling open along the thigh:1.3), (one bare thigh visible through the slit:1.2), bare legs, (barefoot, red ribbon anklet:1.1), (soft satin sheen:1.1), faint crimson glow, (plain light grey background:1.4)
+
+沈倩宁_玄缎血珀旗袍_坐姿_nsfw:
+  nsfw, small breasts, dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.3), (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.5), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), (sweet smile:1.2), playful expression, looking up at viewer, (sitting, legs crossed at the knee:1.3), (black silk qipao, cheongsam:1.4), (top pankou buttons undone, mandarin collar open showing collarbone:1.3), (blood-red pankou frog buttons:1.3), (sleeveless:1.2), (high side slit opened wider along the outer thigh:1.3), (one bare thigh exposed through the slit:1.2), (qipao hem draped across the lap:1.1), bare legs, (barefoot, red ribbon anklet:1.1), (soft satin sheen:1.1), faint crimson glow, (plain light grey background:1.4)
+
+沈倩宁_玄缎血珀旗袍_站姿_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.3), (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), sweet smile, playful expression, looking at viewer, (standing, one leg slightly forward:1.2), (black silk qipao, cheongsam:1.4), (mandarin collar:1.2), (blood-red pankou frog buttons:1.3), (slim red piping:1.1), (sleeveless:1.2), (high side slit partway open along the thigh:1.3), (one bare thigh visible through the slit:1.2), bare legs, (barefoot, red ribbon anklet:1.1), (soft satin sheen:1.1), faint crimson glow, (plain light grey background:1.4)
+
+沈倩宁_玄缎血珀旗袍_站姿_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.3), (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (soft natural crimson lips:0.9), (sweet smile:1.2), playful expression, looking up at viewer, (standing, one leg slightly forward:1.2), (black silk qipao, cheongsam:1.4), (pankou buttons undone along the diagonal front, qipao front parted wide open:1.3), (small breasts exposed, bare chest:1.2), (qipao hanging open but still worn:1.1), (blood-red pankou frog buttons:1.3), (sleeveless:1.2), (high side slit parted open along the outer thigh:1.3), (one bare thigh exposed through the slit:1.2), bare legs, (barefoot, red ribbon anklet:1.1), (soft satin sheen:1.1), faint crimson glow, (plain light grey background:1.4)
+
+# ==========================================
+# 专属负面提示词（沿用生图提示词1；白、黑棕皆禁，唯留血珀赤与霜白挑染）
+# ==========================================
+
+负面提示词:
+  lowres, bad anatomy, bad hands, text, error, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, deformed face, ugly face, bad face, extra fingers, mutated hands, (mature female, milf, adult woman, adult:1.4), (tall, tall woman:1.2), (large breasts, huge breasts, big breasts:1.3), (white hair as main color, all white hair, pure white hair:1.3), (black hair, brown hair:1.4), (blonde hair, green hair, blue hair, purple hair, silver hair, platinum hair:1.2), blue eyes, green eyes, heterochromia, (chest tattoo, chest emblem, chest mark, symbol on chest, pattern on chest, chest ornament, mark on chest:1.4), (tattoo, body painting, emblem, sigil, rune, writing on skin:1.3), gauze, bandage, bandages, medical tape, plaster, pasties, wound, scar, scarred skin, (heavy blush, intense blush:1.3), (glossy skin, shiny skin, oily skin:1.3), (glossy lips, lip gloss, shiny nose:1.3), (sweat, glistening skin, wet skin:1.3), (sparkling eyes, starry eyes, shiny forehead:1.3), long sword, katana, spear, complex background, scenery, outdoor, flowers, weapons

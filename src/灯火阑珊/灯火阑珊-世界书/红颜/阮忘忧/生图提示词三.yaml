@@ -1,0 +1,75 @@
+# 阮忘忧生图提示词（生图提示词三）
+# 本卷规则：同一套服饰，清纯与妖娆两形态同色同背景，仅以胸部大小区分（medium breasts / gigantic breasts），发型可差分
+# 构图统一 upper body 半身，背景一律素色纯色（白或黑），提示词精简不堆砌
+# 核心锚点：青蓝渐变长发（teal fading to light blue）、眉心朱砂一点（red bindi）、苍白肤色（pale skin）、仙灵缥缈
+# 负面词：朱砂防花钿污染、渐变发防失效，具体见文末
+# ==========================================
+# 包含五套：曲裾深衣、竖领对襟袄、披帛抹胸裙、单肩斜襟长衫、大氅半披
+# ==========================================
+
+# --- 清纯形态 (Pure Form, medium breasts) ---
+
+阮忘忧_清纯_曲裾深衣_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), low bun, red bindi on forehead, pale skin, (black layered chinese robe:1.3), crossed collar, layered wrap-around skirt top, neat and modest, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_曲裾深衣_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), low bun, red bindi on forehead, pale skin, half-open (black layered chinese robe:1.3), crossed collar loosened, robe sliding off one shoulder, layered fabric slipping, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_竖领对襟袄_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), twin buns, red bindi on forehead, pale skin, (white high-collar jacket:1.3), high collar, open front, silk fabric, fully buttoned, modest, gentle smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_竖领对襟袄_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), twin buns, red bindi on forehead, pale skin, (white high-collar jacket:1.3), high collar, open front, top buttons undone, deep neckline, jacket slipping off shoulders, gentle smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_披帛抹胸裙_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), long straight hair, red bindi on forehead, pale skin, (pale grey chest wrap dress:1.3), (long flowing silk sash:1.2), sash wrapped around arms, bare shoulders, exposed collarbone, modest, gentle smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_披帛抹胸裙_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), long straight hair, red bindi on forehead, pale skin, half-slipped (pale grey chest wrap dress:1.3), (long flowing silk sash:1.2), sash draped loosely, one strap fallen, bare breasts, gentle smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_单肩斜襟长衫_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), half updo, red bindi on forehead, pale skin, (dark teal one-shoulder robe:1.3), asymmetrical neckline, one shoulder bare, exposed collarbone, long sleeve on one side, modest, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_单肩斜襟长衫_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), half updo, red bindi on forehead, pale skin, (dark teal one-shoulder robe:1.3), asymmetrical neckline, strap fallen, one shoulder bare, sideboob, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_大氅半披_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair bun, red bindi on forehead, pale skin, (silver grey fur-trimmed cloak:1.3), fur collar, cloak draped over shoulders, white inner chest wrap barely visible, exposed collarbone, modest, gentle smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_大氅半披_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair bun, red bindi on forehead, pale skin, (silver grey fur-trimmed cloak:1.3), fur collar, cloak slipped off one shoulder, half-slipped white inner chest wrap, bare breasts, gentle smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+# --- 妖娆形态 (Alluring Form, gigantic breasts) ---
+
+阮忘忧_妖娆_曲裾深衣_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), high bun, loose strands of hair, red bindi on forehead, pale skin, (black layered chinese robe:1.3), crossed collar, layered wrap-around skirt top, collar loosened, deep neckline, seductive smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_曲裾深衣_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, deep cleavage, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), high bun, loose strands of hair, red bindi on forehead, pale skin, wide open (black layered chinese robe:1.3), crossed collar fully loosened, layered fabric sliding off shoulders, bare breasts, seductive smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_竖领对襟袄_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), messy bun, loose strands of hair, red bindi on forehead, pale skin, (white high-collar jacket:1.3), high collar, open front, top buttons undone, deep neckline, breasts pushing against fabric, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_竖领对襟袄_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, deep cleavage, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), messy bun, loose strands of hair, red bindi on forehead, pale skin, (white high-collar jacket:1.3), high collar, open front, jacket wide open, bare breasts, jacket slipping off shoulders, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_披帛抹胸裙_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), half updo, long flowing hair, red bindi on forehead, pale skin, (pale grey chest wrap dress:1.3), (long flowing silk sash:1.2), sash wrapped tightly over breasts, pushing them up, bare shoulders, deep cleavage, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_披帛抹胸裙_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, deep cleavage, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), half updo, long flowing hair, red bindi on forehead, pale skin, half-slipped (pale grey chest wrap dress:1.3), (long flowing silk sash:1.2), sash loosened, breasts spilling out, bare breasts, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_单肩斜襟长衫_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), long flowing hair, loose hair, red bindi on forehead, pale skin, (dark teal one-shoulder robe:1.3), asymmetrical neckline, one shoulder bare, deep cleavage, strap digging into breast, seductive smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_单肩斜襟长衫_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, deep cleavage, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), long flowing hair, loose hair, red bindi on forehead, pale skin, (dark teal one-shoulder robe:1.3), asymmetrical neckline, strap fallen, one shoulder bare, underboob, bare breasts, seductive smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_大氅半披_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing loose hair, red bindi on forehead, pale skin, (silver grey fur-trimmed cloak:1.3), fur collar, cloak draped open, white inner chest wrap pushed up by heavy breasts, deep cleavage, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_大氅半披_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, deep cleavage, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing loose hair, red bindi on forehead, pale skin, (silver grey fur-trimmed cloak:1.3), fur collar, cloak slipped down to elbows, half-slipped white inner chest wrap, bare breasts, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+负面提示词:
+ lowres, bad anatomy, bad hands, missing fingers, extra fingers, mutated hands, text, error, jpeg artifacts, signature, watermark, blurry, deformed face, ugly face, bad face, bad eyes, asymmetric eyes, dull eyes, worst quality, low quality, complex forehead mark, forehead tattoo, huadian

@@ -1,0 +1,409 @@
+# 安迟迟生图提示词（生图提示词二：定制古风服饰）
+# 本卷规则：延续生图提示词1的核心锚点与构图规范，不做形态差分，银灰发低髻木簪、浅灰瞳、青玉佩、指尖染墨恒定
+# 核心锚点：银灰发·简素低髻木簪·极淡灰瞳·青瓷秘色底衣·青玉佩·指尖染墨
+# 构图：全系 upper body + (simple black background, solid black void, plain dark background, no background objects:1.4)
+# 设计理念：以「沉静温雅」为底色做服饰变奏，色气不在裸露，在失态：衣带松脱、纱幕半揭、湿布贴身、领口垂落
+# 体型恒定：young female, slender body, (medium breasts:1.2)，负面词禁大胸
+# ==========================================
+# 包含五式：水田衣、坦领半臂、帷帽纱幕、靛青染衣、茶烟素衣
+# ==========================================
+
+# ==========================================
+# 第一式：水田衣 —— 明式百衲拼布，深浅青灰错落如田垄
+# 色气来源：穿百衲的人不争，衣裳自己先散了。衣带松脱时，拼块错位，素白里衣从接缝里露出一角。不是脱下，是补丁自己裂了口。
+# 配色：茶褐·藕荷·青灰·米白百衲拼布｜素白里衣｜银灰发｜浅灰瞳｜青玉佩｜纯黑底
+# ==========================================
+
+安迟迟_水田衣_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and composed expression, gentle quiet gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (mosaic patchwork hanfu, patches of warm tea-brown, pale lotus-grey, celadon and cream fabric sewn together like rice fields:1.4), (assorted cloth patches of varying shades, subtle worn stitching:1.3), (plain white cotton inner robe visible at neckline:1.2), (green jade pendant tied at waist:1.2), ink-stained fingertips, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_水田衣_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet composure giving way, half-lidded eyes with gentle vulnerability, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (mosaic patchwork hanfu, tea-brown, lotus-grey, celadon and cream fabric blocks:1.4), (waist sash loosened, patchwork front parting open:1.3), (white inner robe slipping from one shoulder, bare shoulder and collarbone between misaligned patches:1.2), (patchwork panels hanging askew, mismatched fabric blocks exposing skin at seams:1.2), (green jade pendant at waist:1.1), half-lidded eyes, looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二式：坦领半臂 —— 唐制坦领半臂，素青底衣，夏日出关
+# 色气来源：坦领开阔处露一截清瘦颈骨与锁骨，半臂短袖收束小臂。规矩里微微越界，是整件衣裳最温柔的一笔。半臂滑落时，坦领的弧线便从锁骨一路坠到肩头。
+# 配色：藕荷紫坦领半臂·茜红窄缘｜青瓷底衣｜银灰发｜浅灰瞳｜青玉佩｜纯黑底
+# ==========================================
+
+安迟迟_坦领半臂_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly reserved expression, gentle distant gaze, faint composed smile, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face and neck, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (tang dynasty u-neck jacket, pale lotus-purple short-sleeved tang-style top with slim crimson trim:1.4), (open u-shaped neckline revealing collarbone and slender neck:1.3), (half sleeves, elbow-length sleeves exposing forearms:1.2), (celadon inner robe visible at neckline edge:1.1), (green jade pendant tied at waist:1.2), ink-stained fingertips, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_坦领半臂_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, flustered and unguarded expression, half-lidded eyes, lips parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (tang dynasty u-neck jacket, pale lotus-purple short-sleeved tang-style top with slim crimson trim:1.4), (half sleeves slipped down, jacket hanging off one shoulder:1.3), (u-neck collar loosened, neckline sliding to reveal bare shoulder and collarbone:1.2), (celadon inner robe pooled at elbows:1.1), (green jade pendant at waist:1.1), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第三式：帷帽纱幕 —— 素灰帷帽薄纱垂肩，出关行装
+# 色气来源：纱幕半掩面，只露一段下颌与颈线。半遮半露，比全露更见分寸。纱幕揭起时，先见的是颈侧碎发，再是锁骨一线，最后才是那盏凉茶的浅灰瞳。
+# 配色：素灰帷帽薄纱｜暖烟褐行装｜银灰发｜浅灰瞳｜青玉佩｜纯黑底
+# ==========================================
+
+安迟迟_帷帽纱幕_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly mysterious expression, gentle gaze through veil, quiet composure, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (travelling veil hat, conical hat with long sheer grey veil draping over shoulders:1.4), (translucent veil half-covering face, lower face and neck faintly visible:1.3), (plain warm taupe travelling robe beneath veil:1.2), (green jade pendant tied at waist, faintly visible through sheer veil:1.2), ink-stained fingertips resting on veil edge, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_帷帽纱幕_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet warmth breaking through reserve, half-lidded eyes, lips parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands brushing bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (travelling veil hat, conical hat with long sheer grey veil:1.4), (veil lifted up, sheer fabric draped over hat crown, face fully revealed:1.3), (veil slipping off one shoulder, bare shoulder and collarbone visible beneath translucent fabric edge:1.2), (warm taupe travelling robe loosened at neckline, opening slightly:1.1), (green jade pendant at waist:1.1), looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第四式：靛青染衣 —— 染坊布衣，深浅靛蓝扎染未干
+# 色气来源：墨海灵心之体，衣上沾的该是靛青，不是脂粉。染布未干贴身，扎染绳半解，湿布贴着身形，把素日藏起的轮廓照实勾了出来。她不在意，旁人却不好直视。
+# 配色：深浅靛蓝扎染长衫·茜红染绳｜袖口湿染渍｜银灰发｜浅灰瞳｜青玉佩｜纯黑底
+# ==========================================
+
+安迟迟_靛青染衣_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly absorbed expression, gentle focused gaze, faint contented smile, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (indigo tie-dye robe, deep blue gradient dyed hanfu with faded indigo tones:1.4), (mottled shibori-style dye pattern, dark indigo edges fading to pale blue-grey:1.3), (damp fabric clinging to body, subtle wet patches on sleeves and collar:1.2), (dye-stained fingertips and sleeve edges:1.2), (green jade pendant tied at waist:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_靛青染衣_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet breathlessness, half-lidded eyes with restrained awareness, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands clinging to damp skin, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (indigo tie-dye robe, deep blue gradient dyed hanfu:1.4), (crimson tie-dye cords untied, robe falling open from shoulder:1.3), (damp fabric clinging to bare skin, wet robe hugging shoulder and chest as it slips:1.2), (bare shoulder and collarbone, indigo dye stains at robe edges near exposed skin:1.2), (green jade pendant at waist:1.1), looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第五式：茶烟素衣 —— 奉茶短褐，素青灰交领窄袖
+# 色气来源：她本就是一盏凉到恰好的茶，衣是茶烟熏过的色。俯身奉茶时领口垂落一线，颈侧碎发滑入领缘。她端茶的姿态太稳，反倒让人盯着那一线不该垂落的领口。
+# 配色：暖茶褐短褐｜窄袖挽起｜银灰发｜浅灰瞳｜青玉佩｜纯黑底
+# ==========================================
+
+安迟迟_茶烟素衣_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and warm expression, gentle soft gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (plain warm tea-brown short work robe, simple tea-house attire with cross-collar:1.4), (narrow sleeves rolled up slightly, forearms partially exposed:1.3), (loosened collar dipping slightly, collarbone faintly visible at neckline:1.2), (holding plain ceramic tea cup in both hands, steam curling upward:1.2), (green jade pendant tied at waist:1.2), ink-stained fingertips holding the cup, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_茶烟素衣_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet warmth in half-lidded eyes, gentle unguarded softness, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands falling into loosened collar, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (plain warm tea-brown short work robe, simple tea-house attire with cross-collar:1.4), (cross-collar slipped open, robe hanging off one shoulder:1.3), (bare shoulder and collarbone, collar edge resting against skin:1.2), (sleeve fallen from one arm, rolled cuff dangling:1.1), (green jade pendant at waist:1.1), half-lidded eyes, looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 彩衣六式 —— 只锁银灰发与浅灰瞳，发型配饰底衣皆可变换
+# 色系理念：银灰发衬彩衣，如雪落于各色绸缎。每套一个鲜明主色，配饰发型随形制更替
+# ==========================================
+
+# ==========================================
+# 第六式：胭脂罗裙 —— 唐制齐胸襦裙，朱红如雪覆胭脂
+# 色气来源：银灰发落于红绸之上，红得惊心，雪色便更见分明。红罗滑落半肩时，肩头一点雪色。
+# 配色：朱红齐胸襦裙｜唐仕女高髻·金簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_胭脂罗裙_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), gentle warm expression, soft gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (elegant high bun with gold hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (crimson chest wrap dress, tang dynasty red silk ruqun:1.4), (high-waisted chest wrap, smooth red silk with subtle sheen:1.3), bare collarbone, slender neck, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_胭脂罗裙_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet vulnerability in half-lidded eyes, lips slightly parted, (cool ash grey hair:1.4), (elegant high bun slightly askew, gold hairpin loose:1.3), messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, half-slipped (crimson chest wrap dress, tang dynasty red silk ruqun:1.4), (one strap fallen, red silk slipping off shoulder:1.3), bare shoulder and collarbone, (crimson fabric pooling at elbow:1.2), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第七式：秋香襦裙 —— 宋制交领襦裙，秋香黄暖得温软
+# 色气来源：暖黄衣料堆叠间领口松塌，人却浑然不觉，像午后茶盏里落进的一线斜阳。
+# 配色：秋香黄襦裙｜低髻木簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_秋香襦裙_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly sleepy expression, gentle half-lidded gaze, quiet warmth, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.3), loose strands falling over shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (autumn-yellow cross-collar hanfu, warm golden-brown ruqun:1.4), (soft layered fabric, ivory inner collar at neckline:1.2), (green jade pendant tied at waist:1.1), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_秋香襦裙_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, drowsy and unguarded expression, half-lidded eyes, lips parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (autumn-yellow cross-collar hanfu, warm golden-brown ruqun:1.4), (cross-collar loosened, robe slipping off one shoulder:1.3), bare shoulder and collarbone, (warm golden fabric falling open, ivory inner robe pooled at waist:1.2), (green jade pendant at waist:1.1), looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第八式：黛紫曲裾 —— 战国绕襟深衣，深紫檀如暮色
+# 色气来源：层层绕襟禁欲端严，深紫衬雪肤。衣襟解开时，紫绸堆落如暮色退潮，露出潮水退后的苍白岸线。
+# 配色：深紫檀曲裾｜素色发带低髻｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_黛紫曲裾_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and dignified expression, quiet composure, gentle distant gaze, (cool ash grey hair:1.4), (simple low bun with plain black ribbon:1.3), neat hair, a few loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (dark violet layered chinese robe, deep purple wrapped deep dress:1.4), (crossed collar, multiple layered wrap-around lapels:1.3), (dark purple silk with subtle texture, narrow black trim:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_黛紫曲裾_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, composed restraint starting to crack, half-lidded eyes, lips barely parted, (cool ash grey hair:1.4), (simple low bun loosened, black ribbon about to slip:1.3), messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, wide open (dark violet layered chinese robe, deep purple wrapped deep dress:1.4), (crossed collar fully loosened, layered lapels falling open:1.3), (dark purple layers slipping off one shoulder, bare shoulder and collarbone against deep violet fabric:1.2), (purple silk pooling at elbows:1.1), half-lidded eyes, looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第九式：点翠蓝裙 —— 明制竖领长袄，孔雀蓝配点翠珠花
+# 色气来源：宝蓝立领框住颈线，蓝玉簪换下旧木簪，通身贵气。解开盘扣后，蓝绸与苍白肤色的对照冷而惊心。
+# 配色：宝蓝竖领长袄｜蓝玉簪高髻｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_点翠蓝裙_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), composed and slightly aloof expression, quiet elegance, gentle guarded gaze, (cool ash grey hair:1.4), (elaborate updo with sapphire jade hairpins:1.3), (blue jade tassel hairpin:1.2), (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (royal blue standing-collar long robe, ming dynasty sapphire blue silk aoqun:1.4), (mandarin collar framing neck, row of delicate pankou frog buttons down the front:1.3), (smooth sapphire-blue silk with subtle sheen, narrow dark trim:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_点翠蓝裙_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet self-consciousness, half-lidded eyes with restrained warmth, lips slightly parted, (cool ash grey hair:1.4), (elaborate updo loosened, sapphire jade hairpins askew:1.3), messy loose strands brushing bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (royal blue standing-collar long robe, ming dynasty sapphire blue silk aoqun:1.4), (several frog buttons undone from collar to chest:1.3), (open mandarin collar framing bare collarbone, blue silk front parted open:1.2), (fitted silk robe still clinging to torso below, structured collar contrasting with bare skin:1.1), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第十式：石榴茜纱 —— 石榴红薄绡披帛纱衣，透肤似见非见
+# 色气来源：红纱太薄、夜灯太暖，她没在意，旁人不敢细看。石榴红透出肤色，是唯一比胭脂更艳的颜色。
+# 配色：石榴红薄绡纱衣｜松散半披发·红纱系发｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_石榴茜纱_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly ethereal expression, gentle distant gaze, quiet grace, (cool ash grey hair:1.4), (loose half updo with crimson silk ribbon:1.3), long flowing hair, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (pomegranate red sheer silk robe, translucent crimson silk outer layer:1.4), (soft skin tone visible through translucent red silk:1.3), (long flowing sheer crimson ribbon draping over shoulder:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting, soft rim light
+
+安迟迟_石榴茜纱_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet and breathless expression, subtle yearning in half-lidded eyes, lips parted, (cool ash grey hair:1.4), (loose half updo undone, crimson silk ribbon loosened:1.3), messy long hair spilling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (pomegranate red sheer silk robe, translucent crimson silk outer layer:1.4), (fully see-through crimson silk, breasts visible through translucent fabric:1.3), (sheer fabric slipping off one shoulder, thin red silk clinging to skin:1.2), (crimson ribbon trailing across bare collarbone:1.1), half-lidded eyes, looking at viewer, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting, soft rim light
+
+# ==========================================
+# 第十一式：松花春衫 —— 豆绿短衫长裙，三月初生的新叶
+# 色气来源：春衫新裁，绿衣裹身，领口微敞，像新叶沾着露。绿得清亮，配灰发如雪下新芽。
+# 配色：松花绿短衫·豆绿长裙｜半挽发·绿穗簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_松花春衫_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and quietly content expression, gentle inward smile, eyes soft and tender, (cool ash grey hair:1.4), (soft half updo with green tassel hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (light green short jacket with long skirt, soft bean-green spring hanfu:1.4), (fresh green silk blouse with delicate pattern, pale green long skirt beneath:1.3), (bare collarbone at slightly open collar:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_松花春衫_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet warmth in half-lidded eyes, gentle unguarded softness, lips slightly parted, (cool ash grey hair:1.4), (soft half updo loosened, green tassel hairpin loose:1.3), messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (light green short jacket, soft bean-green spring hanfu:1.4), (jacket slipping off one shoulder, blouse open at collar:1.3), bare shoulder and collarbone, (green fabric falling open, pale skirt waistband visible:1.2), looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 双色意境五式 —— 只锁银灰发与浅灰瞳，其余全放开
+# 色系理念：以双色组合造意境，黑金为余烬，粉为暮雪，金为旧庙，绿为深林，赭为秋山
+# ==========================================
+
+# ==========================================
+# 第十二式：描金夜衣 —— 玄黑×鎏金，交领长袍黑底金纹
+# 色气来源：黑底金纹，如旧庙剥落的金箔。金纹随衣褶断裂，金线断续处露出素肤。沉默的贵气，黄昏的余烬。
+# 配色：玄黑长袍·鎏金纹｜低髻金簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_描金夜衣_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and distant expression, quiet composure, gentle guarded gaze, (cool ash grey hair:1.4), (simple low bun with gold hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (black silk cross-collar robe with gold thread embroidery:1.4), (fine golden vine patterns along collar and sleeve edges, shimmering against black silk:1.3), (narrow gold trim at robe edge:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_描金夜衣_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet restraint giving way, half-lidded eyes, lips slightly parted, (cool ash grey hair:1.4), (simple low bun loosened, gold hairpin loose:1.3), messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (black silk cross-collar robe with gold thread embroidery:1.4), (cross-collar loosened, robe slipping off one shoulder:1.3), (golden embroidery patterns breaking at folds, gold lines interrupted by bare skin:1.2), bare shoulder and collarbone, (black silk pooling at elbow, gold trim askew:1.1), looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第十三式：桃夭藕粉 —— 藕粉襦裙，暮雪压桃花
+# 色气来源：灰发落于粉绸，如暮雪压桃花。粉衣领口松垂，温软到没有力气。冷与暖的极致温柔。
+# 配色：藕粉襦裙｜低髻玉簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_桃夭藕粉_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), gentle warm expression, soft tender gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (soft low bun with jade hairpin:1.3), loose strands falling over shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (pale peach-pink cross-collar ruqun, soft pink hanfu:1.4), (delicate light pink fabric with subtle sheen, ivory inner collar at neckline:1.3), (thin white ribbon tied at waist:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_桃夭藕粉_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, gentle unguarded softness, half-lidded eyes, lips parted, (cool ash grey hair:1.4), (soft low bun slightly undone, jade hairpin loose:1.3), messy loose strands falling into loosened collar, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (pale peach-pink cross-collar ruqun, soft pink hanfu:1.4), (cross-collar slipped open, pink robe hanging off one shoulder:1.3), bare shoulder and collarbone, (soft pink fabric falling open, ivory inner robe pooled at waist:1.2), (white waist ribbon loosened, trailing:1.1), looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第十四式：鎏金广袖 —— 赤金广袖长袍，如旧庙金身
+# 色气来源：金线织就广袖，通身贵而远。金袍半褪时，金纹碎裂处露出素肤，像金身剥落见胎。
+# 配色：赤金广袖长袍·金织纹｜高髻金饰｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_鎏金广袖_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and dignified expression, quiet aloofness, faint composed smile, (cool ash grey hair:1.4), (elegant high bun with gold hair ornaments:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (golden grand sleeved robe, wide flowing gold silk sleeves:1.4), (smooth gold silk with woven brocade pattern, narrow darker trim:1.3), (deep gold collar framing neck:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_鎏金广袖_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, composed restraint starting to crack, half-lidded eyes, lips barely parted, (cool ash grey hair:1.4), (elegant high bun loosened, gold hair ornaments askew:1.3), messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (golden grand sleeved robe, wide flowing gold silk sleeves:1.4), (robe slipping off one shoulder, gold fabric falling open:1.3), (woven gold pattern breaking at folds, brocade interrupted by bare skin:1.2), bare shoulder and collarbone, (wide gold sleeve slipping down one arm:1.1), looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第十五式：苔青深衣 —— 墨绿交领深衣，深林苔色
+# 色气来源：墨绿裹身，暗色里肤色愈白，像深林间漏进的一线天光。衣襟滑落时，天光便照在了苔上。
+# 配色：墨绿深衣｜素净低髻·玄色发带｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_苔青深衣_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and quiet expression, gentle inward gaze, still and composed, (cool ash grey hair:1.4), (sleek low bun with plain black ribbon:1.3), neat hair, a few loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (dark moss-green cross-collar long robe, deep green hanfu:1.4), (layered dark green fabric, subtle texture like forest shadow:1.3), (narrow darker green trim at collar and sleeve edges:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_苔青深衣_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet stillness giving way, half-lidded eyes, lips slightly parted, (cool ash grey hair:1.4), (sleek low bun loosened, black ribbon about to slip:1.3), messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (dark moss-green cross-collar long robe, deep green hanfu:1.4), (cross-collar loosened, layered green fabric slipping off one shoulder:1.3), bare shoulder and collarbone, (dark green layers falling open, pale skin against deep moss tones:1.2), (green silk pooling at elbow:1.1), half-lidded eyes, looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第十六式：赭石长袍 —— 赭石赤褐交领长袍，旧瓷剥釉
+# 色气来源：赭色如旧陶如秋山，大地般沉稳。衣袍半褪时像旧瓷剥釉，露出底下温润的胎。
+# 配色：赭石赤褐长袍｜低髻木簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_赭石长袍_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and steady expression, quiet warmth, gentle grounded gaze, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (ochre-brown cross-collar long robe, reddish-brown earth-toned hanfu:1.4), (plain warm ochre fabric with subtle weave, darker brown trim at collar:1.3), (ivory inner collar at neckline:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_赭石长袍_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet warmth breaking through composure, half-lidded eyes, lips parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (ochre-brown cross-collar long robe, reddish-brown earth-toned hanfu:1.4), (cross-collar slipped open, robe hanging off one shoulder:1.3), bare shoulder and collarbone, (warm ochre fabric falling open like flaking glaze, ivory inner robe pooled at waist:1.2), (brown trim askew at shoulder:1.1), looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 旗袍变种五式 —— 只锁银灰发与浅灰瞳，旗袍筋骨不变，色料配饰各自更替
+# 色系理念：云肩为墨，青花为瓷，胭脂为雪，织金为林，薄绡为雾
+# ==========================================
+
+# ==========================================
+# 第十七式：云肩旗袍 —— 素缎旗袍·水墨云肩，墨滴将落未落
+# 色气来源：云肩本是端庄饰物，滑落半肩时便成了欲盖弥彰。墨痕垂坠如墨滴将落未落，合她墨海灵心的底子。
+# 配色：银灰素缎旗袍·水墨云肩｜低髻木簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_云肩旗袍_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and quietly content expression, gentle inward smile, eyes soft and tender, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (silver-grey silk cheongsam with ink-wash cloud collar capelet:1.4), (ink painting pattern on cloud collar, pale mountains and drifting mist on fabric:1.3), (fitted satin cheongsam, standing collar, row of pankou frog buttons:1.3), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_云肩旗袍_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet unguarded softness, half-lidded eyes, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (silver-grey silk cheongsam with ink-wash cloud collar capelet:1.4), (cloud collar slipping off one shoulder, ink painting pattern tilting askew:1.3), (top frog buttons undone, cheongsam collar open at collarbone:1.2), bare shoulder and collarbone, (ink-wash capelet hanging at elbow, satin cheongsam still clinging to torso:1.1), looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第十八式：青花旗袍 —— 白缎底钴蓝青花瓷纹，与卷一青花道袍同源
+# 色气来源：立领盘扣解开时，青花纹路断于锁骨，如瓷瓶裂口。完整纹样在肌肤处中断，白缎露得越来越多。
+# 配色：白缎青花旗袍·钴蓝瓷纹｜低髻蓝玉簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_青花旗袍_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and dignified expression, quiet composure, gentle distant gaze, (cool ash grey hair:1.4), (simple low bun with blue jade hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (white silk cheongsam with cobalt blue-and-white porcelain pattern:1.4), (blue scrolling lotus motifs along collar and hem, underglaze-blue style:1.3), (fitted white cheongsam, standing collar, pankou frog buttons:1.3), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_青花旗袍_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet composure beginning to falter, half-lidded eyes with restrained warmth, lips barely parted, (cool ash grey hair:1.4), (simple low bun loosened, blue jade hairpin loose:1.3), messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (white silk cheongsam with cobalt blue-and-white porcelain pattern:1.4), (several frog buttons undone from collar to chest, cheongsam front parted open:1.3), (blue porcelain motifs broken at collarbone, intact patterns interrupted by bare skin:1.2), bare shoulder and collarbone, (white silk still clinging to torso below, structured collar contrasting with bare skin:1.1), looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第十九式：胭脂旗袍 —— 朱红缎面贴肤，雪覆胭脂
+# 色气来源：朱红缎面随呼吸绷紧的领口弧线，银灰发如雪落于红绸。红得惊心，雪色便更见分明。
+# 配色：朱红缎面旗袍·暗红盘扣｜高髻金簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_胭脂旗袍_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), gentle warm expression, soft gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (elegant high bun with gold hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (crimson satin cheongsam, fitted red silk qipao:1.4), (smooth red satin with subtle sheen, dark crimson pankou frog buttons:1.3), (standing collar, narrow dark trim at collar edge:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_胭脂旗袍_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet vulnerability in half-lidded eyes, lips slightly parted, (cool ash grey hair:1.4), (elegant high bun slightly askew, gold hairpin loose:1.3), messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (crimson satin cheongsam, fitted red silk qipao:1.4), (top frog buttons undone, standing collar open at throat:1.3), (crimson satin slipping off one shoulder, red fabric contrasting with pale skin:1.2), bare shoulder and collarbone, (smooth red satin still hugging torso below:1.1), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二十式：织金旗袍 —— 墨绿缎面浮金线云纹，深林漏金
+# 色气来源：墨绿缎面浮金线云纹，如深林间漏进的天光。织金纹随衣褶断裂处，金线断于锁骨。
+# 配色：墨绿织金旗袍·金线云纹｜低髻金簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_织金旗袍_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly aloof expression, quiet elegance, gentle guarded gaze, (cool ash grey hair:1.4), (simple low bun with gold hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (dark green cheongsam with gold brocade cloud pattern:1.4), (golden thread cloud motifs woven into dark green silk, faint shimmer:1.3), (fitted cheongsam, standing collar, gold pankou frog buttons:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_织金旗袍_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, composed restraint starting to crack, half-lidded eyes, lips barely parted, (cool ash grey hair:1.4), (simple low bun loosened, gold hairpin loose:1.3), messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (dark green cheongsam with gold brocade cloud pattern:1.4), (frog buttons undone from collar to chest, dark green silk front parted open:1.3), (golden cloud motifs broken at collarbone, gold lines interrupted by bare skin:1.2), bare shoulder and collarbone, (dark green satin slipping off one shoulder, dark fabric contrasting with pale skin:1.1), looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二十一式：薄绡旗袍 —— 青灰薄绡透肤，似见非见
+# 色气来源：青灰薄绡旗袍贴身，纱料贴住身形，比任何裸露都更留余地。透与不透之间，是分寸。
+# 配色：青灰薄绡旗袍·透纱｜松散半披发·青纱系发｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_薄绡旗袍_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly ethereal expression, gentle distant gaze, quiet grace, (cool ash grey hair:1.4), (loose half updo with grey silk ribbon:1.3), long flowing hair, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (sheer grey-green silk cheongsam, translucent thin fabric qipao:1.4), (soft skin tone visible through translucent silk, faint body outline beneath thin fabric:1.3), (standing collar, sheer fabric with faint cloud weave:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting, soft rim light
+
+安迟迟_薄绡旗袍_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet and breathless expression, subtle yearning in half-lidded eyes, lips parted, (cool ash grey hair:1.4), (loose half updo undone, grey silk ribbon loosened:1.3), messy long hair spilling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (sheer grey-green silk cheongsam, translucent thin fabric qipao:1.4), (fully see-through thin silk, breasts visible through translucent fabric:1.3), (sheer fabric slipping off one shoulder, thin silk clinging to skin:1.2), (grey ribbon trailing across bare collarbone:1.1), half-lidded eyes, looking at viewer, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting, soft rim light
+
+# ==========================================
+# 七夕五式 —— 只锁银灰发与浅灰瞳，七月初七应景
+# 色系理念：鹊为银，星为绀，针为素，花为藕，愿为朱
+# ==========================================
+
+# ==========================================
+# 第二十二式：玄衣银纹 —— 玄黑底衣银线纹，暗光里一线银
+# 色气来源：玄黑底衣银线细纹，暗光里如一线月痕。衣襟解开时，银纹随衣褶断裂，银线断续处露出素肤。
+# 配色：玄黑长袍·银线纹｜低髻银簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_玄衣银纹_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and distant expression, quiet composure, gentle guarded gaze, (cool ash grey hair:1.4), (simple low bun with silver hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (black silk cross-collar robe with silver thread pattern:1.4), (fine silver thread motifs along collar and sleeve edges, shimmering against black silk:1.3), (narrow silver trim at robe edge:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_玄衣银纹_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet restraint giving way, half-lidded eyes, lips slightly parted, (cool ash grey hair:1.4), (simple low bun loosened, silver hairpin loose:1.3), messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (black silk cross-collar robe with silver thread pattern:1.4), (cross-collar loosened, robe slipping off one shoulder:1.3), (silver thread pattern breaking at folds, silver lines interrupted by bare skin:1.2), bare shoulder and collarbone, (black silk pooling at elbow, silver trim askew:1.1), looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二十三式：星河裙 —— 绀蓝底银白星纹，七夕夜空裁成衣
+# 色气来源：深绀蓝底银白星纹贴身，暗光里如星河流动。解开时星纹断于锁骨，如银河裂口。
+# 配色：绀蓝长裙·银白星纹｜半挽发·银簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_星河裙_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly ethereal expression, gentle distant gaze, quiet grace, (cool ash grey hair:1.4), (loose half updo with silver hairpin:1.3), long flowing hair, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (deep navy-blue robe with silver star patterns, dark starry-night hanfu:1.4), (fine silver star motiffs scattered across dark blue silk like a night sky:1.3), (narrow silver thread trim at collar:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_星河裙_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet breathlessness, half-lidded eyes with restrained awareness, lips parted, (cool ash grey hair:1.4), (loose half updo loosened, silver hairpin loose:1.3), messy long hair spilling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (deep navy-blue robe with silver star patterns, dark starry-night hanfu:1.4), (cross-collar loosened, dark blue robe slipping off one shoulder:1.3), (silver star patterns breaking at collarbone, night sky interrupted by bare skin:1.2), bare shoulder and collarbone, (dark blue silk pooling at elbow:1.1), looking at viewer with quiet vulnerability, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二十四式：乞巧穿针 —— 素青窄袖，露腕捻针
+# 色气来源：乞巧夜穿针引线，窄袖挽起露小臂，指尖拈一枚银针。专注穿针时领口不自觉松垂，她浑然不觉。
+# 配色：素青窄袖短衣｜低髻木簪｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_乞巧穿针_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and focused expression, gentle downward gaze at needlework, quiet concentration, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (plain grey-green narrow-sleeved short jacket, simple hanfu:1.4), (sleeves rolled up slightly, forearms exposed:1.3), (holding silver needle and thread in hands, threading motion:1.3), (loosened collar dipping slightly, collarbone faintly visible:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_乞巧穿针_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet distraction, half-lidded eyes lifting from needlework, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (plain grey-green narrow-sleeved short jacket, simple hanfu:1.4), (cross-collar slipped open, jacket hanging off one shoulder:1.3), bare shoulder and collarbone, (rolled sleeve fallen from one arm, needle and thread resting at collarbone:1.2), (grey-green fabric falling open:1.1), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二十五式：牵牛纱 —— 牵牛花色藕紫薄绡，夕颜花朝开暮合
+# 色气来源：浅紫蓝薄绡如牵牛花，朝开暮合。薄纱透肤，如晨露将干未干。
+# 配色：藕紫薄绡纱衣｜松散披发·紫纱系发｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_牵牛纱_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and slightly ethereal expression, gentle distant gaze, quiet grace, (cool ash grey hair:1.4), (loose flowing hair with pale purple silk ribbon:1.3), long flowing hair, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (pale lavender-blue sheer silk robe, morning-glory purple translucent hanfu:1.4), (soft skin tone visible through translucent silk, faint body outline beneath thin fabric:1.3), (long flowing sheer purple ribbon draping over shoulder:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting, soft rim light
+
+安迟迟_牵牛纱_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet and breathless expression, subtle yearning in half-lidded eyes, lips parted, (cool ash grey hair:1.4), (loose flowing hair undone, purple silk ribbon loosened:1.3), messy long hair spilling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (pale lavender-blue sheer silk robe, morning-glory purple translucent hanfu:1.4), (fully see-through thin silk, breasts visible through translucent fabric:1.3), (sheer fabric slipping off one shoulder, thin purple silk clinging to skin:1.2), (purple ribbon trailing across bare collarbone:1.1), half-lidded eyes, looking at viewer, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting, soft rim light
+
+# ==========================================
+# 第二十六式：红绳乞巧 —— 素衣朱红绳系腕，沿衣襟蜿蜒
+# 色气来源：乞巧结红绳系腕，沿腕间蜿蜒至衣襟。红绳松开时，从腕滑到指间，像乞来的愿断在手里。
+# 配色：素白短衣·朱红绳｜低髻｜银灰发｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_红绳乞巧_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), gentle warm expression, soft gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (simple low bun with red silk ribbon:1.3), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (plain white cross-collar robe, simple ivory hanfu:1.4), (crimson thread tied around wrist, red string winding up the arm:1.3), (crimson cord trailing from wrist along the robe edge:1.2), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_红绳乞巧_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet warmth in half-lidded eyes, gentle unguarded softness, lips slightly parted, (cool ash grey hair:1.4), (simple low bun loosened, red silk ribbon loose:1.3), messy loose strands, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (plain white cross-collar robe, simple ivory hanfu:1.4), (cross-collar slipped open, white robe hanging off one shoulder:1.3), (crimson thread unwound from wrist, red string sliding loose across bare arm:1.2), bare shoulder and collarbone, (white fabric falling open, red cord trailing over collarbone:1.1), looking at viewer softly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+
+
+# ==========================================
+# 第二十七式：秘色旗袍 · 正统旗袍形制，青瓷秘色素缎，立领斜襟盘扣
+# 💡 灵感来源：回归旗袍本相，立领、斜襟、盘扣、收腰、开衩、滚边六样俱全，别无赘饰。前五式旗袍已各着云肩、青花、茜色、织金、薄绡之变，这一件只以素缎立骨，以形制说话。
+# 色气来源：立领框颈，盘扣自领侧一路扣至腋下，缎面收着身线，随呼吸起一层极淡的光。解开第一颗扣子时，硬挺的领弧先松一线，锁骨从缎边下滑出。旗袍的色气，从来在扣与开之间。
+# 配色：青瓷秘色素缎旗袍·同色窄滚边·小盘扣｜青玉佩改作压襟系于襟扣（NF 式去佩，防胸前空洞）｜银灰发·简素低髻木簪｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_秘色旗袍_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, young female, slender body, (medium breasts:1.2), serene and composed expression, gentle quiet gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, (pale celadon silk qipao, plain greyish-green satin cheongsam:1.4), (mandarin collar, diagonal front opening with pankou frog buttons:1.3), (short sleeves, fitted waist, tone-on-tone piping:1.2), (green jade pendant hanging from the collar button:1.2), (ink-stained fingertips:1.1), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_秘色旗袍_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, quiet composure beginning to falter, half-lidded eyes with restrained warmth, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), wuxia, xianxia, open (pale celadon silk qipao, plain greyish-green satin cheongsam:1.4), (several pankou buttons undone along the diagonal front, qipao front parted open, one breast out:1.3), (silk slipping off one shoulder, bare shoulder and collarbone against pale celadon satin:1.2), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二十七式·坐姿：秘色旗袍 cowboy shot，开衩垂落，露一段腿线
+# 💡 构图说明：full body 出图效果差，坐姿一律 cowboy shot，取景至大腿中段；开衩只走外侧，襟摆掩裆，避免模型在裆部自由发挥。
+# 色气来源：她坐得端正，双腿并拢折向一侧，开衩沿外侧垂落，露出一段素日被缎面收着的大腿。上身一丝不苟，下头松了一线，旗袍的味道就在这一线里。
+# 配色：青瓷秘色素缎旗袍·同色窄滚边·小盘扣｜青玉佩压襟（NF 式去佩，防胸前空洞）｜银灰发·简素低髻木簪｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_秘色旗袍_坐姿_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, (cowboy shot, from side:1.3), young female, slender body, (medium breasts:1.2), serene and composed expression, gentle quiet gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), (sitting, legs crossed at the knee:1.3), wuxia, xianxia, (pale celadon silk qipao, plain greyish-green satin cheongsam:1.4), (mandarin collar, diagonal front opening with pankou frog buttons:1.3), (short sleeves, fitted waist, tone-on-tone piping:1.2), (high side slit falling open along the thigh:1.3), (one bare thigh visible through the slit:1.2), (green jade pendant hanging from the collar button:1.2), (ink-stained fingertips:1.1), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_秘色旗袍_坐姿_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, (cowboy shot, from side:1.3), quiet composure beginning to falter, half-lidded eyes with restrained warmth, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), (sitting, legs folded to one side, knees together:1.3), wuxia, xianxia, open (pale celadon silk qipao, plain greyish-green satin cheongsam:1.4), (pankou buttons undone along the diagonal front, qipao front parted open, one breast out:1.3), (side slit open along the outer thigh:1.3), (qipao hem draped across the lap:1.2), (one bare thigh visible along the outer slit:1.2), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 第二十七式·站姿：秘色旗袍 cowboy shot，一足微前，开衩随势掀开一线
+# 💡 构图说明：full body 出图效果差，站姿一律 cowboy shot，取景自膝上收进大腿；重心落于一足，开衩只走外侧。
+# 色气来源：她站得端正，一足微前，缎面随重心绷出笔直的线，开衩却随步势掀开一线，露出一段大腿。上身一丝不苟，下头松了一线，旗袍的味道仍在这一线里。
+# 防走光：露腿只行开衩一条路，禁裙摆上提，禁内裤露出。
+# 配色：青瓷秘色素缎旗袍·同色窄滚边·小盘扣｜青玉佩压襟（NF 式去佩，防胸前空洞）｜银灰发·简素低髻木簪｜浅灰瞳｜纯黑底
+# ==========================================
+
+安迟迟_秘色旗袍_站姿_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, (cowboy shot:1.3), young female, slender body, (medium breasts:1.2), serene and composed expression, gentle quiet gaze, faint smile at corner of lips, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun with wooden hairpin:1.4), a few loose strands framing face, (pale grey eyes, nearly colorless light grey eyes:1.4), (standing, one leg slightly forward:1.2), wuxia, xianxia, (pale celadon silk qipao, plain greyish-green satin cheongsam:1.4), (mandarin collar, diagonal front opening with pankou frog buttons:1.3), (short sleeves, fitted waist, tone-on-tone piping:1.2), (high side slit partway open along the thigh:1.3), (one bare thigh visible through the slit:1.2), bare legs, (green jade pendant hanging from the collar button:1.2), (ink-stained fingertips:1.1), (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+安迟迟_秘色旗袍_站姿_nsfw:
+  nsfw, nude, (medium breasts:1.2), nipples, young female, slender body, shy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, (cowboy shot:1.3), quiet composure beginning to falter, half-lidded eyes with restrained warmth, lips slightly parted, (cool ash grey hair:1.4), (cool ash grey hair in simple low bun slightly undone:1.3), wooden hairpin loose, messy loose strands falling over bare shoulder, (pale grey eyes, nearly colorless light grey eyes:1.4), (standing, one leg slightly forward:1.2), wuxia, xianxia, open (pale celadon silk qipao, plain greyish-green satin cheongsam:1.4), (pankou buttons undone along the diagonal front, qipao front parted open, one breast out:1.3), (qipao hanging open but still worn:1.1), (high side slit parted open along the outer thigh:1.3), (one bare thigh exposed through the slit:1.2), bare legs, (exposed collarbone:1.1), looking at viewer shyly, (simple black background, solid black void, plain dark background, no background objects:1.4), painterly, cinematic lighting
+
+# ==========================================
+# 专属负面提示词（沿用生图提示词1）
+# ==========================================
+
+负面提示词:
+  (worst quality, low quality, normal quality:1), lowres, bad anatomy, (bad hands, missing fingers, extra digits:1.2),
+  signature, watermarks, ugly, imperfect eyes, unnatural face, unnatural body, error, extra limb, missing limbs,
+  mature female, milf, (large breasts, huge breasts, gigantic breasts:1.4), (small breasts, flat chest, flat-chested:1.3),
+  (curvy body, wide hips:1.3),
+  (black hair, white hair, blonde hair, platinum hair, brown hair, red hair, green hair, blue hair, pink hair:1.2),
+  (red eyes, blue eyes, purple eyes, amber eyes, gold eyes, green eyes:1.2),
+  modern clothes, sci-fi, (sword, weapon, spear, dagger:1.3),
+  (blood, bleeding, bloodstains:1.5), (gore, violence:1.4), (barefoot:1.2),
+  (green-tinted skin, green reflections on skin:1.2),
+  (complex background, scenery, outdoor, nature, trees, buildings, room interior:1.3),
+  (flower in background, flowers in background, floral background, plants in background, lotus in background, background branches, background petals, floating petals, floral decorations:1.4),
+  (flower pattern leaking from clothing into background, floral motif spreading off fabric, fabric pattern blending into background:1.2),
+  (strange eyes, weird eyes, heterochromia, red pupils, glowing pupils:1.3),
+  (bandage, bandaged face, gauze on face, medical tape, band-aid:1.4),
+  (feathers in hair, feather hair ornament, plumes in hair:1.3),
+  (speech bubble, dialogue bubble, thought bubble, speech balloon, comic panel, text box, blank bubble:1.4),
+  (handcuffs, handcuff, shackles, chains on wrists, metal restraints:1.4),
+  (multiple girls, two girls, clone, duplicate, double exposure, shadowy figure behind, figure in background, reflected person:1.4),
+  (deformed genitals, spread pussy, gaping pussy, fused pussy, gaping anus, malformed anus:1.3),
+  (hole in clothing, hole in chest, torn fabric, ripped clothes:1.2)

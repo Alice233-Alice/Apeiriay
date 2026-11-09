@@ -1,0 +1,291 @@
+# 阮忘忧生图提示词 第二辑 (Illustrious 底模适配，danbooru 标签风格)
+# 核心特征同第一辑：gradient hair teal to light blue（青蓝渐变长发）、red bindi on forehead（眉心朱砂红印）、pale skin（苍白肤色）、elegant white and silver hanfu（白底银纹汉服）、gigantic breasts（巨乳形态）、barefoot（赤足）、floating（浮空）、ethereal atmosphere（仙灵缥缈感）、time-space distortion（时空扭曲）、starry sky background（星空背景）
+# 本辑设计理念：以 upper body 为核心构图，聚焦阮忘忧妖娆巨乳形态的上半身魅力——青蓝渐变发丝与眉心朱砂的仙灵底色，搭配温婉、诱惑、威压、黑化等多重神情，展现因果仙王的姿态光谱
+# 以下提示词皆为虚拟，请勿当真
+
+# 【通用妖娆特征包】gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, ethereal atmosphere, glowing magic runes, starry sky background
+
+# ==========================================
+# 基础半身立绘 (Basic Upper Body Portrait)
+# 神情：温婉微笑，正面凝视
+# ==========================================
+
+阮忘忧_妖娆_基础半身立绘_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, gentle smile, looking at viewer, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_基础半身立绘_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, heavy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, torn white hanfu slipping off shoulders, gentle smile, looking at viewer, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 温婉微笑 (Gentle Warm Smile)
+# 神情：温柔浅笑，暖光氛围
+# ==========================================
+
+阮忘忧_妖娆_温婉微笑_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, warm gentle smile, soft eyes, looking at viewer, warm golden light, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_温婉微笑_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, soft blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, half-slipped white hanfu draped over arms, bare shoulders, warm gentle smile, soft eyes, looking at viewer, warm golden light, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 诱惑浅笑 (Seductive Smile)
+# 神情：魅惑眼神，似笑非笑
+# ==========================================
+
+阮忘忧_妖娆_诱惑浅笑_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu with deep neckline, flowing sleeves, seductive smile, half-lidded eyes, looking at viewer, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_诱惑浅笑_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, heavy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, torn white hanfu barely covering nipples, heavy wet transparent flowing sleeves, seductive smile, half-lidded eyes, looking at viewer, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 仙王威压 (Divine King Pressure)
+# 神情：俯视冷眼，时空碎裂
+# ==========================================
+
+阮忘忧_妖娆_仙王威压_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, from below, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), floating hair, elegant hair ornament, red bindi glowing on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, cold expression, sharp eyes, looking down at viewer, dark aura, reality warping effect, shattered space, glowing magic runes, dark starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_仙王威压_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, heavy breasts resting on invisible barrier, cleavage, heavy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, from below, (gradient hair:1.3), (teal hair fading to light blue:1.4), floating hair, red bindi glowing on forehead, pale skin, torn white hanfu, cold expression, sharp eyes, looking down at viewer, dominant pose, dark aura, reality warping effect, shattered space, glowing magic runes, dark starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, cum on breasts, cum drip
+
+# ==========================================
+# 病娇黑化 (Yandere Dark Transformation)
+# 神情：空洞眼神，疯狂微笑
+# ==========================================
+
+阮忘忧_妖娆_病娇黑化_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), disheveled floating hair, elegant hair ornament askew, red bindi glowing darkly on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, yandere smile, empty eyes, crazy expression, looking at viewer, dark aura, reality warping effect, shattered space, glowing dark magic runes, dark starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_病娇黑化_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, heavy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, (gradient hair:1.3), (teal hair fading to light blue:1.4), disheveled floating hair, red bindi glowing darkly on forehead, pale skin, torn white hanfu barely hanging on, yandere smile, empty eyes, crazy expression, looking at viewer, dominant pose, dark aura, reality warping effect, shattered space, glowing dark magic runes, dark starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail, cum on body, cum drip
+
+# ==========================================
+# 回眸一瞥 (Glance Over Shoulder)
+# 神情：侧身回眸，似笑非笑
+# ==========================================
+
+阮忘忧_妖娆_回眸一瞥_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, from behind, looking back at viewer over shoulder, gigantic breasts, side breast, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair falling over one shoulder, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, mysterious smile, half-lidded eyes, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_回眸一瞥_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, side breast, heavy breasts, cleavage, heavy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, from behind, looking back at viewer over shoulder, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair falling over one shoulder, red bindi on forehead, pale skin, half-slipped white hanfu draped over arms, bare back partially visible, mysterious smile, half-lidded eyes, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 浮空仙姿 (Floating Ethereal Pose)
+# 神情：闭目悠然，仙气缭绕
+# ==========================================
+
+阮忘忧_妖娆_浮空仙姿_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, floating, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair floating in zero gravity, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves floating, serene closed eyes, peaceful expression, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, floating golden particles, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_浮空仙姿_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, soft blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, floating, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair floating in zero gravity, red bindi on forehead, pale skin, torn white hanfu floating around body, serene closed eyes, peaceful expression, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, floating golden particles, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 法则交织 (Law Weaving - Golden Threads)
+# 神情：专注凝视，金色因果之线缠绕身躯
+# ==========================================
+
+阮忘忧_妖娆_法则交织_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), floating hair, elegant hair ornament, red bindi glowing on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, body wrapped in glowing golden magic threads, focused expression, sharp eyes, looking at viewer, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_法则交织_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, heavy blush, glistening skin, masterpiece, best quality, absurdres, 1girl, solo, upper body, (gradient hair:1.3), (teal hair fading to light blue:1.4), floating hair, red bindi glowing on forehead, pale skin, body wrapped in glowing golden magic threads, torn white hanfu falling away, focused expression, sharp eyes, looking at viewer, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+# ==========================================
+# 玄纱微透 · 仙纱六式（Upper Body 黑纱透肤主题）
+# 设计理念：以玄色薄纱为核心材质——若隐若现胜于全然裸露，黑纱之下的朦胧剪影即是最强色气
+# 材质核心：translucent black gauze, sheer black silk, see-through fabric
+# 透肤逻辑：衣裳完好无损，纱本身透明 —— 不用 nude/exposed/open clothes，全靠纱薄透色
+# 贴阮忘忧核心特征：gradient hair teal to light blue、red bindi、pale skin、gigantic breasts
+# 背景：dark background 纯黑背景 + soft silver rim light 银白边缘光勾勒人物轮廓
+# ==========================================
+
+阮忘忧_妖娆_玄纱笼身_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent black gauze robe:1.4), (sheer black silk clinging to body:1.3), (body silhouette faintly visible through fabric:1.3), off shoulder, collarbone, gentle smile, looking at viewer, dark background, soft silver rim light, mysterious atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_玄纱笼身_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent black gauze robe:1.4), (sheer black silk clinging to body:1.3), (nipples clearly visible through sheer black fabric:1.4), (areola visible through see-through black mesh:1.3), (clothes fully intact but completely transparent:1.3), off shoulder, faint blush, glistening skin, looking at viewer, dark background, soft silver rim light, mysterious atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_玄纱半褪_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, shoulder focus, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent black gauze slipping off one shoulder:1.4), (sheer black silk robe:1.3), (exposed bare shoulder and collarbone:1.3), off shoulder, fabric poised at the edge, mysterious smile, looking at viewer, dark background, soft silver rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_玄纱半褪_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, shoulder focus, gigantic breasts, heavy breasts, cleavage, exposed nipples, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent black gauze slipping off completely:1.4), open clothes, (sheer black silk robe:1.3), (fabric barely held at elbow:1.3), (one breast visible through torn black mesh:1.3), bare shoulders, faint blush, glistening skin, looking at viewer, dark background, soft silver rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_星夜湿纱_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), wet hair, elegant hair ornament, red bindi on forehead, pale skin, water drops on face, (wet translucent black gauze clinging to body:1.4), (soaked sheer black silk:1.3), (wet fabric sticking to skin:1.3), off shoulder, water drops on fabric, gentle smile, looking at viewer, dark background, soft silver rim light on wet skin, dim lighting, cinematic
+
+阮忘忧_妖娆_星夜湿纱_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), wet hair, elegant hair ornament, red bindi on forehead, pale skin, water drops on face, (wet translucent black gauze clinging to body:1.4), (soaked sheer black silk:1.3), (wet fabric sticking to skin:1.3), (nipples clearly visible through wet sheer black fabric:1.4), (areola visible through soaked see-through black mesh:1.3), (clothes fully intact but soaked completely transparent:1.3), wet skin glistening, water drops on skin, faint blush, looking at viewer, dark background, soft silver rim light on wet skin, dim lighting, cinematic
+
+阮忘忧_妖娆_墨纱缠臂_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (arms wrapped in sheer black silk ribbons:1.4), (translucent black gauze drapery:1.3), (black mesh fabric loosely covering body:1.2), off shoulder, upper chest partially visible, seductive smile, looking at viewer, dark background, soft silver rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_墨纱缠臂_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, exposed nipples, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (arms wrapped in sheer black silk ribbons:1.4), (translucent black gauze drapery loosely draped:1.3), (black mesh fabric barely covering body:1.2), (breasts partially visible through sheer ribbons:1.3), open clothes, bare shoulders, heavy blush, glistening skin, looking at viewer, dark background, soft silver rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_纱帷仙影_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (sitting behind black sheer gauze curtain:1.4), (translucent black veil between viewer and subject:1.3), (silhouette faintly visible through layered mesh:1.3), off shoulder, mysterious smile, dark background, soft silver backlight, dim lighting, cinematic
+
+阮忘忧_妖娆_纱帷仙影_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, exposed nipples, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (sitting behind black sheer gauze curtain:1.4), (translucent black veil between viewer and subject:1.3), (nude silhouette visible through layered mesh:1.4), (breasts visible through sheer curtain:1.3), (fabric fully intact, see-through only:1.3), off shoulder, heavy blush, glistening skin, dark background, soft silver backlight, dim lighting, cinematic
+
+阮忘忧_妖娆_暗影透纱_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (single layer of ultra-thin black mesh covering entire upper body:1.4), (sheer black silk so thin it barely conceals:1.3), (body outline visible through translucent fabric:1.3), standing, front view, gentle smile, looking at viewer, dark background, soft silver rim light tracing body silhouette, intimate atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_暗影透纱_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (single layer of ultra-thin black mesh covering entire upper body:1.4), (sheer black silk so thin it clearly reveals everything through:1.3), (nipples and areola fully visible through see-through black fabric:1.4), (breasts clearly seen through translucent mesh:1.3), (clothes fully intact, no holes, see-through only:1.3), faint blush, glistening skin, looking at viewer, dark background, soft silver rim light tracing body silhouette, intimate atmosphere, dim lighting, cinematic
+
+# ==========================================
+# 素纱微透 · 月白六式（Upper Body 白纱透肤主题）
+# 设计理念：以月白薄纱、素罗丝绢为核心材质——玄纱的暗魅与素纱的仙灵各擅胜场，
+#    白衣之下的朦胧春色，圣洁中透出的妖媚即是最强色气
+# 材质核心：translucent white silk, sheer white gauze, thin moon white organza, see-through white fabric
+# 透肤逻辑：衣裳完好无损，纱本身透明 —— 不用 nude/exposed/open clothes，全靠纱薄透色
+# 背景：dark background 纯黑背景 + warm golden rim light 暖金边缘光勾勒人物轮廓
+# ==========================================
+
+阮忘忧_妖娆_素纱笼身_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent white silk robe:1.4), (sheer moon white gauze clinging to body:1.3), (body silhouette faintly visible through white fabric:1.3), off shoulder, collarbone, gentle smile, looking at viewer, dark background, soft golden rim light, pure and ethereal atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_素纱笼身_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent white silk robe:1.4), (sheer moon white gauze clinging to body:1.3), (nipples clearly visible through sheer white fabric:1.4), (areola visible through translucent white silk:1.3), (clothes fully intact but completely transparent:1.3), off shoulder, faint blush, glistening skin, looking at viewer, dark background, soft golden rim light, pure and ethereal atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_月纱湿身_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), wet hair, elegant hair ornament, red bindi on forehead, pale skin, water drops on face, (wet translucent white gauze clinging to body:1.4), (soaked sheer white silk:1.3), (wet fabric sticking to skin:1.3), off shoulder, water drops on fabric, gentle smile, looking at viewer, dark background, warm golden rim light on wet fabric, dim lighting, cinematic
+
+阮忘忧_妖娆_月纱湿身_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), wet hair, elegant hair ornament, red bindi on forehead, pale skin, water drops on face, (wet translucent white gauze clinging to body:1.4), (soaked sheer white silk:1.3), (wet fabric sticking to skin:1.3), (nipples clearly visible through wet sheer white fabric:1.4), (areola visible through soaked translucent white silk:1.3), (clothes fully intact but soaked completely transparent:1.3), wet skin glistening, water drops on skin, faint blush, looking at viewer, dark background, warm golden rim light on wet fabric, dim lighting, cinematic
+
+阮忘忧_妖娆_素裳映影_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (single layer of ultra-thin white organza covering upper body:1.4), (sheer white silk so thin it barely conceals:1.3), (body outline visible through translucent white fabric:1.3), standing, front view, gentle smile, looking at viewer, dark background, warm golden backlight tracing body silhouette, dreamy atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_素裳映影_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (single layer of ultra-thin white organza covering upper body:1.4), (sheer white silk so thin it clearly reveals everything through:1.3), (nipples and areola fully visible through translucent white fabric:1.4), (breasts clearly seen through see-through white silk:1.3), (clothes fully intact, no holes, see-through only:1.3), faint blush, glistening skin, looking at viewer, dark background, warm golden backlight tracing body silhouette, dreamy atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_白纱半褪_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, shoulder focus, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent white gauze slipping off one shoulder:1.4), (sheer white silk robe:1.3), (exposed bare shoulder and collarbone:1.3), off shoulder, fabric poised at the edge, holding fabric loosely, shy smile, looking at viewer, dark background, warm golden rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_白纱半褪_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, shoulder focus, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent white gauze slipping off one shoulder:1.4), (sheer white silk robe:1.3), (fabric barely held at elbow:1.3), (one breast visible through translucent white silk:1.3), bare shoulder, heavy blush, glistening skin, looking at viewer, dark background, warm golden rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_薄罗轻绡_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (extremely thin white silk draped loosely over body:1.4), (ultra-sheer white gauze barely covering:1.3), (fabric so light it floats and reveals silhouette:1.3), off shoulder, dreamy smile, looking at viewer, dark background, soft diffuse golden light, dreamy atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_薄罗轻绡_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (extremely thin white silk draped loosely over body:1.4), (ultra-sheer white gauze barely covering:1.3), (nipples clearly visible through floating sheer white fabric:1.4), (areola visible through translucent white silk:1.3), (clothes fully intact but fabric completely transparent:1.3), off shoulder, heavy blush, glistening skin, looking at viewer, dark background, soft diffuse golden light, dreamy atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_素帷仙梦_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (sitting behind white sheer gauze curtain:1.4), (translucent white veil between viewer and subject:1.3), (silhouette faintly visible through layered white mesh:1.3), off shoulder, innocent smile, dark background, warm golden backlight, dreamy atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_素帷仙梦_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (sitting behind white sheer gauze curtain:1.4), (translucent white veil between viewer and subject:1.3), (nude silhouette visible through layered white mesh:1.4), (breasts visible through sheer white curtain:1.3), (fabric fully intact, see-through only:1.3), off shoulder, heavy blush, glistening skin, dark background, warm golden backlight, dreamy atmosphere, dim lighting, cinematic
+
+# ==========================================
+# 紫纱微透 · 紫烟六式（Upper Body 紫纱透肤主题）
+# 设计理念：以紫烟薄纱、紫绡丝绸为核心材质——紫色天生妖冶，紫气东来的祥瑞底色
+#    与薄纱透肤的欲念交织，青蓝发色与紫纱冷暖碰撞，仙王的高贵与妖娆的色气共生
+# 材质核心：translucent purple silk, sheer violet gauze, thin lavender organza, see-through purple fabric
+# 透肤逻辑：衣裳完好无损，纱本身透明 —— 不用 nude/exposed/open clothes，全靠纱薄透色
+# 背景：dark background 纯黑背景 + soft amethyst rim light 紫水晶边缘光勾勒人物轮廓
+# ==========================================
+
+阮忘忧_妖娆_紫纱笼身_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent purple silk robe:1.4), (sheer violet gauze clinging to body:1.3), (body silhouette faintly visible through fabric:1.3), off shoulder, collarbone, seductive smile, half-lidded eyes, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, seductive atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_紫纱笼身_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent purple silk robe:1.4), (sheer violet gauze clinging to body:1.3), (nipples clearly visible through sheer purple fabric:1.4), (areola visible through translucent purple silk:1.3), (clothes fully intact but completely transparent:1.3), off shoulder, heavy blush, glistening skin, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, seductive atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_紫纱半褪_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, shoulder focus, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent purple gauze slipping off one shoulder:1.4), (sheer violet silk robe:1.3), (exposed bare shoulder and collarbone:1.3), off shoulder, fabric poised at the edge, holding fabric loosely, seductive smile, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_紫纱半褪_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, shoulder focus, gigantic breasts, heavy breasts, cleavage, exposed nipples, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent purple gauze slipping off completely:1.4), open clothes, (sheer violet silk robe:1.3), (fabric barely held at elbow:1.3), (one breast visible through sheer purple mesh:1.3), bare shoulders, heavy blush, glistening skin, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_紫烟湿身_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), wet hair, elegant hair ornament, red bindi on forehead, pale skin, water drops on face, (wet translucent purple gauze clinging to body:1.4), (soaked sheer violet silk:1.3), (wet fabric sticking to skin:1.3), off shoulder, water drops on fabric, seductive smile, half-lidded eyes, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light on wet fabric, dim lighting, cinematic
+
+阮忘忧_妖娆_紫烟湿身_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), wet hair, elegant hair ornament, red bindi on forehead, pale skin, water drops on face, (wet translucent purple gauze clinging to body:1.4), (soaked sheer violet silk:1.3), (wet fabric sticking to skin:1.3), (nipples clearly visible through wet sheer purple fabric:1.4), (areola visible through soaked translucent violet silk:1.3), (clothes fully intact but soaked completely transparent:1.3), wet skin glistening, water drops on skin, heavy blush, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light on wet fabric, dim lighting, cinematic
+
+阮忘忧_妖娆_紫裳映影_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (single layer of ultra-thin purple organza covering upper body:1.4), (sheer violet silk so thin it barely conceals:1.3), (body outline visible through translucent purple fabric:1.3), standing, front view, seductive smile, half-lidded eyes, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst backlight tracing body silhouette, seductive atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_紫裳映影_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (single layer of ultra-thin purple organza covering upper body:1.4), (sheer violet silk so thin it clearly reveals everything through:1.3), (nipples and areola fully visible through translucent purple fabric:1.4), (breasts clearly seen through see-through violet silk:1.3), (clothes fully intact, no holes, see-through only:1.3), heavy blush, glistening skin, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst backlight tracing body silhouette, seductive atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_紫霞缠丝_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (arms wrapped in sheer purple silk ribbons:1.4), (translucent violet gauze drapery:1.3), (purple mesh fabric loosely covering body:1.2), off shoulder, upper chest partially visible, seductive smile, half-lidded eyes, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_紫霞缠丝_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, exposed nipples, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (arms wrapped in sheer purple silk ribbons:1.4), (translucent violet gauze drapery loosely draped:1.3), (purple mesh fabric barely covering body:1.2), (breasts partially visible through sheer purple ribbons:1.3), open clothes, bare shoulders, heavy blush, glistening skin, looking at viewer, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, dim lighting, cinematic
+
+阮忘忧_妖娆_紫帷仙梦_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (sitting behind purple sheer gauze curtain:1.4), (translucent violet veil between viewer and subject:1.3), (silhouette faintly visible through layered purple mesh:1.3), off shoulder, mysterious smile, purple theme, amethyst aesthetic, dark background, soft amethyst backlight, dim lighting, cinematic
+
+阮忘忧_妖娆_紫帷仙梦_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, upper body, close up, gigantic breasts, heavy breasts, cleavage, exposed nipples, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (sitting behind purple sheer gauze curtain:1.4), (translucent violet veil between viewer and subject:1.3), (nude silhouette visible through layered purple mesh:1.4), (breasts visible through sheer purple curtain:1.3), (fabric fully intact, see-through only:1.3), off shoulder, heavy blush, glistening skin, purple theme, amethyst aesthetic, dark background, soft amethyst backlight, dim lighting, cinematic
+
+阮忘忧_妖娆_紫纱裹臀_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, (upper body:1.2), (thigh focus:1.1), gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent purple silk dress:1.4), (sheer violet one-piece dress clinging to body:1.3), (thin purple fabric draped over hips:1.3), (buttocks silhouette faintly visible through sheer dress:1.3), off shoulder, standing, front view, seductive smile, half-lidded eyes, looking back at viewer over shoulder, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, seductive atmosphere, dim lighting, cinematic
+
+阮忘忧_妖娆_紫纱裹臀_nsfw:
+  nsfw, nude, exposed nipples, masterpiece, best quality, absurdres, 1girl, solo, (upper body:1.2), (thigh focus:1.1), gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, (translucent purple silk dress:1.4), (sheer violet one-piece dress clinging to body:1.3), (thin purple fabric draped over hips:1.3), (nipples clearly visible through sheer purple fabric:1.4), (areola visible through translucent violet silk:1.3), (buttocks clearly visible through sheer purple dress:1.4), (hips silhouette visible through translucent fabric:1.3), (clothes fully intact but fabric completely transparent:1.3), off shoulder, standing, looking back at viewer over shoulder, seductive smile, half-lidded eyes, heavy blush, glistening skin, purple theme, amethyst aesthetic, dark background, soft amethyst rim light, seductive atmosphere, dim lighting, cinematic
+
+# ==========================================
+# 仙姿微露 · 赤足七式（Full Body 无意露足主题）
+# 设计理念：将构图从 upper body 扩展到 full body 或下半身可见的取景——
+#    浮空、斜倚、坐姿、横卧等自然姿态中，阮忘忧的赤足自然入画，
+#    不加足部特写标签，让裸足随姿态无意间展露，仙气与色气自然交融
+# 核心特征不变：gradient hair teal to light blue、red bindi、pale skin、gigantic breasts
+# 取景：full body, cowboy shot, wide shot —— 避开 upper body/close up
+# 露足逻辑：barefoot 标签 + 全身/大半身取景 = 赤足自然可见，不做 foot focus
+# 背景：starry sky background + ethereal atmosphere + floating
+# ==========================================
+
+阮忘忧_妖娆_浮空横卧_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, full body, gigantic breasts, heavy breasts, cleavage, floating, lying on back, barefoot, bare feet visible, legs slightly bent, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair floating in zero gravity, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves drifting in air, legs visible, feet together, serene closed eyes, peaceful expression, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, floating golden particles, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_浮空横卧_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, masterpiece, best quality, absurdres, 1girl, solo, full body, floating, lying on back, barefoot, bare feet visible, legs slightly parted, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair floating in zero gravity, red bindi on forehead, pale skin, torn white hanfu drifting around body, legs visible, feet visible, bare feet, soft blush, glistening skin, serene closed eyes, peaceful expression, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_云端斜坐_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, full body, gigantic breasts, heavy breasts, cleavage, sitting on cloud, barefoot, bare feet visible, legs extended forward, feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, one hand resting on cloud, gentle smile, looking at viewer, legs visible, bare feet peeking from under hem, soft cloud beneath, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_云端斜坐_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, masterpiece, best quality, absurdres, 1girl, solo, full body, sitting on cloud, barefoot, bare feet visible, legs extended forward, feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, half-open white hanfu draped over shoulders, bare legs, legs visible, bare feet visible, soft blush, glistening skin, seductive smile, looking at viewer, soft cloud beneath, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_浮空蜷膝_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, full body, gigantic breasts, heavy breasts, cleavage, floating in air, barefoot, bare feet visible, legs tucked up, knees drawn to chest, feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair floating, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves wrapping around knees, innocent smile, looking at viewer, legs visible, bare feet tucked together, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_浮空蜷膝_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, masterpiece, best quality, absurdres, 1girl, solo, full body, floating in air, barefoot, bare feet visible, legs tucked up, knees drawn to chest, feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair floating, red bindi on forehead, pale skin, torn white hanfu loosely hanging, bare legs, legs visible, bare feet, soft blush, glistening skin, shy smile, looking at viewer, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_星海仰浮_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, full body, gigantic breasts, heavy breasts, cleavage, floating, lying on stomach, barefoot, bare feet visible, legs bent back, soles of feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair cascading downward, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves drifting, legs visible, feet raised behind, barefoot soles facing upward, playful smile, chin resting on hands, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_星海仰浮_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, masterpiece, best quality, absurdres, 1girl, solo, full body, floating, lying on stomach, barefoot, bare feet visible, legs bent back, soles of feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair cascading downward, red bindi on forehead, pale skin, torn white hanfu slipping off, bare back visible, legs visible, feet raised behind, barefoot soles facing upward, soft blush, glistening skin, playful smile, chin resting on hands, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_回眸垂足_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, cowboy shot, gigantic breasts, heavy breasts, cleavage, standing, from behind, looking back at viewer over shoulder, barefoot, bare feet visible, one foot slightly lifted behind, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, hem trailing, bare feet on ground, feet visible, ankles visible, mysterious smile, half-lidded eyes, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_回眸垂足_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, masterpiece, best quality, absurdres, 1girl, solo, cowboy shot, standing, from behind, looking back at viewer over shoulder, barefoot, bare feet visible, one foot slightly lifted behind, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, white hanfu barely hanging on, half-slipped off shoulders, bare back partially visible, legs visible, bare feet, ankles visible, heavy blush, glistening skin, seductive smile, half-lidded eyes, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_星桥端坐_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, full body, gigantic breasts, heavy breasts, cleavage, sitting on edge, barefoot, bare feet visible, legs dangling over edge, feet hanging freely, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves, sitting on floating starlit platform, gentle smile, looking at viewer, legs visible, bare feet dangling, ankles visible, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_星桥端坐_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, masterpiece, best quality, absurdres, 1girl, solo, full body, sitting on edge, barefoot, bare feet visible, legs dangling over edge, feet hanging freely, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, white hanfu loosely draped, bare legs, legs visible, bare feet dangling, ankles visible, soft blush, glistening skin, seductive smile, looking at viewer, sitting on floating starlit platform, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_虚空斜倚_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, full body, gigantic breasts, heavy breasts, cleavage, floating, leaning back on invisible surface, barefoot, bare feet visible, legs stretched out, one leg bent, feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, elegant hair ornament, red bindi on forehead, pale skin, elegant white and silver hanfu, flowing sleeves draped, bare feet extended, ankles visible, relaxed expression, looking at viewer, ethereal atmosphere, glowing magic runes, time-space distortion effect, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+阮忘忧_妖娆_虚空斜倚_nsfw:
+  nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, cleavage, masterpiece, best quality, absurdres, 1girl, solo, full body, floating, leaning back on invisible surface, barefoot, bare feet visible, legs stretched out, one leg bent, feet visible, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, torn white hanfu partially open, bare legs, bare feet extended, ankles visible, heavy blush, glistening skin, relaxed expression, looking at viewer, ethereal atmosphere, glowing magic runes, starry sky background, painterly, ultra-detailed, 8k, detailed face, detailed eyes, intricate detail
+
+负面提示词:
+  lowres, bad anatomy, bad hands, text, error, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, deformed face, ugly face, bad face, extra fingers, mutated hands, bad eyes, asymmetric eyes, dull eyes, thin waist, unnatural body proportions, (transparent:1.5), (see-through:1.5), (sheer:1.5), (translucent:1.5), (flat chest:1.5), (small breasts:1.5), (medium breasts:1.5), (back tattoo:1.5), (back pattern:1.5), (body painting:1.5), (modern clothes:1.5), (sci-fi:1.5), (red hair:1.3), (black hair:1.3), (straight hair:1.3)

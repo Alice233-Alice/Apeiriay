@@ -1,0 +1,139 @@
+# 沈倩宁生图提示词3 ·「构图与视角」辑
+# 骨架借自婵织烟「添盏」原式，取其四样精髓，服饰与人物锚点换作沈倩宁：
+#   1. 锚点前置固定：发色复合短语 (deep crimson hair with white streaks:1.3)、绯红发带、赤瞳、pale skin、少女骨相五词，每式逐字复用，只换构图与衣装。
+#   2. 表情双轨：SFW 一律 sweet smile + playful expression（甜笑底下藏着猎食者的松弛），不堆媚态词。
+#   3. 零手持硬道具，全靠机位与体态造张力：前倾、支颐、回眸、抱膝、跪坐、倚壁、背手凑近，手部负担轻，出图稳。
+#   4. 衣装只留一句加权标签（:1.3），背景极简纯黑（:1.4）加 simple background，不与人物抢戏。
+# 视角词一律加权 1.3 左右，置于人物锚点之后、衣装之前，模型对机位的响应才稳。
+#
+# NSFW 写法（本辑每式 SFW/NSFW 相邻成组，改动刻意收窄，只动三处）：
+#   1. 前缀：nsfw, nude, exposed nipples, small breasts,（旗袍式单独收敛，只留 nsfw, small breasts,）
+#   2. 表情：甜笑不动，只加权重 (sweet smile:1.2) + bright unselfconscious gaze —— 走生图提示词1的「坦荡越界」路线，
+#      禁媚态、禁半阖眼、禁 heavy blush / sweat / glistening skin（共享负面词已钉死这三项，故一律不写 blush、sweating、damp hair）。
+#   3. 衣装：原句不动，前置 open clothes，再点一处具体的解开动作（sash untied / pankou undone / slipping off one shoulder），
+#      配 bare shoulders / collarbone，衣仍穿在身上，不换背景、不换机位、不换发眸肤锚点 —— SFW 与 NSFW 是同一张牌的正反。
+# 以下提示词皆为虚拟，请勿当真
+
+# ==========================================
+# 第一部分：视角辑（玄红窄袖劲装为底，只换机位）
+# ==========================================
+
+# 一 · 平视近身（基准式 · 微微前倾）
+沈倩宁_平视近身_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, looking at viewer, leaning forward slightly, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_平视近身_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, looking at viewer, leaning forward slightly, open clothes, (dark red and black silk martial outfit:1.3) open front, (sash untied, top loosened by her own hand:1.2), narrow sleeves, bare shoulders, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 二 · 仰视逼近（机位压低，她俯身看你）
+沈倩宁_仰视逼近_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (from below, low angle:1.3), leaning over viewer, looking down at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_仰视逼近_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (from below, low angle:1.3), leaning over viewer, looking down at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (robe hanging open from both shoulders:1.2), (bare chest visible from below:1.2), narrow sleeves, bare shoulders, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 三 · 俯视窥看（机位高悬，她背手仰头，装得乖巧）
+沈倩宁_俯视窥看_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (from above, high angle:1.3), looking up at viewer, hands behind back, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_俯视窥看_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (from above, high angle:1.3), looking up at viewer, hands behind back, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (front parted open with hands still behind her back:1.2), narrow sleeves, bare shoulders, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 四 · 回眸半侧身（背对你，一句轻唤便回头）
+沈倩宁_回眸半侧身_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (from behind, looking back over shoulder:1.3), three-quarter view, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_回眸半侧身_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (from behind, looking back over shoulder:1.3), three-quarter view, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, bare back, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open back, (robe sliding off both shoulders as she turns:1.2), (bare shoulder blades:1.2), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 五 · 侧首垂眸（正侧脸，眼睫压下一线）
+沈倩宁_侧首垂眸_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (profile, from side:1.3), head tilted, looking down, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), pale skin, faint smile, faint crimson glow, (dark red and black silk martial outfit:1.3), narrow sleeves, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_侧首垂眸_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (profile, from side:1.3), head tilted, looking down, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (hair ribbon fluttering:1.1), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), faint smile, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (robe open at the chest, one side slipping from the shoulder:1.2), (side view of bare chest:1.2), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 六 · 近距特写（只余一张脸与一线红）
+沈倩宁_近距特写_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (close-up, portrait:1.3), face focus, looking at viewer, (16 years old:1.3), young girl, (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), faint crimson glow reflecting in eyes, pale skin, sweet smile, playful expression, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_近距特写_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, (close-up, portrait:1.3), face focus, looking at viewer, (16 years old:1.3), young girl, (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), faint crimson glow reflecting in eyes, pale skin, collarbone, bare shoulders, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3), narrow sleeves, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 第二部分：体势辑（坐卧跪立，机位随势而变）
+# ==========================================
+
+# 七 · 支颐踞坐（单膝起，托腮看戏）
+沈倩宁_支颐踞坐_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), (sitting on the ground, one knee raised:1.2), (chin resting on hand, elbow on knee:1.3), from side, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_支颐踞坐_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), (sitting on the ground, one knee raised:1.2), (chin resting on hand, elbow on knee:1.3), from side, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (robe open down the front, one side sliding off the shoulder:1.2), (one bare breast visible from the side:1.1), narrow sleeves, bare shoulders, bare thighs, (bare knee:1.1), faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 八 · 抱膝仰头（小小一团，眼神却亮得凶）
+沈倩宁_抱膝仰头_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), sitting, hugging own knees, knees up, (from below:1.2), looking up at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_抱膝仰头_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), sitting, hugging own knees, knees up, (from below:1.2), looking up at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (robe slipping from the shoulder, breast pressed against the raised knee:1.2), (sideboob:1.2), narrow sleeves, bare shoulders, (bare thighs, bare knees:1.2), faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 九 · 正坐平视（端端正正跪坐，手搁膝上，规矩里藏着算计）
+沈倩宁_正坐平视_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), (seiza, kneeling, hands on thighs:1.3), looking up at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_正坐平视_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), (seiza, kneeling, hands on thighs:1.3), looking up at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (robe hanging open all the way down between the knees:1.2), narrow sleeves, bare shoulders, (bare thighs under the parted hem:1.1), faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 十 · 倚壁斜肩（一侧肩抵石壁，抱臂闲看）
+沈倩宁_倚壁斜肩_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (leaning against wall, shoulder against stone wall:1.3), arms crossed, head tilted, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_倚壁斜肩_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (leaning against wall, shoulder against stone wall:1.3), arms crossed, head tilted, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (robe sliding off one shoulder against the wall:1.2), (sideboob:1.2), narrow sleeves, (one bare shoulder:1.2), faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 十一 · 背手凑近（凑到你眼前，笑得很甜）
+沈倩宁_背手凑近_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (hands behind back, leaning in close:1.3), face close to viewer, (from slightly below:1.1), looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_背手凑近_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (hands behind back, leaning in close:1.3), face close to viewer, (from slightly below:1.1), looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (collar gaping open at the chest:1.2), (bare chest seen from below:1.2), narrow sleeves, bare shoulders, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 十二 · 直立全身（一手按腰，脚跟微离地）
+沈倩宁_直立全身_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (full body:1.3), standing, one hand on hip, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), slender body, (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (dark red and black silk martial outfit:1.3), narrow sleeves, black soft leather boots, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_直立全身_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, (full body:1.3), standing, one hand on hip, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), slender body, (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (dark red and black silk martial outfit:1.3) open front, (robe hanging open from shoulder to hip, sash untied:1.3), narrow sleeves, bare shoulders, bare legs, (bare thighs:1.1), black soft leather boots, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# ==========================================
+# 第三部分：衣装换位（构图定死，只换那一件衣裳）
+# ==========================================
+
+# 十三 · 雪峰梅氅 × 回眸（氅影半落，雪肩与梅枝同断于锁骨）
+沈倩宁_雪峰梅氅_回眸_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (from behind, looking back over shoulder:1.2), looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (moon-white wide-sleeved silk overcoat:1.3), (ink-wash crimson plum branch across shoulder to chest:1.2), (coat slipping off one shoulder:1.2), bare collarbone, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_雪峰梅氅_回眸_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (from behind, looking back over shoulder:1.2), looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, bare back, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (moon-white wide-sleeved silk overcoat:1.3), (coat slipping off both shoulders, white silk pooling at her elbows:1.3), (ink-wash crimson plum branch across the slipped fabric:1.2), bare shoulders, bare collarbone, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 十四 · 璎珞飞天 × 仰视（飘带自高处垂下，她低头看你）
+沈倩宁_璎珞飞天_仰视_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (from below:1.3), looking down at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (classical xianxia fairy silk costume:1.3), (half-shoulder draped ivory silk:1.2), (flowing translucent celestial scarves:1.2), (gold beaded necklace:1.1), faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_璎珞飞天_仰视_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (from below:1.3), looking down at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (classical xianxia fairy silk costume:1.3), (ivory silk slipping off both shoulders:1.3), (gold beaded necklace resting between her breasts:1.2), (celestial scarves trailing down from above:1.2), bare shoulders, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 十五 · 赤瓷胎衣 × 俯视（自上而下，白釉上那一道血釉最显）
+沈倩宁_赤瓷胎衣_俯视_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (from above:1.2), looking up at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (ivory-white silk robe with porcelain glaze texture:1.3), (deep oxblood red flambe glaze bleeding from collar and sleeves:1.3), faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_赤瓷胎衣_俯视_nsfw:
+  nsfw, nude, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (from above:1.2), looking up at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, open clothes, (ivory-white silk robe with porcelain glaze texture:1.3), (robe parted open from the collarbone down:1.3), (deep oxblood red flambe glaze bleeding along the parted fabric:1.3), bare shoulders, faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+# 十六 · 玄缎血珀旗袍 × 侧坐叠腿（正侧机位，立领盘扣一丝不苟）
+沈倩宁_玄缎血珀旗袍_侧坐_sfw:
+  dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), (sitting on the edge of a low couch, one leg crossed over the other:1.2), from side, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, (black silk qipao, cheongsam:1.3), (mandarin collar:1.2), (blood-red pankou frog buttons:1.2), (high side slit:1.1), (soft satin sheen:1.1), faint crimson glow, (plain black background, solid black background:1.4), simple background
+
+沈倩宁_玄缎血珀旗袍_侧坐_nsfw:
+  nsfw, small breasts, dark fantasy, moody lighting, 1girl, solo, (cowboy shot:1.2), (sitting on the edge of a low couch, one leg crossed over the other:1.2), from side, looking at viewer, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, collarbone, (sweet smile:1.2), playful expression, bright unselfconscious gaze, (black silk qipao, cheongsam:1.3), (top pankou buttons undone, mandarin collar open showing the collarbone:1.3), (diagonal front parted a hand's width at the chest:1.2), (blood-red pankou frog buttons:1.2), (high side slit opened wider along the outer thigh:1.2), (one bare thigh exposed through the slit:1.2), (soft satin sheen:1.1), faint crimson glow, (plain black background, solid black background:1.4), simple background

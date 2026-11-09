@@ -1,0 +1,129 @@
+keys: [当前地域宗门, 动态宗门地域]
+selective: true
+order: 95
+
+content: |-
+  <%_
+  const currentRegionEsj = (() => {
+    const currentRegion = String(getvar('stat_data.本尊.行踪.当前区域', { defaults: '' }) || '').trim();
+    const currentLayer = String(getvar('stat_data.本尊.行踪.所属层级', { defaults: '' }) || '').trim();
+    const navigationInfo = String(getvar('stat_data.本尊.行踪.导航信息', { defaults: '' }) || '').trim();
+    const identityFaction = String(getvar('stat_data.本尊.身份.宗门', { defaults: '' }) || '').trim();
+    const currentSituation = String(getvar('stat_data.当前处境', { defaults: '' }) || '').trim();
+    const derivedDomainName = String(getvar('__sect_prompt_state.domain', { defaults: '' }) || getvar('stat_data.$宗门推断.当前域', { defaults: '' }) || '').trim();
+    const derivedFactionName = String(getvar('__sect_prompt_state.faction', { defaults: '' }) || getvar('stat_data.$宗门推断.当前主势力', { defaults: '' }) || '').trim();
+    const directCtx = `${currentRegion} ${currentLayer}`;
+
+    const domains = [
+      {
+        name: '神州',
+        aliases: ['神州', '中州', '皇城', '问道峰', '剑门关', '龙门瀑布'],
+        theme: '秩序森严，因果分明，凡俗王权与仙道并立相争。',
+        factions: ['大夏仙朝', '忘机剑庐', '太虚蜃楼', '万象森罗坊', '千机诡市', '九幽炼魂宗'],
+        style: '重规矩、重立场、重身份来历；恩怨往往牵扯法统与气运。',
+        risk: '易卷入天机、王法、交易因果、黑市情报与正统之争。'
+      },
+      {
+        name: '东苍',
+        aliases: ['东苍', '建木', '青帝陵', '百花秘境', '龙眠海'],
+        theme: '生机浩瀚而宿命深重，最讲枯荣、生死与天命轮转。',
+        factions: ['苍木龙吟阁', '灵枢百草谷', '浮云朝露阁', '镜花水月庵'],
+        style: '外柔内异，常以悲悯口吻行极端之举，温和表象下多藏非常道德观。',
+        risk: '易卷入地脉、灵植、医毒、妖修、鼎炉采补与宿命抉择。'
+      },
+      {
+        name: '南炎',
+        aliases: ['南炎', '不灭火山', '地火窟', '涅槃台', '离火宫'],
+        theme: '火性炽烈，崇尚焚毁、淬炼、重铸与向死而生。',
+        factions: ['昭明破阵宗', '大冶天工炉', '劫灰神祠', '渊火灵族', '蚀月血海宗'],
+        style: '少阴谋，多极端；焚身证道，熔炉祭器，行事常比言语更决绝。',
+        risk: '易卷入祭火、炼器、血勇试炼、血脉掠夺与失控爆裂。'
+      },
+      {
+        name: '西庚',
+        aliases: ['西庚', '万剑古冢', '庚金矿脉', '白虎天堑', '潮音海'],
+        theme: '金煞横空，尚杀伐、军阵、矿脉与铁血悲悯。',
+        factions: ['藏锋敛锷山庄', '折戟沉沙谷', '太白杀生冢', '无生剑派', '尸骨浮屠塔', '琼轮垂曜宫'],
+        style: '讲效率、讲代价、讲硬骨头；嘴上少废话，手里多见真章。',
+        risk: '易卷入矿脉、战阵、旧战场、尸骸争夺、情报暗流与以杀止乱的抉择。'
+      },
+      {
+        name: '北冥与幽界',
+        aliases: ['北冥', '玄冰山', '冥海', '鲛人', '玄武', '归墟海眼', '黄泉', '忘川', '奈何桥', '冥河'],
+        theme: '冥水沉重，玄冰横海，生死交界处轮回法度与寂灭之力交织并存。',
+        factions: ['坐忘冥海阁', '泣珠幻海庭', '渡厄幽帆', '彼岸提灯人', '无间轮回道', '忘川风月楼'],
+        style: '一半讲法度，一半卖欲念；表面寂静克制，实则人人盯着深海航路、轮回法度与来世去处。',
+        risk: '易卷入海眼异动、鲛歌幻境、过河代价、轮回幻境与前世债主找上门。'
+      }
+    ];
+
+    const factions = [
+      { name: '大夏仙朝', domain: '神州', aliases: ['大夏', '仙朝', '皇城', '朝廷'] },
+      { name: '忘机剑庐', domain: '神州', aliases: ['剑庐', '问剑', '剑门', '古剑'] },
+      { name: '太虚蜃楼', domain: '神州', aliases: ['蜃楼', '天机', '推演', '命盘'] },
+      { name: '万象森罗坊', domain: '神州', aliases: ['森罗坊', '坊市', '黑市', '交易'] },
+      { name: '千机诡市', domain: '神州', aliases: ['千机', '诡市', '情报', '暗杀'] },
+      { name: '九幽炼魂宗', domain: '神州', aliases: ['九幽', '炼魂', '万魂幡', '魂魄'] },
+      { name: '苍木龙吟阁', domain: '东苍', aliases: ['龙吟阁', '建木', '青帝陵'] },
+      { name: '灵枢百草谷', domain: '东苍', aliases: ['百草谷', '药谷', '灵圃', '丹房'] },
+      { name: '浮云朝露阁', domain: '东苍', aliases: ['朝露阁', '浮岛', '歌宴', '雅集'] },
+      { name: '镜花水月庵', domain: '东苍', aliases: ['镜花', '水月庵', '采补', '鼎炉'] },
+      { name: '昭明破阵宗', domain: '南炎', aliases: ['昭明破阵宗', '昭明', '破阵宗', '烈火枪芒', '破阵枪阵'] },
+      { name: '大冶天工炉', domain: '南炎', aliases: ['天工炉', '熔炉', '器坊', '铸器'] },
+      { name: '劫灰神祠', domain: '南炎', aliases: ['神祠', '劫灰', '祭火', '焚身'] },
+      { name: '渊火灵族', domain: '南炎', aliases: ['火灵', '岩浆', '炎灵', '熔岩'] },
+      { name: '蚀月血海宗', domain: '南炎', aliases: ['血海宗', '蚀月', '化血', '吞噬'] },
+      { name: '藏锋敛锷山庄', domain: '西庚', aliases: ['山庄', '矿脉', '庚金', '铸锋'] },
+      { name: '折戟沉沙谷', domain: '西庚', aliases: ['沉沙谷', '战阵', '军阵', '兵戈'] },
+      { name: '太白杀生冢', domain: '西庚', aliases: ['杀生冢', '万剑古冢', '白虎', '杀伐'] },
+      { name: '无生剑派', domain: '西庚', aliases: ['无生', '剑派', '杀戮', '疯剑'] },
+      { name: '尸骨浮屠塔', domain: '西庚', aliases: ['浮屠塔', '尸骨', '炼尸', '换骨'] },
+      { name: '琼轮垂曜宫', domain: '西庚', aliases: ['琼轮', '垂曜宫', '月光', '月下行者', '女帝'] },
+      { name: '坐忘冥海阁', domain: '北冥与幽界', aliases: ['冥海阁', '静海', '冰海'] },
+      { name: '泣珠幻海庭', domain: '北冥与幽界', aliases: ['幻海庭', '鲛人', '泣珠', '旧梦'] },
+      { name: '渡厄幽帆', domain: '北冥与幽界', aliases: ['幽帆', '渡口', '摆渡'] },
+      { name: '彼岸提灯人', domain: '北冥与幽界', aliases: ['提灯人', '彼岸', '引魂', '黄泉路'] },
+      { name: '无间轮回道', domain: '北冥与幽界', aliases: ['无间', '轮回', '业火', '救赎'] },
+      { name: '忘川风月楼', domain: '北冥与幽界', aliases: ['风月楼', '忘川', '销金窟', '孟婆汤'] }
+    ];
+
+    const matchDomainByText = (text) => {
+      if (!text) return null;
+      return domains.find((item) => [item.name, ...item.aliases].some((alias) => text.indexOf(alias) !== -1)) || null;
+    };
+    const matchFactionByText = (text) => {
+      if (!text) return null;
+      return factions.find((item) => [item.name, ...item.aliases].some((alias) => text.indexOf(alias) !== -1)) || null;
+    };
+
+    const focusTexts = [
+      identityFaction,
+      currentSituation,
+      navigationInfo,
+      directCtx,
+      derivedFactionName,
+    ].filter(Boolean);
+    const focus = focusTexts.map(matchFactionByText).find(Boolean) || null;
+    const domain =
+      (focus ? domains.find((item) => item.name === focus.domain) : null) ||
+      matchDomainByText(currentSituation) ||
+      matchDomainByText(navigationInfo) ||
+      matchDomainByText(directCtx) ||
+      domains.find((item) => item.name === derivedDomainName);
+    const orderedFactions =
+      domain
+        ? (focus && focus.domain === domain.name
+            ? [focus.name, ...domain.factions.filter((name) => name !== focus.name)]
+            : domain.factions)
+        : [];
+
+    return { domain, focus, orderedFactions };
+  })();
+  _%>
+  【当前地域宗门】
+  - 所在：<%= currentRegionEsj.domain ? currentRegionEsj.domain.name : '未明之地' _%>
+  - 大势：<%= currentRegionEsj.domain ? currentRegionEsj.domain.theme : '此地宗门气象未显，宜先辨地界、护地势力与地脉属性。' _%>
+  - 当前焦点：<%= currentRegionEsj.focus && currentRegionEsj.domain && currentRegionEsj.focus.domain === currentRegionEsj.domain.name ? `${currentRegionEsj.focus.name}，此地线索已明显偏向这一脉。` : '暂无单一宗门压过全场，先按地域格局理解。' _%>
+  - 活跃势力：<%= currentRegionEsj.orderedFactions.length ? currentRegionEsj.orderedFactions.join('、') : '未明' _%>
+  - 行事共性：<%= currentRegionEsj.domain ? currentRegionEsj.domain.style : '先看谁占山门、谁掌灵脉、谁握本地话语权。' _%>
+  - 易生冲突：<%= currentRegionEsj.domain ? currentRegionEsj.domain.risk : '多半仍绕不过机缘、旧怨、地脉与利益之争。' _%>

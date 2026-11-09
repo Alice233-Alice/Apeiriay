@@ -1,0 +1,320 @@
+keys: [当前主势力, 动态宗门主势力]
+selective: true
+order: 96
+
+content: |-
+  <%_
+  const currentFactionEsj = (() => {
+    const currentRegion = String(getvar('stat_data.本尊.行踪.当前区域', { defaults: '' }) || '').trim();
+    const currentLayer = String(getvar('stat_data.本尊.行踪.所属层级', { defaults: '' }) || '').trim();
+    const navigationInfo = String(getvar('stat_data.本尊.行踪.导航信息', { defaults: '' }) || '').trim();
+    const identityFaction = String(getvar('stat_data.本尊.身份.宗门', { defaults: '' }) || '').trim();
+    const currentSituation = String(getvar('stat_data.当前处境', { defaults: '' }) || '').trim();
+    const derivedDomainName = String(getvar('__sect_prompt_state.domain', { defaults: '' }) || getvar('stat_data.$宗门推断.当前域', { defaults: '' }) || '').trim();
+    const derivedFactionName = String(getvar('__sect_prompt_state.faction', { defaults: '' }) || getvar('stat_data.$宗门推断.当前主势力', { defaults: '' }) || '').trim();
+    const directCtx = `${currentRegion} ${currentLayer}`;
+
+    const domains = [
+      { name: '神州', aliases: ['神州', '中州', '皇城', '问道峰', '剑门关', '龙门瀑布'] },
+      { name: '东苍', aliases: ['东苍', '建木', '青帝陵', '百花秘境', '龙眠海'] },
+      { name: '南炎', aliases: ['南炎', '不灭火山', '地火窟', '涅槃台', '离火宫'] },
+      { name: '西庚', aliases: ['西庚', '万剑古冢', '庚金矿脉', '白虎天堑', '潮音海'] },
+      { name: '北冥与幽界', aliases: ['北冥', '玄冰山', '冥海', '鲛人', '玄武', '归墟海眼', '黄泉', '忘川', '奈何桥', '冥河'] }
+    ];
+    const matchDomainByText = (text) => {
+      if (!text) return null;
+      return domains.find((item) => [item.name, ...item.aliases].some((alias) => text.indexOf(alias) !== -1)) || null;
+    };
+
+    const factions = [
+      {
+        name: '大夏仙朝',
+        domain: '神州',
+        aliases: ['大夏', '仙朝', '皇城', '朝廷'],
+        doctrine: '人道统天，以王法束仙道。',
+        attitude: '最先审视来历、立场、是否扰乱秩序。',
+        reaction: '若你守规矩且有用，便可借势；若触法统与皇威，多半立成钉子户。',
+        hook: '常与律法、气运、镇压宗门、官修体系有关。'
+      },
+      {
+        name: '忘机剑庐',
+        domain: '神州',
+        aliases: ['剑庐', '问剑', '剑门', '古剑'],
+        doctrine: '大道至简，剑心通明。',
+        attitude: '重心性与骨气，不喜巧言滑舌。',
+        reaction: '若你行事干净、敢扛后果，易得尊重；若心术不正，则常被一剑断言。',
+        hook: '常与问剑、护道、名节与剑修道统相关。'
+      },
+      {
+        name: '太虚蜃楼',
+        domain: '神州',
+        aliases: ['蜃楼', '天机', '推演', '命盘'],
+        doctrine: '观命而不沾命，补全而不偏私。',
+        attitude: '外冷内算，鲜少直接表态。',
+        reaction: '若你身负大因果，他们会远观、记录、点醒，却未必替你出手。',
+        hook: '常与泄露天机、补全命数、历史旁观有关。'
+      },
+      {
+        name: '万象森罗坊',
+        domain: '神州',
+        aliases: ['森罗坊', '坊市', '黑市', '交易'],
+        doctrine: '万物皆可估价，因果亦可明码。',
+        attitude: '表面最和气，实则最精算。',
+        reaction: '若你拿得出筹码，他们什么都谈；若空手求情，多半只得温柔拒绝。',
+        hook: '常与寿元、记忆、情报、法宝与因果交易有关。'
+      },
+      {
+        name: '千机诡市',
+        domain: '神州',
+        aliases: ['千机', '诡市', '情报', '暗杀'],
+        doctrine: '真相最贵，人心可售。',
+        attitude: '笑里藏刀，永远在评估你的价值。',
+        reaction: '若你有秘密，他们出价；若你有弱点，他们收账。',
+        hook: '常与情报、暗杀、黑市、人心算计有关。'
+      },
+      {
+        name: '九幽炼魂宗',
+        domain: '神州',
+        aliases: ['九幽', '炼魂', '万魂幡', '魂魄'],
+        doctrine: '魂即大道，万灵为薪。',
+        attitude: '阴毒狠绝，视正道修士如待炼之材。',
+        reaction: '若你神魂特异，他们会不择手段拘你入幡。',
+        hook: '常与抽魂、炼幡、怨力、阴毒算计有关。'
+      },
+      {
+        name: '苍木龙吟阁',
+        domain: '东苍',
+        aliases: ['龙吟阁', '建木', '青帝陵'],
+        doctrine: '枯荣轮替，顺天守脉。',
+        attitude: '看似慈和，实则一切先问地脉与天命。',
+        reaction: '若你契合东苍生机，他们愿援手；若你逆地脉而行，便是旧识也可斩。',
+        hook: '常与陵寝、地脉、妖修、生死循环有关。'
+      },
+      {
+        name: '灵枢百草谷',
+        domain: '东苍',
+        aliases: ['百草谷', '药谷', '灵圃', '丹房'],
+        doctrine: '医毒本一，众生等价。',
+        attitude: '能救也能试，温声细语时往往最危险。',
+        reaction: '若你有稀罕体质与灵材，他们会格外上心；是救是试，全看当下所求。',
+        hook: '常与丹毒、灵植、续命、人体试法有关。'
+      },
+      {
+        name: '浮云朝露阁',
+        domain: '东苍',
+        aliases: ['朝露阁', '浮岛', '歌宴', '雅集'],
+        doctrine: '朝生暮死，故当极尽华彩。',
+        attitude: '最浪漫，也最疯。',
+        reaction: '若你有趣，他们会待你如上宾；若你无趣，连死亡都不配登台。',
+        hook: '常与盛宴、艺术、坠岛、极乐与虚无有关。'
+      },
+      {
+        name: '镜花水月庵',
+        domain: '东苍',
+        aliases: ['镜花', '水月庵', '采补', '鼎炉'],
+        doctrine: '色相为舟，采补为阶。',
+        attitude: '外清内毒，最擅柔刀子。',
+        reaction: '若你可采可用，笑脸极美；若你识破其局，杀机也最先从枕边起。',
+        hook: '常与色诱、鼎炉、反噬、情欲算计有关。'
+      },
+      {
+        name: '昭明破阵宗',
+        domain: '南炎',
+        aliases: ['昭明破阵宗', '昭明', '破阵宗', '烈火枪芒', '破阵枪阵'],
+        doctrine: '昭明大义，破阵无悔。',
+        attitude: '最重锋芒与担当，见妖邪祸世时往往第一个提枪上前。',
+        reaction: '若你同道而行、敢迎正面厮杀，他们极易将你视作并肩袍泽；若你临阵退缩、坐视生灵受难，也最容易被他们当场看轻。',
+        hook: '常与枪阵冲阵、斩妖除魔、护民死战与烈火正气有关。'
+      },
+      {
+        name: '大冶天工炉',
+        domain: '南炎',
+        aliases: ['天工炉', '熔炉', '器坊', '铸器'],
+        doctrine: '器重于人，匠心即道。',
+        attitude: '先看材料与价值，再看情面。',
+        reaction: '若你身怀奇材异火，他们极肯结交；若挡其铸器，亲友也能投炉。',
+        hook: '常与神兵、祭器、异火、熔炼献祭有关。'
+      },
+      {
+        name: '劫灰神祠',
+        domain: '南炎',
+        aliases: ['神祠', '劫灰', '祭火', '焚身'],
+        doctrine: '破而后立，向死方生。',
+        attitude: '寡言苦修，视苦痛如净化。',
+        reaction: '若你肯吃苦、肯舍旧我，他们或许认你；若只图安逸，便被视作庸弱。',
+        hook: '常与焚身试道、净罪、火祭与重塑有关。'
+      },
+      {
+        name: '渊火灵族',
+        domain: '南炎',
+        aliases: ['火灵', '岩浆', '炎灵', '熔岩'],
+        doctrine: '火意纯粹，喜怒皆烈。',
+        attitude: '不工心计，情绪与杀意都极直接。',
+        reaction: '若他们认可你，便会以最炽烈方式亲近；若厌你，也常当场翻脸。',
+        hook: '常与血勇、火灵契合、爆燃冲突有关。'
+      },
+      {
+        name: '蚀月血海宗',
+        domain: '南炎',
+        aliases: ['血海宗', '蚀月', '化血', '吞噬'],
+        doctrine: '血脉提纯，弱者尽食。',
+        attitude: '掠夺性极强，不大讲道理。',
+        reaction: '若你血脉特殊，他们不会与你论交情，只会评估吞不吞得下。',
+        hook: '常与化血潜伏、吞噬、精血狩猎有关。'
+      },
+      {
+        name: '藏锋敛锷山庄',
+        domain: '西庚',
+        aliases: ['山庄', '矿脉', '庚金', '铸锋'],
+        doctrine: '财可通神，锋芒藏骨。',
+        attitude: '先礼后压，先价后杀。',
+        reaction: '若你有钱有矿有本事，一切好说；若既无筹码又挡生意，他们翻脸比出价更快。',
+        hook: '常与矿脉、财路、兵器、资源垄断有关。'
+      },
+      {
+        name: '折戟沉沙谷',
+        domain: '西庚',
+        aliases: ['沉沙谷', '战阵', '军阵', '兵戈'],
+        doctrine: '军阵如一，抹我成势。',
+        attitude: '最重服从、秩序、执行。',
+        reaction: '若你扰阵坏令，他们不会多言，直接碾过去；若你能融入阵势，便会被当成战友齿轮。',
+        hook: '常与军阵围杀、战场遗迹、集体意志有关。'
+      },
+      {
+        name: '太白杀生冢',
+        domain: '西庚',
+        aliases: ['杀生冢', '万剑古冢', '白虎', '杀伐'],
+        doctrine: '杀生护生，以罪止乱。',
+        attitude: '冷硬而悲悯，最厌空谈仁义。',
+        reaction: '若你敢担血债、能分是非，他们未必为敌；若假仁假义，则极招轻蔑。',
+        hook: '常与追杀、护生、血债、诵经杀人有关。'
+      },
+      {
+        name: '无生剑派',
+        domain: '西庚',
+        aliases: ['无生', '剑派', '杀戮', '疯剑'],
+        doctrine: '存在即罪，杀尽方空。',
+        attitude: '疯癫嗜血，毫无底线。',
+        reaction: '不分正邪，遇活物便拔剑，是忘机剑庐最想斩除的死敌。',
+        hook: '常与无差别杀戮、剑疯、毁灭有关。'
+      },
+      {
+        name: '尸骨浮屠塔',
+        domain: '西庚',
+        aliases: ['浮屠塔', '尸骨', '炼尸', '换骨'],
+        doctrine: '万物皆材，尸骨亦可飞升。',
+        attitude: '冷到近乎无视生死伦理。',
+        reaction: '若你尸骸有价，他们看你与看法宝并无太大差别。',
+        hook: '常与尸改、拼骨、邪器、人身材料有关。'
+      },
+      {
+        name: '琼轮垂曜宫',
+        domain: '西庚',
+        aliases: ['琼轮', '垂曜宫', '月光', '月下行者', '女帝'],
+        doctrine: '月照万象，情报即权柄。',
+        attitude: '威仪天成，公正不偏却不容冒犯。',
+        reaction: '若你掌情报或身负大秘，他们会以月光为网拢你入局；若你挡其谍路，裁决无声而至。',
+        hook: '常与情报暗流、月光暗桩、女帝裁决有关。'
+      },
+      {
+        name: '坐忘冥海阁',
+        domain: '北冥与幽界',
+        aliases: ['冥海阁', '静海', '冰海'],
+        doctrine: '万物归静，动极则崩。',
+        attitude: '平素近乎无声，一动便是倾覆。',
+        reaction: '若你不惊其静，他们懒得理你；若惊其道场，反击往往慢而致命。',
+        hook: '常与冻结、静海、封镇与长久对峙有关。'
+      },
+      {
+        name: '泣珠幻海庭',
+        domain: '北冥与幽界',
+        aliases: ['幻海庭', '鲛人', '泣珠', '旧梦'],
+        doctrine: '沉湎旧梦，以幻重塑繁华。',
+        attitude: '美而哀，柔而绝。',
+        reaction: '若你心有执念，他们极易将你拖入幻境；若你看破旧梦，反会触其逆鳞。',
+        hook: '常与幻术、亡故旧人、歌声诱杀有关。'
+      },
+      {
+        name: '渡厄幽帆',
+        domain: '北冥与幽界',
+        aliases: ['幽帆', '渡口', '摆渡'],
+        doctrine: '生死契阔，渡厄必偿。',
+        attitude: '寡言、公平、绝不白渡。',
+        reaction: '若你真要过河，先想清自己最舍不得什么；他们不抢，只收代价。',
+        hook: '常与摆渡、过河、典当记忆与天赋有关。'
+      },
+      {
+        name: '彼岸提灯人',
+        domain: '北冥与幽界',
+        aliases: ['提灯人', '彼岸', '引魂', '黄泉路'],
+        doctrine: '该归者归，该断者断。',
+        attitude: '口气温柔，法度极冷。',
+        reaction: '若你顺生死法，他们多半只是旁观；若你强改天命，他们会立时来收账。',
+        hook: '常与引魂、守界、锁魂、逆天改命有关。'
+      },
+      {
+        name: '无间轮回道',
+        domain: '北冥与幽界',
+        aliases: ['无间', '轮回', '业火', '救赎'],
+        doctrine: '视死为渡，视苦为救。',
+        attitude: '圣洁中透着癫狂。',
+        reaction: '若你动摇痛苦，他们会想"帮你解脱"；若你心志坚决，才有资格与其辩道。',
+        hook: '常与殉道、轮回、极端慈悲有关。'
+      },
+      {
+        name: '忘川风月楼',
+        domain: '北冥与幽界',
+        aliases: ['风月楼', '忘川', '销金窟', '孟婆汤'],
+        doctrine: '前尘皆梦，体验可售。',
+        attitude: '最会取悦人，也最会掏空人。',
+        reaction: '若你心有执念，他们有的是办法让你买单；越舍不得，越容易留下价码。',
+        hook: '常与记忆抵押、虚假圆满、黄泉交易有关。'
+      }
+    ];
+
+    const matchFactionByText = (text) => {
+      if (!text) return null;
+      return factions.find((item) => [item.name, ...item.aliases].some((alias) => text.indexOf(alias) !== -1)) || null;
+    };
+
+    const explicitFaction = [identityFaction, currentSituation, navigationInfo, directCtx]
+      .map(matchFactionByText)
+      .find(Boolean) || null;
+
+    const domain =
+      (explicitFaction ? domains.find((item) => item.name === explicitFaction.domain) : null) ||
+      matchDomainByText(currentSituation) ||
+      matchDomainByText(navigationInfo) ||
+      matchDomainByText(directCtx) ||
+      domains.find((item) => item.name === derivedDomainName);
+
+    const factionTexts = [
+      identityFaction,
+      currentSituation,
+      navigationInfo,
+      directCtx,
+      derivedFactionName,
+    ].filter(Boolean);
+
+    let faction = factionTexts.map(matchFactionByText).find(Boolean) || null;
+
+    if (!faction && domain) {
+      const defaultByDomain = {
+        '神州': '忘机剑庐',
+        '东苍': '苍木龙吟阁',
+        '南炎': '昭明破阵宗',
+        '西庚': '藏锋敛锷山庄',
+        '北冥与幽界': '坐忘冥海阁'
+      };
+      faction = factions.find((item) => item.name === defaultByDomain[domain.name]) || null;
+    }
+
+    return { faction };
+  })();
+  _%>
+  【当前最易卷入之势力】
+  - 宗门：<%= currentFactionEsj.faction ? currentFactionEsj.faction.name : '未明势力' _%>
+  - 道统：<%= currentFactionEsj.faction ? currentFactionEsj.faction.doctrine : '宜先辨其占地、立场与生意。' _%>
+  - 待人：<%= currentFactionEsj.faction ? currentFactionEsj.faction.attitude : '先看你值不值得交涉，再看是敌是友。' _%>
+  - 反应：<%= currentFactionEsj.faction ? currentFactionEsj.faction.reaction : '宗门反应多半取决于你动了谁的利益、颜面或因果。' _%>
+  - 戏点：<%= currentFactionEsj.faction ? currentFactionEsj.faction.hook : '大概率绕不过资源、秘境、面子与旧怨。' _%>

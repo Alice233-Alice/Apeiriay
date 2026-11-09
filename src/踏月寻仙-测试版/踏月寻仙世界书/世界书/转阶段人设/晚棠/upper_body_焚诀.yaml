@@ -1,0 +1,100 @@
+# ==========================================
+# 焚诀 · 上半身色气生图模板（Upper Body 通用公式）
+# ==========================================
+#
+# 【用法】
+#   - 将下文 `{变量}` 替换为对应红颜的特征
+#   - 色气核心：情境自然催生（水湿、风拂、睡乱、初醒），不写刻意媚态
+#   - 表情灵魂：innocent expression 保纯真底色，色气由此反差而生
+#
+# 【变量速查】
+#   {年龄}      如 16 years old
+#   {体型}      如 slender body, small breasts
+#   {发色}      如 silver grey hair
+#   {发型}      如 long hair, messy hair, hair over one eye
+#   {发饰}      如 dark jade hairpin
+#   {眼瞳}      如 heterochromia, purple left eye, grey right eye
+#   {肤色}      如 pale skin
+#   {表情}      如 innocent expression, blank stare
+#   {衣饰}      如 black and purple sheer dress, off shoulder
+#   {饰品}      如 bronze bell on waist
+#   {体纹}      如 purple vein marks on right hand
+#   {氛围色}    如 purple glow, purple mist
+#   {氛围物}    如 dark lotus petals
+#
+# 【sfw/nsfw 版本差异速查】
+#   sfw: 不写 nude/exposed 标签，衣饰为穿着且微微滑落
+#   nsfw: nude, small breasts, exposed nipples; sfw衣饰改为 open clothes / half-slipped / torn + see-through
+
+# ==========================================
+# 焚诀一：锁骨幽影（Collarbone Focus）
+# 色气来源：薄纱滑落露出锁骨与肩线，水滴在锁骨窝中盈盈停留
+# ==========================================
+
+锁骨幽影_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, {体型}, upper body, close up, collarbone focus, {发色}, {发型}, {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, ({衣饰}:1.2), off shoulder, (dress slipped down revealing bare shoulders and collarbone:1.4), (deep collarbone shadows:1.3), water drop sliding down collarbone, looking at viewer, dark background, {氛围色}, dim lighting, cinematic
+
+锁骨幽影_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, (soft slender body:1.2), upper body, close up, nude, small breasts, exposed nipples, {发色}, {发型}, {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, (soft smooth chest:1.3), water drop sliding between breasts, (erect nipples:1.2), glistening skin, looking at viewer, faint blush, dark background, {氛围色}, dim lighting, cinematic
+
+# ==========================================
+# 焚诀二：湿发贴颈（Wet Hair Clinging to Neck）
+# 色气来源：湿发紧贴颈侧与锁骨，水珠沿下颌滴落，发饰微斜，少女浑然未察
+# ==========================================
+
+湿发贴颈_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, {体型}, upper body, close up, neck and shoulder focus, {发色}, {发型}, (wet hair clinging to neck and shoulders:1.4), {发饰} tucked in wet hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, ({衣饰} soaked:1.3), off shoulder, wet fabric sticking to shoulders, water drops on face and neck, looking at viewer, dark background, {氛围色}, dim lighting, cinematic
+
+湿发贴颈_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, (soft slender body:1.2), upper body, close up, neck and shoulder focus, nude, small breasts, exposed nipples, {发色}, {发型}, (wet hair clinging to neck and bare shoulders:1.4), {发饰} tucked in wet hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, water drops on face and neck, water drop sliding between breasts, (wet skin glistening:1.3), looking at viewer, faint blush, dark background, {氛围色}, dim lighting, cinematic
+
+# ==========================================
+# 焚诀三：肩纱轻坠（Slipping Off Shoulder）
+# 色气来源：薄纱正从一侧肩头缓缓滑落的瞬间——肩胛微露，单边锁骨尽显
+# ==========================================
+
+肩纱轻坠_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, {体型}, upper body, close up, shoulder focus, side profile, {发色}, {发型}, {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, ({衣饰} slipping off one shoulder:1.4), off shoulder, (exposed bare shoulder blade:1.3), fabric poised at the edge, looking to the side, dark background, {氛围色} tracing shoulders, dim lighting, cinematic
+
+肩纱轻坠_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, (soft slender body:1.2), upper body, close up, shoulder focus, side profile, nude, small breasts, exposed side boob, exposed nipples, {发色}, {发型}, {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, ({衣饰} slipping off completely:1.4), open clothes, (fabric barely held at elbow:1.3), (exposed bare shoulder and side breast:1.3), looking to the side, faint blush, dark background, {氛围色} tracing shoulders, dim lighting, cinematic
+
+# ==========================================
+# 焚诀四：含指忘言（Fingertips on Lips）
+# 色气来源：懵懂中以指尖轻触下唇——少女不知此态何等撩人
+# ==========================================
+
+含指忘言_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, {体型}, upper body, close up, face focus, hand focus, {发色}, {发型}, {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, (fingertips resting on lower lip:1.3), slightly parted lips, ({衣饰}:1.2), off shoulder, upper chest visible, looking at viewer, dark background, {氛围色}, dim lighting, cinematic
+
+含指忘言_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, (soft slender body:1.2), upper body, close up, face focus, hand focus, nude, small breasts, exposed nipples, {发色}, {发型}, {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, (fingertips resting on lower lip:1.3), slightly parted lips, wet lips, (another hand resting on chest between breasts:1.3), glistening skin, looking at viewer, faint blush, dark background, {氛围色}, dim lighting, cinematic
+
+# ==========================================
+# 焚诀五：拂发侧颈（Hair Gathered to One Side）
+# 色气来源：双手将长发拢到一侧，将纤细颈线完全暴露，举手间衣料滑过手臂
+# ==========================================
+
+拂发侧颈_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, {体型}, upper body, close up, neck focus, {发色}, {发型}, (hair gathered to one side exposing neck:1.4), {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, (hands gathering hair:1.3), ({衣饰}:1.2), off shoulder, (exposed delicate neck and upper back:1.3), looking to the side, dark background, soft {氛围色} rim light on neck, dim lighting, cinematic
+
+拂发侧颈_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, (soft slender body:1.2), upper body, close up, neck focus, nude, small breasts, exposed nipples visible from side, {发色}, {发型}, (hair gathered to one side exposing neck:1.4), {发饰} in messy hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, {肤色}, {表情}, (hands gathering hair:1.3), (exposed delicate neck and bare back:1.3), looking to the side, faint blush, dark background, soft {氛围色} rim light on neck, dim lighting, cinematic
+
+# ==========================================
+# 焚诀六：初醒迷蒙（Just Waking Up）
+# 色气来源：刚从睡梦中坐起，纱衣凌乱几近滑落，睡眼惺忪、表情涣散的瞬间
+# ==========================================
+
+初醒迷蒙_sfw:
+  masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, {体型}, upper body, close up, just waking up, sitting up, {发色}, {发型}, messy bed hair, {发饰} askew in bed hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, half-lidded eyes, drowsy expression, {肤色}, ({衣饰} extremely disheveled:1.3), off shoulder, (dress almost falling off:1.3), one breast nearly exposed, looking at viewer sleepily, dark bed, {氛围色} morning light, dim lighting, cinematic
+
+初醒迷蒙_nsfw:
+  nsfw, masterpiece, best quality, absurdres, 1girl, solo, ({年龄}), young girl, teenager, (soft slender body:1.2), upper body, close up, just waking up, sitting up, nude, small breasts, exposed nipples, (erect nipples:1.2), {发色}, {发型}, messy bed hair, {发饰} askew in bed hair, (detailed eyes:1.2), {眼瞳}, beautiful detailed eyes, half-lidded eyes, drowsy expression, {肤色}, ({衣饰} completely fallen to waist:1.3), open clothes, upper body completely bare, looking at viewer sleepily, faint blush, dark bed, {氛围色} morning light, dim lighting, cinematic
+
+# ==========================================
+# 负面提示词（通用，无需替换）
+# ==========================================
+
+负面提示词:
+  lowres, bad anatomy, bad hands, text, error, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, deformed face, ugly face, bad face, extra fingers, mutated hands, white dress, light colored clothing, smoke from mouth, fog on face, bad eyes, asymmetric eyes, dull eyes, prominent sternum, visible ribcage, visible bones, skeletal, bony chest, protruding bones, ribcage, skinny, anorexic, emaciated, malnourished

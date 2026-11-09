@@ -1,0 +1,49 @@
+# ==========================================
+# 定制古风服饰 - 扩展三（素色三套）
+# 包含：月华诃子裙（唐齐胸）、霜雪褙子（宋对襟）、鲛绡纱衣（半透明薄纱）
+# 设计理念：素色极简，纯色背景，聚焦服饰剪裁与身体曲线，以包裹、敞开、透纱三种层次制造色气
+# 清纯形态统一纯白背景（温婉含蓄），妖娆形态统一纯黑背景（妖媚压迫）
+# ==========================================
+
+# --- 清纯形态 (Pure Form, medium breasts, plain white background) ---
+
+阮忘忧_清纯_月华诃子裙_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, (white chest wrap dress:1.3), (tang dynasty hanfu:1.2), thin shoulder straps, exposed collarbone, bare shoulders, long flowing sleeves, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_月华诃子裙_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, half-slipped (white chest wrap dress:1.3), one strap fallen, bare breasts, long flowing sleeves, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_霜雪褙子_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair bun, red bindi on forehead, pale skin, (white beizi jacket:1.3), (song dynasty hanfu:1.2), open front jacket, thin silk inner top, modest, elegant, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_霜雪褙子_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair bun, red bindi on forehead, pale skin, half-open (white beizi jacket:1.3), inner top slipping, bare shoulders, sideboob, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_鲛绡纱衣_sfw:
+ 1girl, solo, upper body, medium breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, (sheer white silk robe:1.3), translucent fabric, (skin visible through fabric:1.2), floating light veil, modest, ethereal, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_清纯_鲛绡纱衣_nsfw:
+ nsfw, nude, exposed nipples, medium breasts, blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, (sheer white silk robe:1.3), fully translucent, nipples visible through fabric, body visible through sheer fabric, gentle smile, looking at viewer, plain white background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+# --- 妖娆形态 (Alluring Form, gigantic breasts, plain black background) ---
+
+阮忘忧_妖娆_月华诃子裙_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, (deep cleavage:1.3), breasts pushed up, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, (black chest wrap dress:1.3), (tang dynasty hanfu:1.2), thin shoulder straps, deep neckline, exposed collarbone, bare shoulders, long flowing sleeves, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_月华诃子裙_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, (deep cleavage:1.3), breasts pushed up, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, half-slipped (black chest wrap dress:1.3), one strap fallen, bare breasts, long flowing sleeves, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_霜雪褙子_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, cleavage, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair bun, red bindi on forehead, pale skin, (black beizi jacket:1.3), (song dynasty hanfu:1.2), open front jacket stretched by heavy breasts, thin silk inner top, sideboob, elegant yet suggestive, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_霜雪褙子_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, underboob, sideboob, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), hair bun, red bindi on forehead, pale skin, wide open (black beizi jacket:1.3), inner top fallen, bare breasts, gentle yet tempting, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_鲛绡纱衣_sfw:
+ 1girl, solo, upper body, gigantic breasts, heavy breasts, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, (sheer black silk robe:1.3), translucent fabric, clinging to curves, (breasts outline visible through fabric:1.2), seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+阮忘忧_妖娆_鲛绡纱衣_nsfw:
+ nsfw, nude, exposed nipples, gigantic breasts, heavy breasts, heavy blush, (gradient hair:1.3), (teal hair fading to light blue:1.4), flowing hair, red bindi on forehead, pale skin, (sheer black silk robe:1.3), clinging to curves, nipples visible through fabric, body visible through sheer fabric, seductive smile, looking at viewer, plain black background, soft lighting, masterpiece, best quality, absurdres, detailed face
+
+负面提示词:
+ lowres, bad anatomy, bad hands, missing fingers, extra fingers, mutated hands, text, error, jpeg artifacts, signature, watermark, blurry, deformed face, ugly face, bad face, bad eyes, asymmetric eyes, dull eyes, worst quality, low quality, complex forehead mark, forehead tattoo, huadian

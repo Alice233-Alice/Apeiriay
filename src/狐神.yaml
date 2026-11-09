@@ -1,0 +1,52 @@
+```
+<body>
+<script>
+(function () {
+  const statusUrl =
+    'https://gcore.jsdelivr.net/gh/Alice233-Alice/Apeiria@main/灯火通明/index.html';
+
+  const imageProxy = 'https://images.weserv.nl/?url=';
+
+  function rewriteImage(image) {
+    try {
+      const url = new URL(image.getAttribute('src'), location.href);
+
+      // 只代理 Cloudflare R2 图片
+      if (!url.hostname.endsWith('.r2.dev')) return;
+
+      image.removeAttribute('srcset');
+      image.src = imageProxy + encodeURIComponent(url.href);
+    } catch (error) {
+      // 忽略无效图片地址
+    }
+  }
+
+  function install() {
+    document.querySelectorAll('img').forEach(rewriteImage);
+
+    const observer = new MutationObserver(records => {
+      records.forEach(record => {
+        record.addedNodes.forEach(node => {
+          if (!(node instanceof HTMLElement)) return;
+
+          if (node.matches('img')) {
+            rewriteImage(node);
+          }
+
+          node.querySelectorAll?.('img').forEach(rewriteImage);
+        });
+      });
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true,
+    });
+  }
+
+  $('body').load(statusUrl, install);
+})();
+</script>
+</body>
+```
+

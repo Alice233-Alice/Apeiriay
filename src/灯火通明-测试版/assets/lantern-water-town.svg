@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" preserveAspectRatio="none">
+  <defs>
+    <filter id="lampGlow" x="-500%" y="-500%" width="1000%" height="1000%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <linearGradient id="house" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#17343d" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#03121a" stop-opacity=".86"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#164657" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0b3442" stop-opacity=".32"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#7aa5a4" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#7aa5a4" stop-opacity=".09"/>
+      <stop offset=".8" stop-color="#7aa5a4" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#7aa5a4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 两岸只占边缘，中央留给正文。 -->
+  <g fill="url(#house)" stroke="#ba9159" stroke-linejoin="round">
+    <path d="M0 800V455H38V398L101 348L167 401V484H224V431L278 389L331 432V800Z" stroke-width="3" stroke-opacity=".28"/>
+    <path d="M1268 800V448H1320V386L1388 329L1460 389V463H1511V414L1558 374L1600 408V800Z" stroke-width="3" stroke-opacity=".3"/>
+  </g>
+  <g fill="none" stroke="#d1a463" stroke-linecap="round" opacity=".25">
+    <path d="M31 399h139M79 367l22-19 23 19M223 432h109M1304 387h158M1360 353l28-24 29 24M1511 415h89" stroke-width="3"/>
+    <path d="M54 458v201M112 405v254M188 484v177M247 432v229M1302 448v214M1356 387v274M1432 389v272M1531 414v247" stroke-width="2"/>
+  </g>
+
+  <!-- 河桥与远岸压在下沿，不穿过文字。 -->
+  <path d="M316 672C481 656 523 584 662 580C798 576 857 650 1012 665" fill="none" stroke="#557f84" stroke-width="7" opacity=".17"/>
+  <path d="M365 672C501 663 544 610 663 607C782 604 836 657 965 668" fill="none" stroke="#c39a61" stroke-width="2" opacity=".24"/>
+  <path d="M0 584C235 557 382 604 571 580C761 555 930 607 1120 579C1311 551 1460 578 1600 552V800H0Z" fill="url(#water)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M0 620C242 591 399 640 603 614C814 588 989 640 1195 608C1368 581 1492 596 1600 580" stroke="#4b8490" stroke-width="3" opacity=".17"/>
+    <path d="M55 690C284 660 473 711 680 684C889 657 1087 705 1289 675C1415 656 1519 664 1600 651" stroke="#326d7d" stroke-width="2" opacity=".2"/>
+    <path d="M0 744C274 718 502 757 744 736C997 714 1236 752 1454 724C1512 717 1563 716 1600 712" stroke="#295b6b" stroke-width="2" opacity=".18"/>
+  </g>
+  <path d="M105 566C337 537 530 563 736 544C963 523 1195 557 1496 516" fill="none" stroke="url(#mist)" stroke-width="42" opacity=".5"/>
+
+  <!-- 疏灯与倒影。 -->
+  <g fill="#efb762">
+    <circle cx="101" cy="457" r="4"/><circle cx="274" cy="492" r="3.5"/>
+    <circle cx="1329" cy="452" r="4"/><circle cx="1457" cy="428" r="4.5"/><circle cx="1557" cy="469" r="3.5"/>
+    <circle cx="465" cy="601" r="2.5" opacity=".55"/><circle cx="1118" cy="593" r="2.5" opacity=".5"/>
+  </g>
+  <g fill="#edaa4e" filter="url(#lampGlow)" opacity=".55">
+    <circle cx="101" cy="457" r="18"/><circle cx="274" cy="492" r="15"/>
+    <circle cx="1329" cy="452" r="18"/><circle cx="1457" cy="428" r="20"/><circle cx="1557" cy="469" r="15"/>
+  </g>
+  <g fill="none" stroke="#d99b48" stroke-linecap="round">
+    <path d="M101 466l-8 228M101 466l10 183M274 500l-7 157M1329 460l-9 211M1457 437l10 238M1557 477l-5 175" stroke-width="5" opacity=".08"/>
+    <path d="M101 466l2 194M274 500l2 144M1329 460l3 188M1457 437l3 214M1557 477l2 155" stroke-width="2" opacity=".2"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+变量输出格式:
+  rule:
+    - 回复末尾必须且只能输出一个 <UpdateVariable>，内部固定为 <Analysis> 与 <JSONPatch> 两段
+    - <Analysis> 用不超过 80 字的中文概括实际 patch；修炼只写修为±N、阶段、突破成败或等级±1，不写派生境界名
+    - <JSONPatch> 必须是合法 JSON 数组；op 仅限 replace、delta、insert、remove，path 必须是以 / 开头的 JSON Pointer
+    - replace、delta、insert 必须带 value；remove 不带 value。键名与字符串用双引号，禁止注释、单引号、尾逗号或伪代码
+    - 仅输出本轮必要变化；同一路径不得冲突，不得同时 replace 父路径又修改其子路径
+    - 输出前按《变量更新规则》复核时间、行踪、处境、机遇、任务、库存、灵石、修炼、关系、战斗与渡劫；Analysis 不得出现无对应 patch 的变化
+    - /当前处境 与 /可参与机遇 只能整项 replace；机遇项只能含 行动、类型、可选提示，不足时允许 1 项或 []
+  format: |-
+    <UpdateVariable>
+    <Analysis>时辰推进|行踪变化|灵石-20|获得青玉丹|处境与机遇更新</Analysis>
+    <JSONPatch>[
+      {"op":"replace","path":"/世界时钟/时辰","value":"午时"},
+      {"op":"replace","path":"/本尊/行踪/所属层级","value":"东苍"},
+      {"op":"replace","path":"/本尊/行踪/当前区域","value":"东苍·幽暗秘境·石室"},
+      {"op":"delta","path":"/本尊/灵石","value":-20},
+      {"op":"insert","path":"/本尊/背包/青玉丹","value":{"名称":"青玉丹","数量":1,"描述":"用于稳固灵力"}},
+      {"op":"replace","path":"/当前处境","value":"已进入幽暗秘境石室，周围灵压异常且退路尚未确认。"},
+      {"op":"replace","path":"/可参与机遇","value":[
+        {"行动":"沿墙查看阵纹走向，寻找灵压源头与安全退路。","类型":"探索","提示":"可能触发残阵"},
+        {"行动":"借石室灵气短暂调息，先稳住紊乱气息。","类型":"修炼"}
+      ]}
+    ]</JSONPatch>
+    </UpdateVariable>

@@ -1,0 +1,336 @@
+/* These styles live inside the map's ShadowRoot; the Tavern UI keeps its own theme. */
+:host {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+}
+.atlas-shell {
+  min-height: 0;
+  min-width: 0;
+  outline: none;
+}
+.toolbar {
+  position: relative;
+  flex-wrap: nowrap;
+  height: 42px;
+  padding: 0 16px;
+  gap: 14px;
+}
+.brand small,
+.brand,
+.separator,
+.chapter,
+.download,
+.interaction-hint,
+.intro {
+  display: none !important;
+}
+.brand strong {
+  font-size: 17px;
+}
+.brand-mark {
+  width: 23px;
+  height: 23px;
+}
+.layer-controls {
+  gap: 5px;
+}
+.layer-controls button {
+  height: 29px;
+  padding: 0 9px;
+}
+.atlas-sidebar {
+  flex: 0 0 240px;
+  width: 240px;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  border-left: 1px solid #b4a17c40;
+  background: linear-gradient(165deg, #173332, #0c222b 65%);
+}
+.atlas-overview {
+  padding: 24px 18px;
+}
+.atlas-overview > h2 {
+  margin: 18px 0 10px;
+  font:
+    26px 'KaiTi',
+    serif;
+  letter-spacing: 4px;
+  color: #e0ca9b;
+}
+.atlas-overview > small {
+  color: #9fb4a4;
+  font-size: 11px;
+  letter-spacing: 1px;
+}
+.atlas-overview > p {
+  color: #91a99d;
+  font-size: 12px;
+  line-height: 1.9;
+  margin-top: 20px;
+}
+.overview-rule {
+  height: 1px;
+  margin: 26px 0;
+  background: linear-gradient(90deg, #b4a17c60, transparent);
+}
+.atlas-sidebar:has(.detail:not([hidden])) .atlas-overview {
+  display: none;
+}
+.atlas-sidebar .detail,
+.atlas-sidebar :is(.underworld, .sky) .detail {
+  position: relative;
+  inset: auto;
+  flex: none;
+  width: 100%;
+  max-height: none;
+  min-height: 0;
+  border: 0;
+  border-radius: 0;
+  padding: 20px 18px;
+  box-shadow: none;
+  background: transparent;
+  backdrop-filter: none;
+}
+.detail::before {
+  display: none;
+}
+.detail h1 {
+  font-size: 26px;
+}
+.detail p {
+  margin: 14px 0;
+}
+.detail dl {
+  gap: 9px 12px;
+}
+.detail-foot {
+  gap: 8px;
+}
+.network-key {
+  position: static;
+  width: auto;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+.network-key h2 {
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+.network-key button {
+  flex-wrap: wrap;
+  gap: 7px;
+  font-size: 12px;
+  padding: 12px 0;
+}
+.network-key button span {
+  flex: 1 0 calc(100% - 20px);
+  min-width: 0;
+  margin-left: 20px;
+  font-size: 10px;
+}
+.network-key p {
+  font-size: 10px;
+  line-height: 1.9;
+}
+#atlas > .cartography-annotation {
+  display: none;
+}
+.underworld #atlas > .annotation {
+  display: none;
+}
+.passage-key {
+  display: grid;
+  justify-items: center;
+  gap: 16px;
+  color: #b0bdae;
+  padding: 4px 0;
+  font-size: 12px;
+}
+.passage-key strong {
+  font:
+    19px 'KaiTi',
+    serif;
+  letter-spacing: 3px;
+  color: #ddc8a0;
+}
+.passage-key i {
+  font-style: normal;
+  font-size: 10px;
+  color: #a48cae;
+}
+.embedded-atlas:not(.underworld, .sky)
+  #atlas.compact-overview
+  :is(.minor-label, .region-sub, .capital-name, .portal text) {
+  display: none;
+}
+#atlas .capital-name {
+  font-weight: 600;
+  stroke-width: 3px;
+}
+#atlas .region-sub {
+  font-size: 10px;
+}
+.zoom-controls {
+  left: 15px;
+  bottom: 14px;
+}
+.sky-navigation {
+  padding: 4px 12px;
+}
+.sky-navigation button {
+  padding: 5px 12px;
+}
+.traveler-pin {
+  pointer-events: none;
+}
+.traveler-pin text {
+  font:
+    11px 'Microsoft YaHei',
+    sans-serif;
+  fill: #e3f7df;
+  stroke: #0a2928;
+  stroke-width: 3px;
+  paint-order: stroke;
+}
+.traveler-pin circle {
+  vector-effect: non-scaling-stroke;
+}
+.traveler-pin .pin-estimate {
+  display: none;
+  fill: #d4b577;
+  fill-opacity: 0.06;
+  stroke: #d4b577;
+  stroke-opacity: 0.7;
+  stroke-width: 1;
+  stroke-dasharray: 2 4;
+}
+.traveler-pin.is-estimated .pin-estimate {
+  display: inline;
+}
+.traveler-pin.is-estimated text {
+  fill: #eddbaf;
+}
+@media (max-width: 800px) {
+  .brand {
+    display: none;
+  }
+  .toolbar {
+    padding: 0 10px;
+    gap: 8px;
+  }
+  .realm-switch {
+    margin-left: 0;
+  }
+}
+@media (max-width: 600px) {
+  .toolbar {
+    height: 42px;
+    min-height: 42px;
+    padding: 4px 10px;
+    gap: 6px;
+    flex-wrap: nowrap;
+  }
+  .realm-switch {
+    width: auto;
+    flex: 1;
+    justify-content: center;
+    padding: 1px;
+  }
+  .realm-switch a {
+    flex: 1;
+    text-align: center;
+    padding: 4px;
+  }
+  .layer-controls {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 8px;
+    width: max-content;
+    max-width: calc(100% - 16px);
+    padding: 9px;
+    background: #112e32;
+    border: 1px solid #b4a17c60;
+    box-shadow: 0 8px 20px #06181c80;
+  }
+  .layer-controls button {
+    height: 32px;
+    font-size: 10px;
+    padding: 0 4px;
+  }
+  .stage {
+    flex-direction: column;
+  }
+  .atlas-sidebar {
+    flex: 0 1 auto;
+    width: 100%;
+    max-height: 38%;
+    min-height: 0;
+    border-left: 0;
+    border-top: 1px solid #b4a17c55;
+  }
+  .atlas-sidebar .detail {
+    padding: 12px 16px;
+  }
+  .detail-top {
+    margin-bottom: 8px;
+  }
+  .detail h1 {
+    font-size: 22px;
+  }
+  .network-key h2 {
+    font-size: 11px;
+  }
+  .network-key button {
+    font-size: 9px;
+  }
+  .zoom-controls {
+    left: 10px;
+    bottom: 10px;
+  }
+  .zoom-controls button {
+    height: 30px;
+    width: 32px;
+  }
+}
+.layer-menu-button {
+  display: none;
+  height: 30px;
+  padding: 0 12px;
+  border: 1px solid #a8ab8850;
+  border-radius: 3px;
+  background: #b7a98212;
+  color: #d2c49e;
+  font-size: 11px;
+}
+@media (max-width: 600px) {
+  .layer-menu-button {
+    display: block;
+  }
+  .layer-menu-open .layer-controls {
+    display: flex;
+  }
+}
+@media (min-width: 601px) {
+  .stage,
+  :is(.underworld, .sky) .stage {
+    flex-direction: row;
+  }
+}
+@media (min-width: 601px) and (max-width: 1100px) {
+  .atlas-sidebar {
+    flex-basis: 220px;
+    width: 220px;
+  }
+}
+@media (max-width: 800px) {
+  .atlas-sidebar:not(:has(.detail:not([hidden]))) {
+    display: none;
+  }
+}

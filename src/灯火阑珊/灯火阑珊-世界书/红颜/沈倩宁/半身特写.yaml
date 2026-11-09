@@ -1,0 +1,16 @@
+# 沈倩宁生图提示词 (Illustrious 底模适配，danbooru 标签风格)
+# 核心特征：16岁魔道小少女、血珀殷红长发带霜白挑染（deep crimson hair with white streaks）、赤瞳、苍白瓷面、甜而危险的癫狂笑意、玄红窄袖劲装、绯红发带
+# 设计理念：真性无伪的蚀月血海宗魔女，幼态少女身量与猎食者的松弛并存，笑意越甜下手越狠
+# 编写原则：精简聚焦，每式 SFW/NSFW 配套，发色采用已实测成功的复合短语句式，风格词用 dark fantasy + moody lighting
+# ⚠️ 发色写法：一律 (deep crimson hair with white streaks:1.3)
+#    复合短语句式，主色嵌入短语内、挑染作附属修饰，模型不会把白抬成主体（实测成功，与朔璃鸢黑发白挑染同原理）
+#    禁止 fading 渐变句式（红白 fading 模型渲染不稳，易出黑红或白主体），禁止把发色拆成独立标签
+# ⚠️ 少女感：一律带 (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2)，负面词钉死 mature 系标签
+# ⚠️ NSFW：坦荡越界路线，衣带自己解、笑仍甜疯；禁 heavy blush / glistening skin / 半阖媚眼等油腻套路
+# 以下提示词皆为虚拟，请勿当真
+
+半身特写_sfw:
+  dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, sweet smile, playful expression, looking at viewer, (dark red and black martial outfit:1.3), narrow sleeves, black choker, dark background, faint crimson glow
+
+半身特写_nsfw:
+  nsfw, nude, exposed nipples, small breasts, dark fantasy, moody lighting, 1girl, solo, upper body, (16 years old:1.3), young girl, (petite:1.3), (round face:1.3), (big eyes:1.2), (deep crimson hair with white streaks:1.3), long hair, messy bangs, (crimson hair ribbon:1.2), (glossy red eyes:1.2), pale skin, (sweet smile:1.2), playful expression, looking up at viewer, (dark red and black martial outfit:1.3), open clothes, untied sash, bare shoulders, exposed collarbone, black choker, dark background, faint crimson glow
