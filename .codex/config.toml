@@ -1,0 +1,11 @@
+[mcp_servers.browsermcp]
+command = "pnpx"
+args = ["@browsermcp/mcp"]
+
+[mcp_servers.chrome-devtools]
+enabled = true
+command = "cmd"
+args = ["/d", "/c", "npx", "-y", "chrome-devtools-mcp@latest", "--autoConnect", "--no-usage-statistics", "--no-performance-crux"]
+env = { SystemRoot = 'C:\Windows', PROGRAMFILES = 'C:\Program Files' }
+startup_timeout_sec = 60
+tool_timeout_sec = 120

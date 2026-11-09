@@ -1,4 +1,12 @@
 .github/workflows
+.github/scripts
+.github/.templatesyncignore
 @types
 dist
 README.md
+src
+assets
+AGENTS.override.md
+.codex
+.vscode/launch.json
+迁移与更新说明.md

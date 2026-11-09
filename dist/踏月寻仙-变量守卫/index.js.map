@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","mappings":"AAAAA,EAAE,KACAC,QAAQC,KAAK","sources":["src://tavern_helper_template/src/踏月寻仙-变量守卫/index.ts"],"sourcesContent":["$(() => {\n  console.info('[踏月寻仙] 独立变量守卫已停用；变量由 MVU 与 Schema 正常更新');\n});\n"],"names":["$","console","info"],"sourceRoot":""}

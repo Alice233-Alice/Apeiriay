@@ -1,0 +1,18 @@
+{
+  "formatVersion": 1,
+  "repository": "Alice233-Alice/Apeiriay",
+  "realms": {
+    "surface": {
+      "file": "surface.0f5dafd31615ea434949.atlas",
+      "integrity": "sha256-D12v0xYV6kNJSeVB1z+kS1ktWZtdF3yFzBHFlxIaivQ="
+    },
+    "underworld": {
+      "file": "underworld.5adb03eef4a20e5b6ba1.atlas",
+      "integrity": "sha256-WtsD7vSiDltroSayJ1TZJHiWDJheV16TgcrlZxmKe8I="
+    },
+    "sky": {
+      "file": "sky.0b7c73d283fc199c7029.atlas",
+      "integrity": "sha256-C3xz0oP8GZxwKYxPEJeTGGbEQ8Z1jg99hBe4Js5bfmE="
+    }
+  }
+}

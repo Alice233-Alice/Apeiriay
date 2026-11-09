@@ -11,6 +11,10 @@ permissions:
   pull-requests: write
   repository-projects: read
 
+concurrency:
+  group: sync-template-main
+  cancel-in-progress: false
+
 jobs:
   sync_template:
     if: github.repository != 'StageDog/tavern_helper_template'
@@ -19,12 +23,52 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: AndreasAugustin/actions-template-sync@v2
+          ref: main
+      - name: Record the project version before synchronization
+        id: base
+        run: |
+          git config merge.ours.driver true
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Prepare template updates
+        uses: AndreasAugustin/actions-template-sync@v2
         with:
           source_repo_path: StageDog/tavern_helper_template
+          source_branch: main
+          upstream_branch: main
+          steps: prechecks,pull
           pr_title: '[bot] 同步模板仓库的更新'
           pr_commit_msg: '[bot] bump template repository update'
-          is_pr_cleanup: true
+          is_pr_cleanup: false
           template_sync_ignore_file_path: .github/.templatesyncignore
-          is_force_deletion: true
-          git_remote_pull_params: --allow-unrelated-histories --strategy=recursive --no-edit -X diff-algorithm=minimal -X ignore-all-space -X patience -X renormalize
+          is_force_deletion: false
+          git_remote_pull_params: --allow-unrelated-histories --no-rebase --no-commit --no-ff --strategy=ort --no-edit -X ignore-all-space -X renormalize
+      - name: Restore project-owned paths before checking the update
+        env:
+          TEMPLATE_BASE_SHA: ${{ steps.base.outputs.sha }}
+        run: |
+          git show "$TEMPLATE_BASE_SHA:.github/.templatesyncignore" > "$RUNNER_TEMP/template-sync-protected-paths.txt"
+          while IFS= read -r protected_path; do
+            if [[ -z "$protected_path" || "$protected_path" == \#* ]]; then continue; fi
+            existing_paths=$(git ls-tree -r --name-only "$TEMPLATE_BASE_SHA" -- "$protected_path")
+            if [[ -n "$existing_paths" ]]; then
+              git restore --source="$TEMPLATE_BASE_SHA" --staged --worktree -- "$protected_path"
+            fi
+          done < "$RUNNER_TEMP/template-sync-protected-paths.txt"
+      - name: Check source preservation and merge conflicts
+        id: validate
+        env:
+          TEMPLATE_BASE_SHA: ${{ steps.base.outputs.sha }}
+        run: node .github/scripts/check-template-sync.cjs
+      - name: Submit checked updates for manual review
+        if: steps.validate.outputs.changed == 'true'
+        uses: AndreasAugustin/actions-template-sync@v2
+        with:
+          source_repo_path: StageDog/tavern_helper_template
+          source_branch: main
+          upstream_branch: main
+          steps: commit,push,pr
+          pr_title: '[bot] 同步模板仓库的更新'
+          pr_commit_msg: '[bot] bump template repository update'
+          is_pr_cleanup: false
+          template_sync_ignore_file_path: .github/.templatesyncignore
+          is_force_deletion: false
